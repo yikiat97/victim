@@ -1,0 +1,1327 @@
+﻿CaseNo,ShooterLastName,ShooterFirstName,Date,VictimName,Age,Genders,Races,KnowShooter,IfKnownRelationship,Relationship,LifeExpectancy,YearsLost,Age Group
+1,Whitman,Charles,8/1/1966,"Kathleen ""Kathy"" Whitman",23,Female,White,Yes,wife,Romantic Partner,72.2,49.2,20-29
+1,Whitman,Charles,8/1/1966,Margaret Whitman,43,Female,White,Yes,mother,Family Member,48.7,5.7,40-49
+1,Whitman,Charles,8/1/1966,"Martin ""Mark"" Gabour",16,Male,Latinx,No Evidence,NA,No Relationship,65.6,49.6,10-19
+1,Whitman,Charles,8/1/1966,Marguerite Lamport,45,Female,White,No Evidence,NA,No Relationship,48.7,3.7,40-49
+1,Whitman,Charles,8/1/1966,Edna Elizabeth Townsley,51,Female,White,Likely,employee on campus,Teacher/Classmate,48.7,0,50-59
+1,Whitman,Charles,8/1/1966,Thomas Frederick Eckman,18,Male,White,Likely,student,Teacher/Classmate,66.5,48.5,10-19
+1,Whitman,Charles,8/1/1966,Robert Hamilton Boyer,33,Male,White,Likely,visiting professor,Teacher/Classmate,66.5,33.5,30-39
+1,Whitman,Charles,8/1/1966,Thomas Aquinas Ashton,22,Male,White,Likely,student,Teacher/Classmate,66.5,44.5,20-29
+1,Whitman,Charles,8/1/1966,Karen Griffith,17,Female,White,No Evidence,NA,No Relationship,72.2,55.2,10-19
+1,Whitman,Charles,8/1/1966,Thomas Ray Karr,24,Male,White,Likely,student,Teacher/Classmate,66.5,42.5,20-29
+1,Whitman,Charles,8/1/1966,Claudia Rutt,18,Female,White,No Evidence,NA,No Relationship,72.2,54.2,10-19
+1,Whitman,Charles,8/1/1966,Paul Bolton Sonntag,18,Male,White,No Evidence,NA,No Relationship,66.5,48.5,10-19
+1,Whitman,Charles,8/1/1966,Billy Paul Speed,24,Male,White,No Evidence,NA,No Relationship,66.5,42.5,20-29
+1,Whitman,Charles,8/1/1966,Roy Dell Schmidt,29,Male,White,No Evidence,NA,No Relationship,66.5,37.5,20-29
+1,Whitman,Charles,8/1/1966,Harry Walchuk,38,Male,White,Likely,student,Teacher/Classmate,66.5,28.5,30-39
+2,Smith,Robert,11/12/1966,Joyce Sellers,27,Female,White,No Evidence,NA,No Relationship,72.2,45.2,20-29
+2,Smith,Robert,11/12/1966,Debra Sellers,3,Female,White,No Evidence,NA,No Relationship,72.2,69.2,0-9
+2,Smith,Robert,11/12/1966,Glenda Carter,18,Female,White,No Evidence,NA,No Relationship,72.2,54.2,10-19
+2,Smith,Robert,11/12/1966,Mary Olsen,18,Female,White,No Evidence,NA,No Relationship,72.2,54.2,10-19
+2,Smith,Robert,11/12/1966,Carol Farmer,19,Female,White,No Evidence,NA,No Relationship,72.2,53.2,10-19
+3,Held,Leo,10/23/67,Allen E. Barrett Jr.,44,Male,White,Yes,coworker,Co-worker/Supervisor,46.6,2.6,40-49
+3,Held,Leo,10/23/67,Richard Davenport,32,Male,White,Yes,coworker,Co-worker/Supervisor,66.5,34.5,30-39
+3,Held,Leo,10/23/67,Donald V. Walden,31,Male,White,Yes,coworker,Co-worker/Supervisor,66.5,35.5,30-39
+3,Held,Leo,10/23/67,Carmen H. Edwards,62,Male,White,Yes,supervisor,Co-worker/Supervisor,46.6,0,60-69
+3,Held,Leo,10/23/67,Elmer Weaver,37,Male,White,Yes,coworker,Co-worker/Supervisor,66.5,29.5,30-39
+3,Held,Leo,10/23/67,Floyd Quiggle,27,Male,White,Yes,neighbor,Other known,66.5,39.5,20-29
+4,Pearson,Eric,3/16/68,Vienna Gustafson,41,Female,White,Yes,neighbor,Other known,72.2,31.2,40-49
+4,Pearson,Eric,3/16/68,Raymond Hautala,49,Male,White,Yes,owned a service station that Pearson picked up orders from,Other known,46.6,0,40-49
+4,Pearson,Eric,3/16/68,Sally Johnson,61,Female,White,Likely,neighbor's mother,Other known,48.7,0,60-69
+4,Pearson,Eric,3/16/68,Rudolph Maurin,56,Male,White,Yes,romantic rival,Co-worker/Supervisor,46.6,0,50-59
+4,Pearson,Eric,3/16/68,Helvi Puisto (Mrs. Axel Puisto),47,Female,,No Evidence,NA,No Relationship,48.3,1.3,40-49
+4,Pearson,Eric,3/16/68,Katherine Rigoni,59,Female,White,No Evidence,NA,No Relationship,48.7,0,50-59
+4,Pearson,Eric,3/16/68,Daniel Weiss,67,Male,White,No Evidence,NA,No Relationship,78.1,11.1,60-69
+5,Lambright,Donald,4/5/1969,Ignatius Keenan,50,Male,,No Evidence,NA,No Relationship,46.3,0,50-59
+5,Lambright,Donald,4/5/1969,Ruby Keenan,51,Female,,No Evidence,NA,No Relationship,48.3,0,50-59
+5,Lambright,Donald,4/5/1969,Annette Lambright,31,Female,Black,Yes,wife,Romantic Partner,62.9,31.9,30-39
+5,Lambright,Donald,4/5/1969,Vincent Saitta,32,Male,,No Evidence,NA,No Relationship,65.6,33.6,30-39
+6,White,Joseph,9/23/70,Sandra L Peters,24,Female,White,Yes,coworker,Co-worker/Supervisor,72.2,48.2,20-29
+6,White,Joseph,9/23/70,Patricia Chromik,22,Female,White,Yes,coworker,No Relationship,72.2,50.2,20-29
+6,White,Joseph,9/23/70,Linda D. Willis,21,Female,White,Yes,coworker,Co-worker/Supervisor,72.2,51.2,20-29
+6,White,Joseph,9/23/70,Mary Ann Reinisch,27,Female,White,Yes,coworker,Co-worker/Supervisor,72.2,45.2,20-29
+7,McLeod,Harvey Glenn,5/29/72,Melvin D. Harrison Jr.,23,Male,White,No Evidence,NA,No Relationship,66.5,43.5,20-29
+7,McLeod,Harvey Glenn,5/29/72,James G. Henry,31,Male,White,No Evidence,NA,No Relationship,66.5,35.5,30-39
+7,McLeod,Harvey Glenn,5/29/72,Jessie B. West,77,Female,White,No Evidence,NA,No Relationship,80.9,3.9,70-79
+7,McLeod,Harvey Glenn,5/29/72,Jackie Wharton,47,Female,White,No Evidence,NA,No Relationship,72.2,25.2,40-49
+8,Grace,Edwin,6/21/72,Joseph Boyd,48,Male,,No Evidence,NA,No Relationship,65.6,17.6,40-49
+8,Grace,Edwin,6/21/72,Robert Bartone,22,Male,,No Evidence,NA,No Relationship,65.6,43.6,20-29
+8,Grace,Edwin,6/21/72,Joseph A. DePalma,44,Male,,No Evidence,NA,No Relationship,65.6,21.6,40-49
+8,Grace,Edwin,6/21/72,Theodore G Hall,38,Male,,No Evidence,NA,No Relationship,65.6,27.6,30-39
+8,Grace,Edwin,6/21/72,Charles Merkel,38,Male,,No Evidence,NA,No Relationship,65.6,27.6,30-39
+8,Grace,Edwin,6/21/72,Stephen B. Robinson,42,Male,,No Evidence,NA,No Relationship,65.6,23.6,40-49
+9,Essex,Mark,1/7/1973,Frank Schneider,62,Male,White,No Evidence,NA,No Relationship,46.6,0,60-69
+9,Essex,Mark,1/7/1973,Walter Sherwood Collins,46,Male,White,No Evidence,NA,No Relationship,66.5,20.5,40-49
+9,Essex,Mark,1/7/1973,Paul Persigo,,Male,White,No Evidence,NA,No Relationship,,,0-9
+9,Essex,Mark,1/7/1973,Phillip Coleman,,Male,White,No Evidence,NA,No Relationship,,,0-9
+9,Essex,Mark,1/7/1973,Robert Vernon Steagall Jr,28,Male,White,No Evidence,NA,No Relationship,66.5,38.5,20-29
+9,Essex,Mark,1/7/1973,"Elizabeth ""Betty"" Newton Day Steagall",25,Female,White,No Evidence,NA,No Relationship,72.2,47.2,20-29
+9,Essex,Mark,1/7/1973,Louis Joseph Sirgo,48,Male,White,No Evidence,NA,No Relationship,66.5,18.5,40-49
+10,Sander,Robert,3/2/1975,Gordon Knott,42,Male,,No Evidence,NA,No Relationship,65.6,23.6,40-49
+10,Sander,Robert,3/2/1975,Shirley Gail Knott,31,Female,,No Evidence,NA,No Relationship,71.1,40.1,30-39
+10,Sander,Robert,3/2/1975,Ella Beam,22,Female,,No Evidence,NA,No Relationship,71.1,49.1,20-29
+10,Sander,Robert,3/2/1975,Percy Harmon,69,Male,,No Evidence,NA,No Relationship,78.1,9.1,60-69
+10,Sander,Robert,3/2/1975,Barbara Harmon,58,Female,,No Evidence,NA,No Relationship,48.3,0,50-59
+11,Allaway,Edward,7/12/1976,Paul F. Herzberg,30,Male,White,Yes,coworker,Co-worker/Supervisor,66.5,36.5,30-39
+11,Allaway,Edward,7/12/1976,Bruce Jacobson,32,Male,White,Yes,coworker,Co-worker/Supervisor,66.5,34.5,30-39
+11,Allaway,Edward,7/12/1976,Seth Fessenden,72,Male,White,Yes,coworker,Co-worker/Supervisor,78.1,6.1,70-79
+11,Allaway,Edward,7/12/1976,Frank Teplansky,51,Male,White,Yes,coworker,Co-worker/Supervisor,46.6,0,50-59
+11,Allaway,Edward,7/12/1976,Donald Karges,41,Male,White,Yes,coworker,Co-worker/Supervisor,66.5,25.5,40-49
+11,Allaway,Edward,7/12/1976,Deborah Paulsen,25,Female,White,Yes,coworker,Co-worker/Supervisor,72.2,47.2,20-29
+11,Allaway,Edward,7/12/1976,Stephen Becker,32,Male,White,Yes,coworker,Co-worker/Supervisor,66.5,34.5,30-39
+12,Cowan,Fred,2/14/77,Joseph Hicks,60,Male,Black,Yes,coworker,Co-worker/Supervisor,32.5,0,60-69
+12,Cowan,Fred,2/14/77,Frederick Holmes,55,Male,Black,Yes,coworker,Co-worker/Supervisor,32.5,0,50-59
+12,Cowan,Fred,2/14/77,James Green,45,Male,Black,Yes,coworker,Co-worker/Supervisor,59.1,14.1,40-49
+12,Cowan,Fred,2/14/77,Pariyarathu Varghese,32,Male,Asian,Yes,coworker,Co-worker/Supervisor,65.6,33.6,30-39
+12,Cowan,Fred,2/14/77,Allen McLeod,33,Male,White,No Evidence,NA,No Relationship,66.5,33.5,30-39
+13,Henry,Dewitt,7/23/77,Gary Lee Anderson,27,Male,,No Evidence,NA,No Relationship,65.6,38.6,20-29
+13,Henry,Dewitt,7/23/77,Michael Mortenson,23,Male,,No Evidence,NA,No Relationship,65.6,42.6,20-29
+13,Henry,Dewitt,7/23/77,Robert David Seater,26,Male,White,No Evidence,NA,No Relationship,66.5,40.5,20-29
+13,Henry,Dewitt,7/23/77,Carrol Ann Seater,23,Female,White,No Evidence,NA,No Relationship,72.2,49.2,20-29
+13,Henry,Dewitt,7/23/77,James L Trueman,25,Male,,No Evidence,NA,No Relationship,65.6,40.6,20-29
+13,Henry,Dewitt,7/23/77,Andrew Lane Walker,22,Male,,No Evidence,NA,No Relationship,65.6,43.6,20-29
+14,Benoist,Emile Pierre,8/26/77,David J. Galvin,14,Male,,No Evidence,NA,No Relationship,66.6,52.6,10-19
+14,Benoist,Emile Pierre,8/26/77,Jeffrey L Gianquitti,19,Male,,No Evidence,NA,No Relationship,66.6,47.6,10-19
+14,Benoist,Emile Pierre,8/26/77,William Nagle,,Male,,No Evidence,NA,No Relationship,,,0-9
+14,Benoist,Emile Pierre,8/26/77,Clifford C. Sowers,39,Male,,No Evidence,NA,No Relationship,65.6,26.6,30-39
+14,Benoist,Emile Pierre,8/26/77,Robert Visconti,35,Male,,No Evidence,NA,No Relationship,65.6,30.6,30-39
+14,Benoist,Emile Pierre,8/26/77,Stephen Werner,20,Male,,No Evidence,NA,No Relationship,74.1,54.1,20-29
+15,Chin,Gan Fong,6/17/78,Robert Lee,51,Male,,Yes,boss,Co-worker/Supervisor,65.6,14.6,50-59
+15,Chin,Gan Fong,6/17/78,John O'Dell,40,Male,,Yes,coworker,Co-worker/Supervisor,65.6,25.6,40-49
+15,Chin,Gan Fong,6/17/78,Danny Linn,48,Male,,Yes,coworker,Co-worker/Supervisor,65.6,17.6,40-49
+15,Chin,Gan Fong,6/17/78,Dorothy Johnston,38,Female,White,Yes,coworker,Co-worker/Supervisor,72.2,34.2,30-39
+15,Chin,Gan Fong,6/17/78,Cecila G. Bagity,66,Female,,No Evidence,NA,No Relationship,83.1,17.1,60-69
+16,Chvarak,Barry,2/3/1980,Randy Wayne Steele,20,Male,White,No Evidence,NA,No Relationship,67.4,47.4,20-29
+16,Chvarak,Barry,2/3/1980,Kathleen Lynn Austin,32,Female,,No Evidence,NA,No Relationship,71.1,39.1,30-39
+16,Chvarak,Barry,2/3/1980,Marianne Laweka,53,Female,,No Evidence,NA,No Relationship,71.1,18.1,50-59
+16,Chvarak,Barry,2/3/1980,Jana L. Carpenter,29,Female,,No Evidence,NA,No Relationship,71.1,42.1,20-29
+16,Chvarak,Barry,2/3/1980,Fredrick Bergford,28,Male,,No Evidence,NA,No Relationship,65.6,37.6,20-29
+17,King,Alvin,6/22/80,Gene Gandy,50,Male,White,No Evidence,NA,No Relationship,66.5,16.5,50-59
+17,King,Alvin,6/22/80,"Mary Regina ""Gina"" Linam",7,Female,White,No Evidence,NA,No Relationship,75.6,68.6,0-9
+17,King,Alvin,6/22/80,"James Y. ""Red"" McDaniel",53,Male,White,Yes,usher at church King used to attend,Other known,66.5,13.5,50-59
+17,King,Alvin,6/22/80,Thelma Richardson,78,Female,,No Evidence,NA,No Relationship,86.5,8.5,70-79
+17,King,Alvin,6/22/80,Kenneth Truitt,49,Male,White,Yes,usher at church that King used to attend,Other known,66.5,17.5,40-49
+18,Belmonte,Victor,7/21/80,Lois Sima,57,Female,,Yes,neighbor,Other known,48.3,0,50-59
+18,Belmonte,Victor,7/21/80,Joseph A. Olinger,71,Male,,Yes,neighbor,Other known,78.8,7.8,70-79
+18,Belmonte,Victor,7/21/80,Andrew Price,25,Male,,Yes,neighbor,Other known,67.4,42.4,20-29
+18,Belmonte,Victor,7/21/80,Dorothy Glaser,59,Female,,No Evidence,NA,No Relationship,48.3,0,50-59
+19,Moore,Lawrence,5/7/1981,John William Cooper,27,Male,,No Evidence,NA,No Relationship,65.6,38.6,20-29
+19,Moore,Lawrence,5/7/1981,Lori J. Cunningham,22,Female,,No Evidence,NA,No Relationship,73.1,51.1,20-29
+19,Moore,Lawrence,5/7/1981,Robert E. Hamblin,24,Male,,No Evidence,NA,No Relationship,66.6,42.6,20-29
+19,Moore,Lawrence,5/7/1981,Allen L. Wilcox,24,Male,,No Evidence,NA,No Relationship,66.6,42.6,20-29
+20,Bevins,William,10/16/81,Roger Click,28,Male,,Yes,friend,Other known,65.6,37.6,20-29
+20,Bevins,William,10/16/81,Rufus Hamilton,42,Male,,Yes,coworker,Co-worker/Supervisor,65.6,23.6,40-49
+20,Bevins,William,10/16/81,Roger Hatfield,34,Male,,No Evidence,NA,No Relationship,65.6,31.6,30-39
+20,Bevins,William,10/16/81,Garvey Hamilton,28,Male,,No Evidence,NA,No Relationship,65.6,37.6,20-29
+20,Bevins,William,10/16/81,Michael Halbert,28,Male,,No Evidence,NA,No Relationship,65.6,37.6,20-29
+21,Meach,Charles,5/3/1982,Joseph Dean Kimler,19,Male,,No Evidence,NA,No Relationship,66.6,47.6,10-19
+21,Meach,Charles,5/3/1982,Vern J. Sylvester,19,Male,,No Evidence,NA,No Relationship,66.6,47.6,10-19
+21,Meach,Charles,5/3/1982,Sabrina Lynn Imlach,16,Female,,No Evidence,NA,No Relationship,74.7,58.7,10-19
+21,Meach,Charles,5/3/1982,Rebecca Dawn Phillips,16,Female,,No Evidence,NA,No Relationship,74.7,58.7,10-19
+22,Parish,John,8/9/1982,Dave Bahl,28,Male,,Yes,customer ,Other known,65.6,37.6,20-29
+22,Parish,John,8/9/1982,Wyvonne Kohler,45,Female,,No Evidence,NA,No Relationship,71.1,26.1,40-49
+22,Parish,John,8/9/1982,Martin Douglas Moran,30,Male,,Yes,supervisor,Co-worker/Supervisor,65.6,35.6,30-39
+22,Parish,John,8/9/1982,Moody Charles Smith,58,Male,,Yes,supervisor,Co-worker/Supervisor,46.3,0,50-59
+22,Parish,John,8/9/1982,Richard Svoboda,37,Male,,Yes,customer ,Other known,65.6,28.6,30-39
+22,Parish,John,8/9/1982,Eddie Eugene Ulrich,40,Male,,Yes,supervisor,Co-worker/Supervisor,65.6,25.6,40-49
+23,Brown,Carl,8/20/82,Nelson Barrios,46,Male,Latinx,Likely,Brown visited the shop where he worked the day before,Other known,65.6,19.6,40-49
+23,Brown,Carl,8/20/82,Loni Jeffries,53,Male,,Likely,Brown visited the shop where he worked the day before,Other known,65.6,12.6,50-59
+23,Brown,Carl,8/20/82,Carl Lee,47,Male,,Likely,Brown visited the shop where he worked the day before,Other known,65.6,18.6,40-49
+23,Brown,Carl,8/20/82,Ernestine Moore,67,Female,,Likely,Brown visited the shop where she worked the day before,Other known,83.3,16.3,60-69
+23,Brown,Carl,8/20/82,Magnum Moore,78,Male,,Likely,Brown visited the shop where he worked the day before,Other known,83.8,5.8,70-79
+23,Brown,Carl,8/20/82,Martha Steelman,29,Female,White,Likely,Brown visited the shop where she worked the day before,Other known,72.2,43.2,20-29
+23,Brown,Carl,8/20/82,Juan Tres Palacios,38,Male,Latinx,Likely,Brown visited the shop where he worked the day before,Other known,65.6,27.6,30-39
+23,Brown,Carl,8/20/82,Pedro Vasquez,43,Male,Latinx,Likely,Brown visited the shop where he worked the day before,Other known,65.6,22.6,40-49
+24,Leacock,Alban,2/3/1983,Christine Leacock,25,Female,,Yes,wife,Romantic Partner,73.1,48.1,20-29
+24,Leacock,Alban,2/3/1983,Jacob Zimmer,61,Male,,Yes,landlord/boss,Co-worker/Supervisor,46.3,0,60-69
+24,Leacock,Alban,2/3/1983,Unidentified male,20,Male,,Likely,possible romantic rival,Romantic Partner,69.7,49.7,20-29
+24,Leacock,Alban,2/3/1983,Unidentified female,12,Female,,Yes,goddaughter,Family Member,74.7,62.7,10-19
+25,Hastings,Louis,3/1/1983,Maxine Beverly Edwards,52,Female,White,Yes,neighbor,Other known,72.2,20.2,50-59
+25,Hastings,Louis,3/1/1983,"Florence Evelyn ""Flo"" Hegland",58,Female,White,Yes,neighbor,Other known,72.2,14.2,50-59
+25,Hastings,Louis,3/1/1983,"Lester E. ""Les"" Hegland",64,Male,White,Yes,neighbor,Other known,46.6,0,60-69
+25,Hastings,Louis,3/1/1983,Harley King,61,Male,,Yes,neighbor,Other known,46.3,0,60-69
+25,Hastings,Louis,3/1/1983,Amy Lou Nash,25,Female,,Yes,neighbor,Other known,73.1,48.1,20-29
+25,Hastings,Louis,3/1/1983,"Charles Timothy ""Tim"" Nash",37,Male,,Yes,neighbor,Other known,65.6,28.6,30-39
+26,Moreno,Eliseo,10/11/1983,Ann M. Bennatt,70,Female,,No Evidence,NA,No Relationship,83.3,13.3,70-79
+26,Moreno,Eliseo,10/11/1983,James Aubry Bennatt,62,Male,,No Evidence,NA,No Relationship,46.3,0,60-69
+26,Moreno,Eliseo,10/11/1983,Russell Lynn Boyd,25,Male,White,No Evidence,NA,No Relationship,67.4,42.4,20-29
+26,Moreno,Eliseo,10/11/1983,Esther Garza,31,Female,Latinx,Yes,sister-in-law,Family Member,71.1,40.1,30-39
+26,Moreno,Eliseo,10/11/1983,Juan Garza,30,Male,Latinx,Yes,brother-in-law,Family Member,65.6,35.6,30-39
+26,Moreno,Eliseo,10/11/1983,Allie Wilkins,79,Female,,No Evidence,NA,No Relationship,86.5,7.5,70-79
+27,Silka,Michael,5/17/84,Fred Burk,30,Male,,Likely,possibly met before shooting,Other known,65.6,35.6,30-39
+27,Silka,Michael,5/17/84,Larry Joe McVey,38,Male,,Likely,possibly met before shooting,Other known,65.6,27.6,30-39
+27,Silka,Michael,5/17/84,Dale Kevin Madajski,20,Male,,Likely,possibly met before shooting,Other known,66.6,46.6,20-29
+27,Silka,Michael,5/17/84,Joyce Klein,30,Female,,Likely,possibly met before shooting,Other known,71.1,41.1,30-39
+27,Silka,Michael,5/17/84,Lyman Klein,36,Male,,Likely,possibly met before shooting,Other known,65.6,29.6,30-39
+27,Silka,Michael,5/17/84,Marshall Klein,2,Male,,No Evidence,NA,No Relationship,70.7,68.7,0-9
+27,Silka,Michael,5/17/84,Albert Moulton Hagen Jr.,27,Male,,Likely,possibly met before shooting,Other known,66.6,39.6,20-29
+27,Silka,Michael,5/19/84,Troy Lynn Duncan,34,Male,White,No Evidence,NA,No Relationship,66.5,32.5,30-39
+28,Belachheb,Abdelkrim,6/29/84,Marcell Mae Ford,34,Female,,Yes,ex-girlfriend,Romantic Partner,71.1,37.1,30-39
+28,Belachheb,Abdelkrim,6/29/84,Ligia Kozlowski,45,Female,,No Evidence,NA,No Relationship,71.1,26.1,40-49
+28,Belachheb,Abdelkrim,6/29/84,Linda Lowe,43,Female,,No Evidence,NA,No Relationship,71.1,28.1,40-49
+28,Belachheb,Abdelkrim,6/29/84,Joseph John Minasi,36,Male,,No Evidence,NA,No Relationship,65.6,29.6,30-39
+28,Belachheb,Abdelkrim,6/29/84,Frank Parker,49,Male,,No Evidence,NA,No Relationship,65.6,16.6,40-49
+28,Belachheb,Abdelkrim,6/29/84,Janice Smith,46,Female,,No Evidence,NA,No Relationship,71.1,25.1,40-49
+29,Huberty,James,7/18/84,Elsa Herlinda Borboa-Firro,19,Female,Latinx,No Evidence,NA,No Relationship,74.7,55.7,10-19
+29,Huberty,James,7/18/84,Neva Denise Caine,22,Female,White,No Evidence,NA,No Relationship,75.6,53.6,20-29
+29,Huberty,James,7/18/84,Michelle Deanne Carncross,18,Female,,No Evidence,NA,No Relationship,74.7,56.7,10-19
+29,Huberty,James,7/18/84,María Elena Colmenero-Silva,19,Female,Latinx,No Evidence,NA,No Relationship,74.7,55.7,10-19
+29,Huberty,James,7/18/84,David Flores Delgado,11,Male,Latinx,No Evidence,NA,No Relationship,67.1,56.1,10-19
+29,Huberty,James,7/18/84,Gloria López González,22,Female,Latinx,No Evidence,NA,No Relationship,73.1,51.1,20-29
+29,Huberty,James,7/18/84,Omarr Alonso Hernandez,11,Male,Latinx,No Evidence,NA,No Relationship,67.1,56.1,10-19
+29,Huberty,James,7/18/84,Blythe Regan Herrera,31,Female,Latinx,No Evidence,NA,No Relationship,71.1,40.1,30-39
+29,Huberty,James,7/18/84,Matao Herrera,11,Male,Latinx,No Evidence,NA,No Relationship,67.1,56.1,10-19
+29,Huberty,James,7/18/84,Paulina Aquino López,21,Female,Latinx,No Evidence,NA,No Relationship,73.1,52.1,20-29
+29,Huberty,James,7/18/84,Margarita Padilla,18,Female,Latinx,No Evidence,NA,No Relationship,74.7,56.7,10-19
+29,Huberty,James,7/18/84,Claudia Pérez Fuentes,9,Female,Latinx,No Evidence,NA,No Relationship,76.6,67.6,0-9
+29,Huberty,James,7/18/84,Jose Rubén Lozano-Pérez,19,Male,Latinx,No Evidence,NA,No Relationship,67.1,48.1,10-19
+29,Huberty,James,7/18/84,Carlos Reyes Jr.,1,Male,Latinx,No Evidence,NA,No Relationship,70,69,0-9
+29,Huberty,James,7/18/84,Jackie Lynn Wright Reyes,18,Female,Latinx,No Evidence,NA,No Relationship,74.7,56.7,10-19
+29,Huberty,James,7/18/84,Victor Maxmillian Rivera,25,Male,Latinx,No Evidence,NA,No Relationship,66.6,41.6,20-29
+29,Huberty,James,7/18/84,Miguel Victoria-Ulloa,74,Male,Latinx,No Evidence,NA,No Relationship,78.8,4.8,70-79
+29,Huberty,James,7/18/84,Arisdelsi Vuelvas-Vargas,31,Female,Latinx,No Evidence,NA,No Relationship,71.1,40.1,30-39
+29,Huberty,James,7/18/84,Hugo Luis Velázquez Vazquez,45,Male,Latinx,No Evidence,NA,No Relationship,65.6,20.6,40-49
+29,Huberty,James,7/18/84,Alicia Aida Velázquez Victoria,70,Female,Latinx,No Evidence,NA,No Relationship,83.3,13.3,70-79
+29,Huberty,James,7/18/84,Laurence Herman Versluis,62,Male,White,No Evidence,NA,No Relationship,46.6,0,60-69
+30,Crossley,Wayne,7/24/84,Juanita Allen,45,Female,,No Evidence,NA,No Relationship,71.1,26.1,40-49
+30,Crossley,Wayne,7/24/84,Tom Altringer,34,Male,,No Evidence,NA,No Relationship,65.6,31.6,30-39
+30,Crossley,Wayne,7/24/84,Helen C. Frazee,58,Female,,Yes,banned Crossley from bar,Other known,71.1,13.1,50-59
+30,Crossley,Wayne,7/24/84,James F. Stephens,,Male,,No Evidence,NA,No Relationship,,,0-9
+31,Hammett,Mansel,3/16/85,Donald Abbott,48,Male,,Yes,supervisor,Co-worker/Supervisor,65.6,17.6,40-49
+31,Hammett,Mansel,3/16/85,John Coligan,31,Male,,Yes,supervisor,Co-worker/Supervisor,65.6,34.6,30-39
+31,Hammett,Mansel,3/16/85,Paul Edward Gabelt,52,Male,,Yes,supervisor,Co-worker/Supervisor,65.6,13.6,50-59
+31,Hammett,Mansel,3/16/85,Ralph Tomaro,52,Male,,Yes,supervisor,Co-worker/Supervisor,65.6,13.6,50-59
+32,Sherrill,Patrick,8/20/86,Patricia Ann Chambers,41,Female,,Yes,coworker,Co-worker/Supervisor,71.1,30.1,40-49
+32,Sherrill,Patrick,8/20/86,Judy Stephens Denney,39,Female,,Yes,coworker,Co-worker/Supervisor,71.1,32.1,30-39
+32,Sherrill,Patrick,8/20/86,"Richard Charles ""Rick"" Esser, Jr.",38,Male,,Yes,supervisor,Co-worker/Supervisor,65.6,27.6,30-39
+32,Sherrill,Patrick,8/20/86,Patricia Ann Gabbard,47,Female,White,Yes,coworker,Co-worker/Supervisor,72.2,25.2,40-49
+32,Sherrill,Patrick,8/20/86,Jonna Gragert Hamilton,30,Female,,Yes,coworker,Co-worker/Supervisor,73.1,43.1,30-39
+32,Sherrill,Patrick,8/20/86,Patty Jean Husband,49,Female,White,Yes,supervisor,Co-worker/Supervisor,72.2,23.2,40-49
+32,Sherrill,Patrick,8/20/86,William F. Miller,30,Male,,Yes,coworker,Co-worker/Supervisor,66.6,36.6,30-39
+32,Sherrill,Patrick,8/20/86,Kenneth W. Morey,49,Male,,Yes,coworker,Co-worker/Supervisor,65.6,16.6,40-49
+32,Sherrill,Patrick,8/20/86,Betty Ann Jarred,34,Female,,Yes,coworker,Co-worker/Supervisor,71.1,37.1,30-39
+32,Sherrill,Patrick,8/20/86,Leroy Orrin Phillips,42,Male,,Yes,coworker,Co-worker/Supervisor,65.6,23.6,40-49
+32,Sherrill,Patrick,8/20/86,Jerry Ralph Pyle Jr,51,Male,,Yes,coworker,Co-worker/Supervisor,65.6,14.6,50-59
+32,Sherrill,Patrick,8/20/86,Paul Michael Rockne,33,Male,,Yes,coworker,Co-worker/Supervisor,65.6,32.6,30-39
+32,Sherrill,Patrick,8/20/86,Thomas Wade Shader Jr.,31,Male,,Yes,coworker,Co-worker/Supervisor,66.6,35.6,30-39
+32,Sherrill,Patrick,8/20/86,Patti Lou Welch,27,Female,,Yes,coworker,Co-worker/Supervisor,73.1,46.1,20-29
+33,Cruse,William,4/23/87,Emad Al-Tawakuly,18,Male,Middle Eastern,No Evidence,NA,No Relationship,67.1,49.1,10-19
+33,Cruse,William,4/23/87,Nabil Al-Hameli,25,Male,Middle Eastern,No Evidence,NA,No Relationship,66.6,41.6,20-29
+33,Cruse,William,4/23/87,Gerald Douglas Johnson,28,Male,White,No Evidence,NA,No Relationship,67.4,39.4,20-29
+33,Cruse,William,4/23/87,Ronald Midgely Grogan,27,Male,White,No Evidence,NA,No Relationship,67.4,40.4,20-29
+33,Cruse,William,4/23/87,Ruth Greene,67,Female,,No Evidence,NA,No Relationship,83.9,16.9,60-69
+33,Cruse,William,4/23/87,Lester Watson,52,Male,,No Evidence,NA,No Relationship,65.6,13.6,50-59
+34,Farley,Richard,2/16/88,Ronald Doney,36,Male,,No Evidence,NA,No Relationship,65.6,29.6,30-39
+34,Farley,Richard,2/16/88,Lawrence J. Kane,46,Male,,Yes,former coworker,Co-worker/Supervisor,65.6,19.6,40-49
+34,Farley,Richard,2/16/88,Helen Lamparter,49,Female,,No Evidence,NA,No Relationship,71.1,22.1,40-49
+34,Farley,Richard,2/16/88,Glenda Moritz,27,Female,,No Evidence,NA,No Relationship,73.1,46.1,20-29
+34,Farley,Richard,2/16/88,Ronald Steven Reed,26,Male,White,No Evidence,NA,No Relationship,67.4,41.4,20-29
+34,Farley,Richard,2/16/88,Joseph Lawrence Silva,43,Male,,No Evidence,NA,No Relationship,65.6,22.6,40-49
+34,Farley,Richard,2/16/88,"Wayne ""Buddy"" Williams Jr.",23,Male,,No Evidence,NA,No Relationship,67.1,44.1,20-29
+35,Hayes,Michael,7/17/88,Crystal Susan Cantrell,16,Female,White,No Evidence,NA,No Relationship,75.6,59.6,10-19
+35,Hayes,Michael,7/17/88,Melinda Yvonne Hayes,21,Female,,No Evidence,NA,No Relationship,74.7,53.7,20-29
+35,Hayes,Michael,7/17/88,Ronald Lee Hull,32,Male,,No Evidence,NA,No Relationship,66.6,34.6,30-39
+35,Hayes,Michael,7/17/88,Thomas Walter Nicholson,24,Male,White,No Evidence,NA,No Relationship,67.4,43.4,20-29
+36,Henderson,Clemmie,9/22/88,Arthur Baker,34,Male,,No Evidence,NA,No Relationship,65.6,31.6,30-39
+36,Henderson,Clemmie,9/22/88,John Van Dyke,41,Male,,Yes,saw him regularly on street,Other known,65.6,24.6,40-49
+36,Henderson,Clemmie,9/22/88,Robert Quinn,26,Male,,Yes,saw him regularly on street,Other known,66.6,40.6,20-29
+36,Henderson,Clemmie,9/22/88,Irma C. Ruiz,40,Female,Latinx,No Evidence,NA,No Relationship,71.1,31.1,40-49
+37,Purdy,Patrick,1/17/89,Sokhim An,6,Female,Asian,No Evidence,NA,No Relationship,77.4,71.4,0-9
+37,Purdy,Patrick,1/17/89,Ram Chun,8,Female,Asian,No Evidence,NA,No Relationship,77.4,69.4,0-9
+37,Purdy,Patrick,1/17/89,Oeun Lim,8,Female,Asian,No Evidence,NA,No Relationship,77.4,69.4,0-9
+37,Purdy,Patrick,1/17/89,Rathanan Or,9,Male,Asian,No Evidence,NA,No Relationship,70,61,0-9
+37,Purdy,Patrick,1/17/89,Thuy Tran,6,Female,Asian,No Evidence,NA,No Relationship,77.4,71.4,0-9
+38,Wesbecker,Joseph,9/14/89,"Richard ""Dickie"" Barger",54,Male,White,Yes,"friend, former coworker",Co-worker/Supervisor,66.5,12.5,50-59
+38,Wesbecker,Joseph,9/14/89,Kenneth Fentress,45,Male,White,Yes,former coworker,Co-worker/Supervisor,66.5,21.5,40-49
+38,Wesbecker,Joseph,9/14/89,"James G. ""Buck"" Husband",47,Male,White,Yes,former coworker,Co-worker/Supervisor,66.5,19.5,40-49
+38,Wesbecker,Joseph,9/14/89,Sharon Needy,49,Female,,Yes,former coworker,Co-worker/Supervisor,71.1,22.1,40-49
+38,Wesbecker,Joseph,9/14/89,"William ""Bill"" Ganote",46,Male,White,Yes,former coworker,Co-worker/Supervisor,66.5,20.5,40-49
+38,Wesbecker,Joseph,9/14/89,Paul Sallee,60,Male,White,Yes,former coworker,Co-worker/Supervisor,66.5,6.5,60-69
+38,Wesbecker,Joseph,9/14/89,James Wible,56,Male,White,Yes,former coworker,Co-worker/Supervisor,66.5,10.5,50-59
+38,Wesbecker,Joseph,9/14/89,Lloyd White,42,Male,White,Yes,former coworker,Co-worker/Supervisor,66.5,24.5,40-49
+38,Wesbecker,Joseph,9/14/89,Unidentified person,,,,Yes,former coworker,Co-worker/Supervisor,,,0-9
+39,Pough,James,6/17/90,Louis Carl Bacon,39,Male,,No Evidence,NA,No Relationship,65.6,26.6,30-39
+39,Pough,James,6/17/90,Doretta Drake,30,Female,,No Evidence,NA,No Relationship,73.1,43.1,30-39
+39,Pough,James,6/18/90,Jewel Belote,50,Female,,Likely,worked at office which repossesed Pough's car,Other known,71.1,21.1,50-59
+39,Pough,James,6/18/90,Julia White Burgess,42,Female,,No Evidence,NA,No Relationship,71.1,29.1,40-49
+39,Pough,James,6/18/90,Janice David,40,Female,,Likely,worked at office which repossesed Pough's car,Other known,71.1,31.1,40-49
+39,Pough,James,6/18/90,Sharon Louise Hall,45,Female,,Likely,worked at office which repossesed Pough's car,Other known,71.1,26.1,40-49
+39,Pough,James,6/18/90,Denise Sapp Highfill,36,Female,,Likely,worked at office which repossesed Pough's car,Other known,71.1,35.1,30-39
+39,Pough,James,6/18/90,Barbara Duckwall Holland,45,Female,,Likely,worked at office which repossesed Pough's car,Other known,71.1,26.1,40-49
+39,Pough,James,6/18/90,Cynthia Perry,30,Female,,Likely,worked at office which repossesed Pough's car,Other known,73.1,43.1,30-39
+39,Pough,James,6/18/90,Lee M. Simonton,33,Male,,Likely,worked at office which repossesed Pough's car,Other known,66.6,33.6,30-39
+39,Pough,James,6/18/90,Drew Woods,38,Male,,Likely,worked at office which repossesed Pough's car,Other known,65.6,27.6,30-39
+40,Harris,Joseph,10/10/1991,Cornelius Kasten Jr.,,Male,,No Evidence,NA,No Relationship,,,0-9
+40,Harris,Joseph,10/10/1991,Donald McNaught,63,Male,,Likely,may have been former coworker,Co-worker/Supervisor,65.6,2.6,60-69
+40,Harris,Joseph,10/10/1991,Carol Ott,30,Female,,Yes,former supervisor,Co-worker/Supervisor,73.1,43.1,30-39
+40,Harris,Joseph,10/10/1991,Joseph M. VanderPaauw,59,Male,,Likely,may have been former coworker,Co-worker/Supervisor,65.6,6.6,50-59
+41,Hennard,George,10/16/91,Patricia B. Carney,57,Female,White,No Evidence,NA,No Relationship,72.2,15.2,50-59
+41,Hennard,George,10/16/91,Jimmie Eugene Caruthers,48,Male,,No Evidence,NA,No Relationship,65.6,17.6,40-49
+41,Hennard,George,10/16/91,"Kriemhild ""Kitty"" Davis",62,Female,White,No Evidence,NA,No Relationship,72.2,10.2,60-69
+41,Hennard,George,10/16/91,Steven Charles Dody,43,Male,White,No Evidence,NA,No Relationship,66.5,23.5,40-49
+41,Hennard,George,10/16/91,"Alphonse ""Al"" Gratia",71,Male,White,No Evidence,NA,No Relationship,80.2,9.2,70-79
+41,Hennard,George,10/16/91,"Ursula Edith ""Suzy"" Gratia",67,Female,White,No Evidence,NA,No Relationship,84.1,17.1,60-69
+41,Hennard,George,10/16/91,Debra Gray,33,Female,,No Evidence,NA,No Relationship,73.1,40.1,30-39
+41,Hennard,George,10/16/91,Michael Griffith,48,Male,White,No Evidence,NA,No Relationship,66.5,18.5,40-49
+41,Hennard,George,10/16/91,Venice Ellen Henehan,70,Female,,No Evidence,NA,No Relationship,83.9,13.9,70-79
+41,Hennard,George,10/16/91,Clodine Delphia Humphrey,63,Female,,No Evidence,NA,No Relationship,71.1,8.1,60-69
+41,Hennard,George,10/16/91,Sylvia Mathilde King,30,Female,,No Evidence,NA,No Relationship,73.1,43.1,30-39
+41,Hennard,George,10/16/91,Zona Mae Hunnicutt Lynn,45,Female,,No Evidence,NA,No Relationship,71.1,26.1,40-49
+41,Hennard,George,10/16/91,Connie Deen Peterson,41,Female,White,No Evidence,NA,No Relationship,72.2,31.2,40-49
+41,Hennard,George,10/16/91,Ruth Marie Pujol,55,Female,White,No Evidence,NA,No Relationship,72.2,17.2,50-59
+41,Hennard,George,10/16/91,Su-Zann Neal Rashott,36,Female,White,No Evidence,NA,No Relationship,74.1,38.1,30-39
+41,Hennard,George,10/16/91,John Raymond Romero Jr.,33,Male,Latinx,No Evidence,NA,No Relationship,66.6,33.6,30-39
+41,Hennard,George,10/16/91,Thomas Earl Simmons,33,Male,,No Evidence,NA,No Relationship,66.6,33.6,30-39
+41,Hennard,George,10/16/91,Glen Arval Spivey,55,Male,,No Evidence,NA,No Relationship,66.6,11.6,50-59
+41,Hennard,George,10/16/91,Nancy Faye Hedgepeth Stansbury,44,Female,White,No Evidence,NA,No Relationship,72.2,28.2,40-49
+41,Hennard,George,10/16/91,Olgica Andonovska Taylor,45,Female,,No Evidence,NA,No Relationship,71.1,26.1,40-49
+41,Hennard,George,10/16/91,James Walter Welsh,75,Male,,No Evidence,NA,No Relationship,84.4,9.4,70-79
+41,Hennard,George,10/16/91,Lula Belle Welsh,75,Female,White,No Evidence,NA,No Relationship,87,12,70-79
+41,Hennard,George,10/16/91,Iva Juanita Williams,64,Female,White,No Evidence,NA,No Relationship,72.2,8.2,60-69
+42,Lu,Gang,11/1/1991,Theresa Anne Cleary,55,Female,White,Yes,school administrator,Teacher/Classmate,72.2,17.2,50-59
+42,Lu,Gang,11/1/1991,Christoph K. Goertz,47,Male,White,Yes,professor,Teacher/Classmate,66.5,19.5,40-49
+42,Lu,Gang,11/1/1991,Dwight Nicholson,44,Male,White,Yes,professor,Teacher/Classmate,66.5,22.5,40-49
+42,Lu,Gang,11/1/1991,Robert A. Smith,45,Male,White,Yes,professor,Teacher/Classmate,66.5,21.5,40-49
+42,Lu,Gang,11/1/1991,Linhua Shan,26,Male,Asian,Yes,classmate,Teacher/Classmate,67.1,41.1,20-29
+43,Daigneau,Robert,11/9/1991,Fred Marion Alsman ,48,Male,,No Evidence,NA,No Relationship,65.6,17.6,40-49
+43,Daigneau,Robert,11/9/1991,Thomas Earl Bannister,38,Male,,No Evidence,NA,No Relationship,65.6,27.6,30-39
+43,Daigneau,Robert,11/9/1991,Donna Daigneau,33,Female,,Yes,estranged wife,Romantic Partner,73.1,40.1,30-39
+43,Daigneau,Robert,11/9/1991,Palmer Lee Rousey,48,Male,,No Evidence,NA,No Relationship,65.6,17.6,40-49
+44,McIlvane,Thomas,11/14/91,Mary Ellen Benincasa,32,Female,,Yes,former supervisor,Co-worker/Supervisor,73.1,41.1,30-39
+44,McIlvane,Thomas,11/14/91,Christopher Louis Carlisle,33,Male,,Yes,former supervisor,Co-worker/Supervisor,66.6,33.6,30-39
+44,McIlvane,Thomas,11/14/91,Keith Cszewski,37,Male,,Yes,former supervisor,Co-worker/Supervisor,66.6,29.6,30-39
+44,McIlvane,Thomas,11/14/91,Rose Marie Proos,33,Female,,Yes,former supervisor,Co-worker/Supervisor,73.1,40.1,30-39
+45,Rogovich,Pete,3/15/92,Rebecca Kay Carreon,48,Female,,No Evidence,NA,No Relationship,71.1,23.1,40-49
+45,Rogovich,Pete,3/15/92,Phyllis Theresa Mancuso,61,Female,White,No Evidence,NA,No Relationship,72.2,11.2,60-69
+45,Rogovich,Pete,3/15/92,Tekleberhan Manna,24,Male,Black,No Evidence,NA,No Relationship,60,36,20-29
+45,Rogovich,Pete,3/15/92,Marie Eamelia Pendergast,84,Female,White,No Evidence,NA,No Relationship,86.5,2.5,80+
+46,Houston,Eric,5/1/1992,Robert Brens,28,Male,White,Yes,former teacher,Teacher/Classmate,67.4,39.4,20-29
+46,Houston,Eric,5/1/1992,"Judith ""Judy"" Davis",17,Female,White,No Evidence,NA,No Relationship,77.3,60.3,10-19
+46,Houston,Eric,5/1/1992,Beamon Hill,16,Male,Black,No Evidence,NA,No Relationship,62.5,46.5,10-19
+46,Houston,Eric,5/1/1992,Jason Edward White,19,Male,White,No Evidence,NA,No Relationship,69.5,50.5,10-19
+47,Miller,John,10/15/92,Denise M. Van Amburg,28,Female,,No Evidence,NA,No Relationship,73.1,45.1,20-29
+47,Miller,John,10/15/92,Phyllis Caslin,54,Female,,No Evidence,NA,No Relationship,71.1,17.1,50-59
+47,Miller,John,10/15/92,Florence A. Pike,50,Female,,Yes,previously met,Other known,71.1,21.1,50-59
+47,Miller,John,10/15/92,Nancy J. Wheeler,48,Female,,No Evidence,NA,No Relationship,71.1,23.1,40-49
+48,Drake III,Lynwood,11/8/1992,Danny Cizek,32,Male,,No Evidence,NA,No Relationship,66.6,34.6,30-39
+48,Drake III,Lynwood,11/8/1992,Joe Garcia,60,Male,,Yes,worked at a club Drake frequented,Other known,65.6,5.6,60-69
+48,Drake III,Lynwood,11/8/1992,David Law,47,Male,,Yes,worked at a club Drake frequented,Other known,65.6,18.6,40-49
+48,Drake III,Lynwood,11/8/1992,Norman Metcalf,27,Male,,Yes,former roommate,Other known,67.1,40.1,20-29
+48,Drake III,Lynwood,11/8/1992,Kris Staub,31,Female,,Yes,worked at a club Drake frequented,Other known,73.1,42.1,30-39
+48,Drake III,Lynwood,11/8/1992,Andrew Zatko,80,Male,,Yes,former landlord,Other known,84.4,4.4,80+
+49,Ferri,Gian,7/1/1993,Allen J. Berk,52,Male,,No Evidence,NA,No Relationship,65.6,13.6,50-59
+49,Ferri,Gian,7/1/1993,Jack Berman,36,Male,White,No Evidence,NA,No Relationship,67.4,31.4,30-39
+49,Ferri,Gian,7/1/1993,Deborah Fogel,33,Female,,No Evidence,NA,No Relationship,73.1,40.1,30-39
+49,Ferri,Gian,7/1/1993,Donald Michael Merrill,48,Male,White,No Evidence,NA,No Relationship,66.5,18.5,40-49
+49,Ferri,Gian,7/1/1993,Shirley Mooser,64,Female,White,No Evidence,NA,No Relationship,72.2,8.2,60-69
+49,Ferri,Gian,7/1/1993,John C. Scully,28,Male,White,No Evidence,NA,No Relationship,68,40,20-29
+49,Ferri,Gian,7/1/1993,Jody Sposato,30,Female,White,No Evidence,NA,No Relationship,74.1,44.1,30-39
+49,Ferri,Gian,7/1/1993,David Sutcliffe,30,Male,White,No Evidence,NA,No Relationship,67.4,37.4,30-39
+50,French,Kenneth,8/6/1993,Wesley Scott Cover,26,Male,White,No Evidence,NA,No Relationship,68,42,20-29
+50,French,Kenneth,8/6/1993,James F. Kidd,46,Male,White,No Evidence,NA,No Relationship,66.5,20.5,40-49
+50,French,Kenneth,8/6/1993,Ethel Contos Parrous,65,Female,White,No Evidence,NA,No Relationship,77,12,60-69
+50,French,Kenneth,8/6/1993,Peter Nicholas Parrous,73,Male,White,No Evidence,NA,No Relationship,83.8,10.8,70-79
+51,Buquet,James,10/14/93,Rebecca Negrete,31,Female,,No Evidence,NA,No Relationship,73.1,42.1,30-39
+51,Buquet,James,10/14/93,Laxmi Patel,19,,Asian,No Evidence,NA,No Relationship,72.6,53.6,10-19
+51,Buquet,James,10/14/93,Helen-Mary Spatz,36,Female,,No Evidence,NA,No Relationship,73.1,37.1,30-39
+51,Buquet,James,10/14/93,Charles Brad Tucker,37,Male,,No Evidence,NA,No Relationship,66.6,29.6,30-39
+52,Winterbourne,Alan,12/2/1993,Richard M. Bateman,65,Male,,No Evidence,NA,No Relationship,80.6,15.6,60-69
+52,Winterbourne,Alan,12/2/1993,James Edward O'Brien,35,Male,White,No Evidence,NA,No Relationship,67.4,32.4,30-39
+52,Winterbourne,Alan,12/2/1993,Anna F. Velasco,42,Female,Latinx,Likely,WInterbourne frequently visited unemployment office and may have met her,Other known,71.1,29.1,40-49
+52,Winterbourne,Alan,12/2/1993,Richard Villegas,43,Male,Latinx,Likely,WInterbourne frequently visited unemployment office and may have met him,Other known,65.6,22.6,40-49
+53,Ferguson,Colin,12/7/1993,Amy Federici,27,Female,White,No Evidence,NA,No Relationship,75.6,48.6,20-29
+53,Ferguson,Colin,12/7/1993,James Gorycki,51,Male,White,No Evidence,NA,No Relationship,66.5,15.5,50-59
+53,Ferguson,Colin,12/7/1993,Mi Kyung Kim,27,Female,Asian,No Evidence,NA,No Relationship,74.7,47.7,20-29
+53,Ferguson,Colin,12/7/1993,Maria Theresa Magtoto,30,Female,Latinx,No Evidence,NA,No Relationship,73.1,43.1,30-39
+53,Ferguson,Colin,12/7/1993,Dennis F. McCarthy,52,Male,,No Evidence,NA,No Relationship,65.6,13.6,50-59
+53,Ferguson,Colin,12/7/1993,Richard C. Nettleton,24,Male,,No Evidence,NA,No Relationship,67.1,43.1,20-29
+54,Dunlap,Nathan,12/14/93,Sylvia Crowell,19,Female,White,Yes,former coworker,Co-worker/Supervisor,77.3,58.3,10-19
+54,Dunlap,Nathan,12/14/93,Benjamin Grant,17,Male,White,Yes,former coworker,Co-worker/Supervisor,69.5,52.5,10-19
+54,Dunlap,Nathan,12/14/93,Margaret Kohlberg,50,Female,White,Yes,former supervisor,Co-worker/Supervisor,72.2,22.2,50-59
+54,Dunlap,Nathan,12/14/93,Colleen O'Connor,17,Female,White,Yes,former coworker,Co-worker/Supervisor,77.3,60.3,10-19
+55,Mellberg,Dean,6/20/94,Thomas Brigham,31,Male,White,Yes,evaluated Mellberg,Other known,67.4,36.4,30-39
+55,Mellberg,Dean,6/20/94,Alan London,40,Male,,Yes,evaluated Mellberg,Other known,65.6,25.6,40-49
+55,Mellberg,Dean,6/20/94,Christine McCaren,8,Female,,No Evidence,NA,No Relationship,78.8,70.8,0-9
+55,Mellberg,Dean,6/20/94,Anita Linder,62,Female,White,No Evidence,NA,No Relationship,72.2,10.2,60-69
+56,Ferguson,Rodriguez,12/31/94,Deborah Hunter,37,Female,,No Evidence,NA,No Relationship,73.1,36.1,30-39
+56,Ferguson,Rodriguez,12/31/94,Jamie Hunter,39,Male,,No Evidence,NA,No Relationship,66.6,27.6,30-39
+56,Ferguson,Rodriguez,12/31/94,Steve Locklear,18,Male,,Yes,acquaintance,Other known,70,52,10-19
+56,Ferguson,Rodriguez,12/31/94,Timothy Powell,20,Male,,No Evidence,NA,No Relationship,68.8,48.8,20-29
+56,Ferguson,Rodriguez,1/1/1995,James Morrison,28,Male,,Yes,acquaintance,Other known,67.1,39.1,20-29
+57,Simpson,James,4/3/1995,Wendy P. Gilmore,41,Female,White,Yes,former coworker,Co-worker/Supervisor,72.2,31.2,40-49
+57,Simpson,James,4/3/1995,Derek Harrison,35,Male,White,Yes,former coworker,Co-worker/Supervisor,67.4,32.4,30-39
+57,Simpson,James,4/3/1995,Joann Rossler,62,Female,White,Yes,former boss,Co-worker/Supervisor,72.2,10.2,60-69
+57,Simpson,James,4/3/1995,Walter Charles Rossler,62,Male,White,Yes,former boss,Co-worker/Supervisor,66.5,4.5,60-69
+57,Simpson,James,4/3/1995,Richard Tomlinson,34,Male,White,Yes,former coworker,Co-worker/Supervisor,67.4,33.4,30-39
+58,Woods,Willie,7/19/95,Neil Carpenter,61,Male,,Yes,supervisor,Co-worker/Supervisor,65.6,4.6,60-69
+58,Woods,Willie,7/19/95,Anthony J. Gain,78,Male,,Yes,supervisor,Co-worker/Supervisor,84.4,6.4,70-79
+58,Woods,Willie,7/19/95,James Walton,60,Male,,Yes,supervisor,Co-worker/Supervisor,65.6,5.6,60-69
+58,Woods,Willie,7/19/95,Marty Wakefield,57,Male,,Yes,supervisor,Co-worker/Supervisor,65.6,8.6,50-59
+59,Vernon,Michael,12/19/95,Kwong Bae,41,Female,Asian,No Evidence,NA,No Relationship,71.1,30.1,40-49
+59,Vernon,Michael,12/19/95,Maria Carrasquillo,38,Female,Latinx,No Evidence,NA,No Relationship,73.1,35.1,30-39
+59,Vernon,Michael,12/19/95,Rafael Gonzalez,12,Male,Latinx,No Evidence,NA,No Relationship,70,58,10-19
+59,Vernon,Michael,12/19/95,Ricardo Gonzalez,13,Male,Latinx,No Evidence,NA,No Relationship,70,57,10-19
+59,Vernon,Michael,12/19/95,Henry Lucero Inga,22,Male,Latinx,No Evidence,NA,No Relationship,67.1,45.1,20-29
+60,McCree,Clifton,2/9/1996,Joseph Belotto,40,Male,White,Yes,former coworker,Co-worker/Supervisor,67.4,27.4,40-49
+60,McCree,Clifton,2/9/1996,Kenneth A. Brunjes,46,Male,White,Yes,former coworker,Co-worker/Supervisor,66.5,20.5,40-49
+60,McCree,Clifton,2/9/1996,Mark A. Bretz,36,Male,White,Yes,former coworker,Co-worker/Supervisor,67.4,31.4,30-39
+60,McCree,Clifton,2/9/1996,Joseph Timothy Clifford,37,Male,White,Yes,former supervisor,Co-worker/Supervisor,67.4,30.4,30-39
+60,McCree,Clifton,2/9/1996,Donald Leroy Moon Jr.,44,Male,White,Yes,former coworker,Co-worker/Supervisor,66.5,22.5,40-49
+61,Tornes,Kenneth,4/24/96,Stanley Adams,45,Male,White,Yes,supervisor,Co-worker/Supervisor,66.5,21.5,40-49
+61,Tornes,Kenneth,4/24/96,Dwight Craft,48,Male,White,Yes,supervisor,Co-worker/Supervisor,66.5,18.5,40-49
+61,Tornes,Kenneth,4/24/96,Merideth Moree,49,Female,White,Yes,supervisor,Co-worker/Supervisor,72.2,23.2,40-49
+61,Tornes,Kenneth,4/24/96,Rick Robbins,47,Male,White,Yes,supervisor,Co-worker/Supervisor,66.5,19.5,40-49
+61,Tornes,Kenneth,4/24/96,Glenda Tornes,42,Female,,Yes,wife,Romantic Partner,71.1,29.1,40-49
+62,Drega,Carl,8/19/97,Vickie Marie Bunnell,45,Female,White,Yes,lived in same town and Drega had previous disputes with town government,Other known,72.2,27.2,40-49
+62,Drega,Carl,8/19/97,Dennis Joos,51,Male,White,Yes,lived in same town and Drega had previous disputes with town government,Other known,66.5,15.5,50-59
+62,Drega,Carl,8/19/97,Leslie G. Lord,45,Male,White,Yes,lived in same town and Drega had previous disputes with town government,Other known,66.5,21.5,40-49
+62,Drega,Carl,8/19/97,Scott E. Phillips,32,Male,White,Yes,lived in same town and Drega had previous disputes with town government,Other known,68,36,30-39
+63,Wise,Hastings Arthur,9/15/97,Ernest Leonard Filyaw Jr.,31,Male,White,Yes,former coworker,Co-worker/Supervisor,68,37,30-39
+63,Wise,Hastings Arthur,9/15/97,Charles Griffeth,56,Male,White,Yes,former coworker,Co-worker/Supervisor,66.5,10.5,50-59
+63,Wise,Hastings Arthur,9/15/97,David Moore,30,Male,White,Yes,former coworker,Co-worker/Supervisor,68,38,30-39
+63,Wise,Hastings Arthur,9/15/97,Esther Sheryl Wood,27,Female,White,Yes,former coworker,Co-worker/Supervisor,75.6,48.6,20-29
+64,Serrano,Nelson,12/3/1997,Frank Dosso,35,Male,White,Yes,former work acquaintances,Co-worker/Supervisor,67.4,32.4,30-39
+64,Serrano,Nelson,12/3/1997,George Gonsalves,69,Male,Latinx,Yes,former business partner,Co-worker/Supervisor,80.6,11.6,60-69
+64,Serrano,Nelson,12/3/1997,Diane Dosso Patisso,28,Female,White,Yes,former work acquaintances,Co-worker/Supervisor,75.6,47.6,20-29
+64,Serrano,Nelson,12/3/1997,George Patisso Jr.,27,Male,White,Yes,former work acquaintances,Co-worker/Supervisor,68,41,20-29
+65,Torres,Arturo,12/18/97,Hal Bruce Bierlein,51,Male,White,Yes,former supervisor,Co-worker/Supervisor,66.5,15.5,50-59
+65,Torres,Arturo,12/18/97,Wayne Allen Bowers,43,Male,White,Yes,former coworker,Co-worker/Supervisor,66.5,23.5,40-49
+65,Torres,Arturo,12/18/97,Michael James Kelley,49,Male,White,Yes,former coworker,Co-worker/Supervisor,66.5,17.5,40-49
+65,Torres,Arturo,12/18/97,Paul White,40,Male,White,Yes,former coworker,Co-worker/Supervisor,67.4,27.4,40-49
+66,Beck,Matthew,3/6/1998,Otho R. Brown,54,Male,White,Yes,supervisor,Co-worker/Supervisor,66.5,12.5,50-59
+66,Beck,Matthew,3/6/1998,Michael T. Logan,33,Male,White,Yes,supervisor,Co-worker/Supervisor,68,35,30-39
+66,Beck,Matthew,3/6/1998,Linda A. Blogoslawski Mlynarczyk,38,Female,White,Yes,supervisor,Co-worker/Supervisor,74.1,36.1,30-39
+66,Beck,Matthew,3/6/1998,Frederick W. Rubelmann III,40,Male,White,Yes,supervisor,Co-worker/Supervisor,67.4,27.4,40-49
+"67, 68","Golden, Johnson","Andrew, Mitchell",3/24/98,Natalie Brooks,11,Female,White,Yes,classmate,Teacher/Classmate,79.4,68.4,10-19
+"67, 68","Golden, Johnson","Andrew, Mitchell",3/24/98,Paige Ann Herring,12,Female,White,Yes,classmate,Teacher/Classmate,79.4,67.4,10-19
+"67, 68","Golden, Johnson","Andrew, Mitchell",3/24/98,Stephanie Johnson,12,Female,White,Yes,classmate,Teacher/Classmate,79.4,67.4,10-19
+"67, 68","Golden, Johnson","Andrew, Mitchell",3/24/98,Britthney Varner-Wilson,11,Female,White,Yes,classmate,Teacher/Classmate,79.4,68.4,10-19
+"67, 68","Golden, Johnson","Andrew, Mitchell",3/24/98,Shannon Wright,32,Female,White,Yes,teacher,Teacher/Classmate,75.6,43.6,30-39
+69,Kinkel,Kip,5/20/98,Bill Kinkel,59,Male,White,Yes,father,Family Member,66.5,7.5,50-59
+69,Kinkel,Kip,5/20/98,Faith Kinkel,57,Female,White,Yes,mother,Family Member,72.2,15.2,50-59
+69,Kinkel,Kip,5/20/98,Mikael Nickolauson,17,Male,White,Yes,classmate,Teacher/Classmate,70.7,53.7,10-19
+69,Kinkel,Kip,5/20/98,Ben Walker,16,Male,White,Yes,classmate,Teacher/Classmate,70.7,54.7,10-19
+70,Miller,Shon,3/10/1999,Vaniaro Jackson,19,Male,,No Evidence,NA,No Relationship,70,51,10-19
+70,Miller,Shon,3/10/1999,Carla Miller,25,Female,Black,Yes,estranged wife,Romantic Partner,71.3,46.3,20-29
+70,Miller,Shon,3/10/1999,Shon Miller Jr.,2,Male,Black,Yes,son,Family Member,65.2,63.2,0-9
+70,Miller,Shon,3/10/1999,Mildred Vessel,53,Female,Black,Yes,mother-in-law,Family Member,62.9,9.9,50-59
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/99,Cassie Bernall,17,Female,White,Likely,"classmate, possibly known",Teacher/Classmate,78.1,61.1,10-19
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/99,Steven Curnow,14,Male,White,Likely,"classmate, possibly known",Teacher/Classmate,72.7,58.7,10-19
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/99,Corey DePooter,17,Male,White,Likely,"classmate, possibly known",Teacher/Classmate,70.7,53.7,10-19
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/99,Kelly Fleming,16,Female,White,Likely,"classmate, possibly known",Teacher/Classmate,78.1,62.1,10-19
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/99,Matthew Kechter,16,Male,White,Likely,"classmate, possibly known",Teacher/Classmate,70.7,54.7,10-19
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/99,Daniel Mauser,15,Male,White,Likely,"classmate, possibly known",Teacher/Classmate,70.7,55.7,10-19
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/99,Daniel Rohrbough,15,Male,White,Yes,"classmate, definitely known",Teacher/Classmate,70.7,55.7,10-19
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/99,"William ""Dave"" Sanders",47,Male,White,Yes,teacher,Teacher/Classmate,66.5,19.5,40-49
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/99,Rachel Scott,17,Female,White,Yes,"classmate, definitely known",Teacher/Classmate,78.1,61.1,10-19
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/99,Isaiah Shoels,18,Male,Black,Likely,"classmate, possibly known",Teacher/Classmate,63.8,45.8,10-19
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/99,John Tomlin,16,Male,White,Likely,"classmate, possibly known",Teacher/Classmate,70.7,54.7,10-19
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/99,Lauren Townsend,18,Female,White,Likely,"classmate, possibly known",Teacher/Classmate,78.1,60.1,10-19
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/99,Kyle Velasquez,16,Male,Latinx,Likely,"classmate, possibly known",Teacher/Classmate,70,54,10-19
+73,Floyd,Zane,6/3/1999,Thomas Darnell,40,Male,White,No Evidence,NA,No Relationship,74.1,34.1,40-49
+73,Floyd,Zane,6/3/1999,"Carlos ""Chuck"" Leos",41,Male,Latinx,No Evidence,NA,No Relationship,66.6,25.6,40-49
+73,Floyd,Zane,6/3/1999,Dennis Troy Sargent,29,Male,White,No Evidence,NA,No Relationship,68,39,20-29
+73,Floyd,Zane,6/3/1999,Luci Tarantino,60,Female,White,No Evidence,NA,No Relationship,72.2,12.2,60-69
+74,Barton,Mark,7/27/99,Leigh Ann Vandiver Barton,27,Female,White,Yes,wife,Romantic Partner,75.6,48.6,20-29
+74,Barton,Mark,7/28/99,Matthew David Barton,11,Male,White,Yes,son,Family Member,72.7,61.7,10-19
+74,Barton,Mark,7/28/99,Mychelle Elizabeth Barton,8,Female,White,Yes,daughter,Family Member,79.4,71.4,0-9
+74,Barton,Mark,7/29/99,Russell J. Brown,42,Male,,Likely,may have met at the brokerage house both traded at,Other known,66.6,24.6,40-49
+74,Barton,Mark,7/29/99,Dean Delawalla,52,Male,Asian,Likely,may have met at the brokerage house both traded at,Other known,65.6,13.6,50-59
+74,Barton,Mark,7/29/99,Joseph J. Dessert,60,Male,,Likely,may have met at the brokerage house both traded at,Other known,65.6,5.6,60-69
+74,Barton,Mark,7/29/99,Kevin Middleton Dial,38,Male,White,Yes,office manager of brokerage house Barton frequented,Other known,67.4,29.4,30-39
+74,Barton,Mark,7/29/99,Jamshid Havash,45,Male,Middle Eastern,Likely,may have met at the brokerage house both traded at,Other known,65.6,20.6,40-49
+74,Barton,Mark,7/29/99,Vadewattee Muralidhara,44,Female,Asian,No Evidence,NA,No Relationship,71.1,27.1,40-49
+74,Barton,Mark,7/29/99,Edward Quinn,58,Male,,Likely,may have met at the brokerage house both traded at,Other known,65.6,7.6,50-59
+74,Barton,Mark,7/29/99,Allen Charles Tenenbaum,48,Male,White,Likely,may have met at the brokerage house both traded at,Other known,66.5,18.5,40-49
+74,Barton,Mark,7/29/99,Scott Allyn Webb,30,Male,,Likely,may have met at the brokerage house both traded at,Other known,67.1,37.1,30-39
+75,Ashbrook,Larry,9/15/99,Kristi Kathleen Beckel,14,Female,White,No Evidence,NA,No Relationship,79.4,65.4,10-19
+75,Ashbrook,Larry,9/15/99,Shawn Brown,23,Male,White,No Evidence,NA,No Relationship,70.7,47.7,20-29
+75,Ashbrook,Larry,9/15/99,Sydney Rochelle Browning,36,Female,White,No Evidence,NA,No Relationship,74.1,38.1,30-39
+75,Ashbrook,Larry,9/15/99,"Joseph Daniel ""Joey"" Ennis",14,Male,White,No Evidence,NA,No Relationship,72.7,58.7,10-19
+75,Ashbrook,Larry,9/15/99,Cassandra Fawn Griffin,14,Female,White,No Evidence,NA,No Relationship,79.4,65.4,10-19
+75,Ashbrook,Larry,9/15/99,"Susan Kimberly ""Kim"" Jones",23,Female,White,No Evidence,NA,No Relationship,78.1,55.1,20-29
+75,Ashbrook,Larry,9/15/99,Justin Michael Stegner Ray,17,Male,White,No Evidence,NA,No Relationship,70.7,53.7,10-19
+76,Uyesugi,Byran,11/2/1999,Jason Balatico,33,Male,Asian,Yes,coworker,Co-worker/Supervisor,67.1,34.1,30-39
+76,Uyesugi,Byran,11/2/1999,Ford Kanehira,41,Male,Asian,Yes,coworker,Co-worker/Supervisor,66.6,25.6,40-49
+76,Uyesugi,Byran,11/2/1999,Ronald Kataoka,50,Male,Asian,Yes,coworker,Co-worker/Supervisor,65.6,15.6,50-59
+76,Uyesugi,Byran,11/2/1999,Ronald Kawamae,54,Male,Asian,Yes,coworker,Co-worker/Supervisor,65.6,11.6,50-59
+76,Uyesugi,Byran,11/2/1999,Melvin Lee,58,Male,Asian,Yes,coworker,Co-worker/Supervisor,65.6,7.6,50-59
+76,Uyesugi,Byran,11/2/1999,Peter Mark,46,Male,Asian,Yes,coworker,Co-worker/Supervisor,65.6,19.6,40-49
+76,Uyesugi,Byran,11/2/1999,John Sakamoto,36,Male,Asian,Yes,coworker,Co-worker/Supervisor,66.6,30.6,30-39
+77,Izquierdo-Leyva,Silvio,12/30/99,Jose Aguilar,40,Male,Latinx,Yes,coworker,Co-worker/Supervisor,66.6,26.6,40-49
+77,Izquierdo-Leyva,Silvio,12/30/99,Barbara Carter,55,Female,,Yes,coworker,Co-worker/Supervisor,71.1,16.1,50-59
+77,Izquierdo-Leyva,Silvio,12/30/99,George Jones,43,Male,,Yes,coworker,Co-worker/Supervisor,66.6,23.6,40-49
+77,Izquierdo-Leyva,Silvio,12/30/99,Eric Pedroso,29,Male,Latinx,Yes,coworker,Co-worker/Supervisor,67.1,38.1,20-29
+77,Izquierdo-Leyva,Silvio,12/30/99,Dolores Perdomo,56,Female,Latinx,No Evidence,NA,No Relationship,71.1,15.1,50-59
+78,Harris,Robert,3/20/00,Roberto Jimenez Jr.,15,Male,Latinx,Yes,former coworker,Co-worker/Supervisor,71.8,56.8,10-19
+78,Harris,Robert,3/20/00,Dennis Lee,48,Male,White,Yes,former supervisor,Co-worker/Supervisor,66.5,18.5,40-49
+78,Harris,Robert,3/20/00,Augustin Villasenor,36,Male,Latinx,Yes,former supervisor,Co-worker/Supervisor,66.6,30.6,30-39
+78,Harris,Robert,3/20/00,Benjamin Villasenor,32,Male,Latinx,Yes,former coworker,Co-worker/Supervisor,67.1,35.1,30-39
+78,Harris,Robert,3/20/00,Rhoda Wheeler,46,Female,White,Yes,former coworker,Co-worker/Supervisor,72.2,26.2,40-49
+79,Baumhammers,Richard,4/28/00,"Anita ""Nicki"" Gordon",63,Female,White,Yes,neighbor,Other known,72.2,9.2,60-69
+79,Baumhammers,Richard,4/28/00,Garry Dewane Lee,22,Male,Black,No Evidence,NA,No Relationship,63.8,41.8,20-29
+79,Baumhammers,Richard,4/28/00,"Thao ""Tony"" Pham",27,Male,Asian,No Evidence,NA,No Relationship,68.8,41.8,20-29
+79,Baumhammers,Richard,4/28/00,"Ji-ye ""Jerry"" Sun",34,Male,Asian,No Evidence,NA,No Relationship,67.1,33.1,30-39
+79,Baumhammers,Richard,4/28/00,Anil Thakur,31,Male,Asian,No Evidence,NA,No Relationship,67.1,36.1,30-39
+80,McDermott,Michael,12/26/00,Jennifer Bragg Capobianco,29,Female,White,Yes,coworker,Co-worker/Supervisor,75.6,46.6,20-29
+80,McDermott,Michael,12/26/00,Janice Hagerty,46,Female,,Yes,coworker,Co-worker/Supervisor,71.1,25.1,40-49
+80,McDermott,Michael,12/26/00,Louis Javelle,58,Male,White,Yes,coworker,Co-worker/Supervisor,66.5,8.5,50-59
+80,McDermott,Michael,12/26/00,Rose M. Manfredi,48,Female,White,Yes,coworker,Co-worker/Supervisor,72.2,24.2,40-49
+80,McDermott,Michael,12/26/00,Paul Marceau,36,Male,White,Yes,coworker,Co-worker/Supervisor,67.4,31.4,30-39
+80,McDermott,Michael,12/26/00,Cheryl Troy,50,Female,White,Yes,coworker,Co-worker/Supervisor,72.2,22.2,50-59
+80,McDermott,Michael,12/26/00,Craig Wood,29,Male,White,Yes,coworker,Co-worker/Supervisor,68,39,20-29
+81,Park,Ki Yung,1/9/2001,Chong Chang,58,Male,Asian,Yes,business acquaintance,Co-worker/Supervisor,65.6,7.6,50-59
+81,Park,Ki Yung,1/9/2001,Hyung Chang,54,Female,Asian,Yes,business acquaintance,Co-worker/Supervisor,71.1,17.1,50-59
+81,Park,Ki Yung,1/9/2001,Kathy Chang,23,Female,Asian,Yes,business acquaintance,Co-worker/Supervisor,77.4,54.4,20-29
+81,Park,Ki Yung,1/9/2001,Byong Sun Park,42,Female,Asian,Yes,estranged wife,Romantic Partner,73.1,31.1,40-49
+82,Baker,William,2/5/2001,Michael Victor Brus,48,Male,White,Yes,former coworker,Co-worker/Supervisor,66.5,18.5,40-49
+82,Baker,William,2/5/2001,Daniel Thomas Dorsch,52,Male,,Yes,former coworker,Co-worker/Supervisor,65.6,13.6,50-59
+82,Baker,William,2/5/2001,William Allen Garcia,44,Male,,Yes,former coworker,Co-worker/Supervisor,66.6,22.6,40-49
+82,Baker,William,2/5/2001,Robert Edward Wehrheim,47,Male,,No Evidence,NA,No Relationship,65.6,18.6,40-49
+83,Stagner,Steven,7/3/2001,Juan Manuel Hernandez-Carrillo,44,Male,Latinx,No Evidence,NA,No Relationship,66.6,22.6,40-49
+83,Stagner,Steven,7/3/2001,Melquiades Medrano-Velasquez,23,Male,Latinx,No Evidence,NA,No Relationship,70,47,20-29
+83,Stagner,Steven,7/3/2001,Juan Carlos Medrano-Velasquez,22,Male,Latinx,No Evidence,NA,No Relationship,70,48,20-29
+83,Stagner,Steven,7/3/2001,Angelica Toscano,19,Female,Latinx,No Evidence,NA,No Relationship,77.4,58.4,10-19
+84,Ferguson,Joseph,9/8/2001,George Bernardino,48,Male,Asian,Yes,coworker,Co-worker/Supervisor,65.6,17.6,40-49
+84,Ferguson,Joseph,9/8/2001,John Derek Glimstad,19,Male,White,No Evidence,NA,No Relationship,70.7,51.7,10-19
+84,Ferguson,Joseph,9/8/2001,Marsha Marie Jackson,32,Female,Black,Yes,coworker,Co-worker/Supervisor,68.3,36.3,30-39
+84,Ferguson,Joseph,9/8/2001,Nina Susu,20,Female,White,Yes,ex-girlfriend,Romantic Partner,78.1,58.1,20-29
+84,Ferguson,Joseph,9/9/2001,Nikolay Popovich,28,Male,White,Yes,supervisor,Co-worker/Supervisor,69.5,41.5,20-29
+85,Lockey,William,3/22/02,Dave Arpasi,73,Male,,Yes,coworkers,Co-worker/Supervisor,80.6,7.6,70-79
+85,Lockey,William,3/22/02,John Contadeluci,47,Male,,Yes,coworkers,Co-worker/Supervisor,66.6,19.6,40-49
+85,Lockey,William,3/22/02,Robert Downs Jr.,42,Male,White,Yes,coworkers,Co-worker/Supervisor,67.4,25.4,40-49
+85,Lockey,William,3/22/02,Craig Schafer,51,Male,,Yes,coworkers,Co-worker/Supervisor,65.6,14.6,50-59
+86,Patterson,Emanuel Burl,2/25/03,Benjamin Ferguson,47,Male,,Yes,fellow jobseeker,Other known,66.6,19.6,40-49
+86,Patterson,Emanuel Burl,2/25/03,Billy Wayne Knox Sr.,61,Male,,Yes,fellow jobseeker,Other known,65.6,4.6,60-69
+86,Patterson,Emanuel Burl,2/25/03,Billy Eugene Knox Jr.,22,Male,,Yes,fellow jobseeker,Other known,70,48,20-29
+86,Patterson,Emanuel Burl,2/25/03,David Seiler,46,Male,,Yes,fellow jobseeker,Other known,66.6,20.6,40-49
+87,Williams,Doug,7/8/2003,DeLois Bailey,53,Female,Black,Yes,coworker,Co-worker/Supervisor,62.9,9.9,50-59
+87,Williams,Doug,7/8/2003,Sam Cockrell,46,Male,Black,Yes,coworker,Co-worker/Supervisor,61.1,15.1,40-49
+87,Williams,Doug,7/8/2003,Micky Fitzgerald,45,Male,White,Yes,coworker,Co-worker/Supervisor,67.4,22.4,40-49
+87,Williams,Doug,7/8/2003,Lynette McCall,47,Female,Black,Yes,coworker,Co-worker/Supervisor,66.3,19.3,40-49
+87,Williams,Doug,7/8/2003,Charlie J. Miller,58,Male,Black,Yes,coworker,Co-worker/Supervisor,59.1,1.1,50-59
+87,Williams,Doug,7/8/2003,Thomas Willis,57,Male,Black,Yes,coworker,Co-worker/Supervisor,59.1,2.1,50-59
+88,Tapia,Salvador,8/27/03,Calvin Ramsey,44,Male,,Yes,former coworker,Co-worker/Supervisor,66.6,22.6,40-49
+88,Tapia,Salvador,8/27/03,Robert Taylor,53,Male,,Yes,former coworker,Co-worker/Supervisor,65.6,12.6,50-59
+88,Tapia,Salvador,8/27/03,Juan Valles,34,Male,Latinx,Yes,former coworker,Co-worker/Supervisor,67.1,33.1,30-39
+88,Tapia,Salvador,8/27/03,Alan Earl Weiner,50,Male,,Yes,former coworker,Co-worker/Supervisor,65.6,15.6,50-59
+88,Tapia,Salvador,8/27/03,Daniel Weiner,30,Male,,Yes,former coworker,Co-worker/Supervisor,68.8,38.8,30-39
+88,Tapia,Salvador,8/27/03,Howard Weiner,59,Male,,Yes,former coworker,Co-worker/Supervisor,65.6,6.6,50-59
+89,Reeves,Ralph,10/24/03,Chester W. Cavaliere,62,Male,,No Evidence,NA,No Relationship,65.6,3.6,60-69
+89,Reeves,Ralph,10/24/03,"Henry ""Hank"" Franklin Shumake",63,Male,,No Evidence,NA,No Relationship,65.6,2.6,60-69
+89,Reeves,Ralph,10/24/03,LeRoy G. Wiese,84,Male,,No Evidence,NA,No Relationship,84.7,0.7,80+
+89,Reeves,Ralph,10/24/03,Tiki Danielle Wiese,41,Female,,Yes,ex-girlfriend,Romantic Partner,73.1,32.1,40-49
+90,Brown,Elijah,7/2/2004,Ardell L. Edwards,55,Male,Black,Yes,coworker,Co-worker/Supervisor,59.1,4.1,50-59
+90,Brown,Elijah,7/2/2004,Lonnie Ellenberg,46,Male,Black,Yes,coworker,Co-worker/Supervisor,61.1,15.1,40-49
+90,Brown,Elijah,7/2/2004,Jose Ibarra,45,Male,Latinx,Yes,coworker,Co-worker/Supervisor,66.6,21.6,40-49
+90,Brown,Elijah,7/2/2004,Travis Lamont Nelson,23,Male,Black,Yes,coworker,Co-worker/Supervisor,63.8,40.8,20-29
+90,Brown,Elijah,7/2/2004,Leonardo Rodriguez,49,Male,Latinx,Yes,coworker,Co-worker/Supervisor,66.6,17.6,40-49
+91,Vang,Chai,11/21/04,"Robert ""Bob"" Crotteau",42,Male,White,No Evidence,NA,No Relationship,67.4,25.4,40-49
+91,Vang,Chai,11/21/04,Joey Crotteau,20,Male,White,No Evidence,NA,No Relationship,70.7,50.7,20-29
+91,Vang,Chai,11/21/04,"Dennis ""Denny"" Drew",55,Male,White,No Evidence,NA,No Relationship,66.5,11.5,50-59
+91,Vang,Chai,11/21/04,"Allan James ""Al"" Laski",43,Male,White,No Evidence,NA,No Relationship,67.4,24.4,40-49
+91,Vang,Chai,11/21/04,Mark Roidt,28,Male,White,No Evidence,NA,No Relationship,69.5,41.5,20-29
+91,Vang,Chai,11/21/04,Jessica Willers,27,Female,White,No Evidence,NA,No Relationship,77.3,50.3,20-29
+92,Gale,Nathan,12/8/2004,"Darrell ""Dimebag"" Abbott",38,Male,White,No Evidence,"They had never met, but Gale targeted Abbott ",Other known,68,30,30-39
+92,Gale,Nathan,12/8/2004,Erin Alexander Halk,29,Male,White,No Evidence,NA,No Relationship,69.5,40.5,20-29
+92,Gale,Nathan,12/8/2004,Nathan Anthony Bray,23,Male,White,No Evidence,NA,No Relationship,70.7,47.7,20-29
+92,Gale,Nathan,12/8/2004,"Jeffery ""Mayhem"" Thompson",40,Male,White,No Evidence,NA,No Relationship,67.4,27.4,40-49
+93,Nichols,Brian,3/11/2005,Rowland Wayne Barnes,64,Male,White,Yes,oversaw Nichols's trial prior to shooting,Other known,66.5,2.5,60-69
+93,Nichols,Brian,3/11/2005,Julie Ann Brandau,46,Female,White,No Evidence,NA,No Relationship,74.1,28.1,40-49
+93,Nichols,Brian,3/11/2005,Hoyt Keith Teasley,43,Male,Black,No Evidence,NA,No Relationship,61.1,18.1,40-49
+93,Nichols,Brian,3/11/2005,David Gray Wilhelm,40,Male,White,No Evidence,NA,No Relationship,68,28,40-49
+94,Ratzmann,Terry,3/12/2005,Gloria Sue Critari,55,Female,,Yes,fellow church member,Other known,71.1,16.1,50-59
+94,Ratzmann,Terry,3/12/2005,Harold Diekmeier,74,Male,White,Yes,fellow church member,Other known,80.7,6.7,70-79
+94,Ratzmann,Terry,3/12/2005,James Isaac Gregory,16,Male,,Yes,fellow church member,Other known,71.8,55.8,10-19
+94,Ratzmann,Terry,3/12/2005,Randy Lynn Gregory,51,Male,,Yes,fellow church member,Other known,65.6,14.6,50-59
+94,Ratzmann,Terry,3/12/2005,Gerald Anthony Miller,44,Male,White,Yes,fellow church member,Other known,67.4,23.4,40-49
+94,Ratzmann,Terry,3/12/2005,Bart J. Oliver,15,Male,White,Yes,fellow church member,Other known,72.7,57.7,10-19
+94,Ratzmann,Terry,3/12/2005,Richard Reeves,58,Male,,Yes,fellow church member,Other known,65.6,7.6,50-59
+95,Weise,Jeffrey,3/21/05,Derrick Brun,28,Male,Native American,Yes,school security guard,Teacher/Classmate,68.8,40.8,20-29
+95,Weise,Jeffrey,3/21/05,Dewayne Lewis,15,Male,Native American,Yes,classmate,Teacher/Classmate,71.8,56.8,10-19
+95,Weise,Jeffrey,3/21/05,Chase Lussier,15,Male,Native American,Yes,classmate,Teacher/Classmate,71.8,56.8,10-19
+95,Weise,Jeffrey,3/21/05,"Daryl ""Dash"" Lussier",58,Male,Native American,Yes,grandfather,Family Member,65.6,7.6,50-59
+95,Weise,Jeffrey,3/21/05,Neva Rogers,62,Female,White,Yes,teacher,Teacher/Classmate,72.2,10.2,60-69
+95,Weise,Jeffrey,3/21/05,Chanelle Rosebear,15,Female,Native American,Yes,classmate,Teacher/Classmate,78.8,63.8,10-19
+95,Weise,Jeffrey,3/21/05,Michelle Sigana,32,Female,Native American,Yes,grandfather's girlfriend,Other known,76.6,44.6,30-39
+95,Weise,Jeffrey,3/21/05,Thurlene Stillday,15,Female,Native American,Yes,classmate,Teacher/Classmate,78.8,63.8,10-19
+95,Weise,Jeffrey,3/21/05,Alicia White,15,Female,Native American,Yes,classmate,Teacher/Classmate,78.8,63.8,10-19
+96,Cranshaw,Freddy,8/28/05,James Wayne Armstrong,42,Male,,Yes,neighboring church pastor,Other known,66.6,24.6,40-49
+96,Cranshaw,Freddy,8/28/05,Ernest Wesley Brown,61,Male,,Yes,neighboring church leader,Other known,65.6,4.6,60-69
+96,Cranshaw,Freddy,8/28/05,Holly Ann Love Brown,50,Female,,No Evidence,NA,No Relationship,73.1,23.1,50-59
+96,Cranshaw,Freddy,8/28/05,Ceri Litterio,46,Female,,No Evidence,NA,No Relationship,73.1,27.1,40-49
+97,San Marco,Jennifer,1/30/06,Ze Vang Fairchild,37,Female,Asian,Likely,likely a former coworker,Co-worker/Supervisor,74.7,37.7,30-39
+97,San Marco,Jennifer,1/30/06,Beverly Ann Graham,54,Female,White,Yes,former neighbor,Other known,72.2,18.2,50-59
+97,San Marco,Jennifer,1/30/06,Nicola Michelle Grant,42,Female,Black,Likely,likely a former coworker,Co-worker/Supervisor,66.3,24.3,40-49
+97,San Marco,Jennifer,1/30/06,Maleka M. Higgins,28,Female,Black,Likely,likely a former coworker,Co-worker/Supervisor,72.5,44.5,20-29
+97,San Marco,Jennifer,1/30/06,Dexter E. Shannon,57,Male,Black,Likely,likely a former coworker,Co-worker/Supervisor,59.1,2.1,50-59
+97,San Marco,Jennifer,1/30/06,Guadalupe Swartz,52,Female,Latinx,Likely,likely a former coworker,Co-worker/Supervisor,71.1,19.1,50-59
+97,San Marco,Jennifer,1/30/06,Charlotte Colton,44,Female,Asian,Likely,likely a former coworker,Co-worker/Supervisor,73.1,29.1,40-49
+98,Huff,Kyle,3/25/06,Jeremy Robert Martin,26,Male,White,No Evidence,NA,No Relationship,70.7,44.7,20-29
+98,Huff,Kyle,3/25/06,Melissa Moore,14,Female,Asian,No Evidence,NA,No Relationship,78.8,64.8,10-19
+98,Huff,Kyle,3/25/06,Justin Schwartz,22,Male,Native American,No Evidence,NA,No Relationship,70,48,20-29
+98,Huff,Kyle,3/25/06,Suzanne Thorne,15,Female,White,No Evidence,NA,No Relationship,79.4,64.4,10-19
+98,Huff,Kyle,3/25/06,Jason Travers,32,Male,White,No Evidence,NA,No Relationship,69.5,37.5,30-39
+98,Huff,Kyle,3/25/06,Christopher Williamson,21,Male,White,No Evidence,NA,No Relationship,72.7,51.7,20-29
+99,Bell,Anthony,5/21/06,Erica Bell,24,Female,Black,Yes,wife,Romantic Partner,72.5,48.5,20-29
+99,Bell,Anthony,5/21/06,Gloria Howard,72,Female,Black,Yes,in-law,Family Member,82.5,10.5,70-79
+99,Bell,Anthony,5/21/06,Leonard Howard,78,Male,Black,Yes,in-law,Family Member,84.2,6.2,70-79
+99,Bell,Anthony,5/21/06,Doloris McGrew,67,Female,Black,Yes,in-law,Family Member,83.3,16.3,60-69
+99,Bell,Anthony,5/21/06,Darlene Mills Selvage,47,Female,Black,Yes,in-law,Family Member,66.3,19.3,40-49
+100,Roberts,Charles,10/2/2006,Naomi Rose Ebersol,7,Female,White,Likely,Roberts delivered milk to the community and she may have known him,Other known,79.9,72.9,0-9
+100,Roberts,Charles,10/2/2006,Marian Stoltzfus Fisher,13,Female,White,Likely,Roberts delivered milk to the community and she may have known him,Other known,79.6,66.6,10-19
+100,Roberts,Charles,10/2/2006,Lena Zook Miller,7,Female,White,Likely,Roberts delivered milk to the community and she may have known him,Other known,79.9,72.9,0-9
+100,Roberts,Charles,10/2/2006,Mary Liz Miller,8,Female,White,Likely,Roberts delivered milk to the community and she may have known him,Other known,79.9,71.9,0-9
+100,Roberts,Charles,10/2/2006,Anna Mae Stoltzfus,12,Female,White,Likely,Roberts delivered milk to the community and she may have known him,Other known,79.6,67.6,10-19
+101,Talovic,Sulejman,2/12/2007,Teresa Ellis,29,Female,White,No Evidence,NA,No Relationship,78.1,49.1,20-29
+101,Talovic,Sulejman,2/12/2007,Brad Frantz,24,Male,White,No Evidence,NA,No Relationship,70.7,46.7,20-29
+101,Talovic,Sulejman,2/12/2007,Kirsten Hinckley,15,Female,White,No Evidence,NA,No Relationship,79.4,64.4,10-19
+101,Talovic,Sulejman,2/12/2007,Vanessa Quinn,29,Female,White,No Evidence,NA,No Relationship,78.1,49.1,20-29
+101,Talovic,Sulejman,2/12/2007,Jeffery Walker,52,Male,White,No Evidence,NA,No Relationship,67.4,15.4,50-59
+102,Cho,Seung-Hui,4/16/07,Ross Abdallah Alameddine,20,Male,Middle Eastern,Yes,classmate,Teacher/Classmate,71.8,51.8,20-29
+102,Cho,Seung-Hui,4/16/07,Christopher James Bishop,35,Male,White,Likely,faculty,Teacher/Classmate,68,33,30-39
+102,Cho,Seung-Hui,4/16/07,Brian Roy Bluhm,25,Male,White,Likely,classmate,Teacher/Classmate,70.7,45.7,20-29
+102,Cho,Seung-Hui,4/16/07,Ryan Christopher Clark,22,Male,Black,Likely,classmate,Teacher/Classmate,64.5,42.5,20-29
+102,Cho,Seung-Hui,4/16/07,Austin Michelle Cloyd,18,Female,White,Likely,classmate,Teacher/Classmate,79.4,61.4,10-19
+102,Cho,Seung-Hui,4/16/07,Jocelyne Couture-Nowak,49,Female,White,Likely,faculty,Teacher/Classmate,74.1,25.1,40-49
+102,Cho,Seung-Hui,4/16/07,Kevin P. Granata,45,Male,White,Likely,faculty,Teacher/Classmate,67.4,22.4,40-49
+102,Cho,Seung-Hui,4/16/07,Matthew Gregory Gwaltney,24,Male,White,Likely,classmate,Teacher/Classmate,70.7,46.7,20-29
+102,Cho,Seung-Hui,4/16/07,Caitlin Millar Hammaren,19,Female,White,Likely,classmate,Teacher/Classmate,79.4,60.4,10-19
+102,Cho,Seung-Hui,4/16/07,Jeremy Michael Herbstritt,27,Male,White,Likely,classmate,Teacher/Classmate,70.7,43.7,20-29
+102,Cho,Seung-Hui,4/16/07,Rachael Elizabeth Hill,18,Female,White,Likely,classmate,Teacher/Classmate,79.4,61.4,10-19
+102,Cho,Seung-Hui,4/16/07,Emily Jane Hilscher,19,Female,White,Yes,Cho was infatuated with her,Teacher/Classmate,79.4,60.4,10-19
+102,Cho,Seung-Hui,4/16/07,Jarrett Lee Lane,22,Male,White,Likely,classmate,Teacher/Classmate,72.7,50.7,20-29
+102,Cho,Seung-Hui,4/16/07,Matthew Joseph La Porte,20,Male,White,Likely,classmate,Teacher/Classmate,72.7,52.7,20-29
+102,Cho,Seung-Hui,4/16/07,Henry J. Lee ,20,Male,Asian,Likely,classmate,Teacher/Classmate,71.8,51.8,20-29
+102,Cho,Seung-Hui,4/16/07,Liviu Librescu,76,Male,White,Likely,faculty,Teacher/Classmate,85.6,9.6,70-79
+102,Cho,Seung-Hui,4/16/07,G. V. Loganathan,51,Male,Asian,Likely,faculty,Teacher/Classmate,66.6,15.6,50-59
+102,Cho,Seung-Hui,4/16/07,Partahi Mamora Halomoan Lumbantoruan,34,Male,Asian,Likely,classmate,Teacher/Classmate,68.8,34.8,30-39
+102,Cho,Seung-Hui,4/16/07,Lauren Ashley McCain,20,Female,Native American,Likely,classmate,Teacher/Classmate,78.8,58.8,20-29
+102,Cho,Seung-Hui,4/16/07,Daniel Patrick O'Neil,22,Male,White,Likely,classmate,Teacher/Classmate,72.7,50.7,20-29
+102,Cho,Seung-Hui,4/16/07,Juan Ramon Ortiz-Ortiz,26,Male,Latinx,Likely,classmate,Teacher/Classmate,70,44,20-29
+102,Cho,Seung-Hui,4/16/07,Minal Hiralal Panchal,26,Female,Asian,Likely,classmate,Teacher/Classmate,77.4,51.4,20-29
+102,Cho,Seung-Hui,4/16/07,Daniel Alejandro Perez Cueva,21,Male,Latinx,Likely,classmate,Teacher/Classmate,71.8,50.8,20-29
+102,Cho,Seung-Hui,4/16/07,Erin Nicole Peterson,18,Female,Black,Likely,classmate,Teacher/Classmate,73.6,55.6,10-19
+102,Cho,Seung-Hui,4/16/07,Michael Steven Pohle Jr.,23,Male,White,Likely,classmate,Teacher/Classmate,70.7,47.7,20-29
+102,Cho,Seung-Hui,4/16/07,Julia Kathleen Pryde,23,Female,White,Likely,classmate,Teacher/Classmate,78.1,55.1,20-29
+102,Cho,Seung-Hui,4/16/07,Mary Karen Read,19,Female,Asian,Likely,classmate,Teacher/Classmate,78.8,59.8,10-19
+102,Cho,Seung-Hui,4/16/07,Reema Joseph Samaha,18,Female,Middle Eastern,Likely,classmate,Teacher/Classmate,78.8,60.8,10-19
+102,Cho,Seung-Hui,4/16/07,Waleed Mohamed Shaalan,32,Male,Black,Likely,classmate,Teacher/Classmate,62.4,30.4,30-39
+102,Cho,Seung-Hui,4/16/07,Leslie Geraldine Sherman,20,Female,White,Likely,classmate,Teacher/Classmate,79.4,59.4,20-29
+102,Cho,Seung-Hui,4/16/07,Maxine Shelly Turner,22,Female,White,Likely,classmate,Teacher/Classmate,79.4,57.4,20-29
+102,Cho,Seung-Hui,4/16/07,Nicole Regina White,20,Female,White,Likely,classmate,Teacher/Classmate,79.4,59.4,20-29
+103,Hawkins,Robert,12/5/2007,Beverly Flynn,47,Female,White,No Evidence,NA,No Relationship,74.1,27.1,40-49
+103,Hawkins,Robert,12/5/2007,Gary Joy,56,Male,White,No Evidence,NA,No Relationship,66.5,10.5,50-59
+103,Hawkins,Robert,12/5/2007,Janet Jorgensen,66,Female,White,No Evidence,NA,No Relationship,82.3,16.3,60-69
+103,Hawkins,Robert,12/5/2007,John McDonald,65,Male,White,No Evidence,NA,No Relationship,82.4,17.4,60-69
+103,Hawkins,Robert,12/5/2007,Gary Scharf,48,Male,White,No Evidence,NA,No Relationship,67.4,19.4,40-49
+103,Hawkins,Robert,12/5/2007,"Angella ""Angie"" Schuster",36,Female,White,No Evidence,NA,No Relationship,75.6,39.6,30-39
+103,Hawkins,Robert,12/5/2007,Dianne Clavin Trent,53,Female,White,No Evidence,NA,No Relationship,72.2,19.2,50-59
+103,Hawkins,Robert,12/5/2007,Maggie Webb,24,Female,White,No Evidence,NA,No Relationship,78.1,54.1,20-29
+104,Murray,Matthew,12/9/2007,Philip Crouse,22,Male,White,No Evidence,NA,No Relationship,72.7,50.7,20-29
+104,Murray,Matthew,12/9/2007,Tiffany Johnson,25,Female,White,No Evidence,NA,No Relationship,78.1,53.1,20-29
+104,Murray,Matthew,12/9/2007,Rachel Elizabeth Works,16,Female,White,No Evidence,NA,No Relationship,79.4,63.4,10-19
+104,Murray,Matthew,12/9/2007,Stephanie Pauline Works,18,Female,White,No Evidence,NA,No Relationship,79.4,61.4,10-19
+105,Thornton,Charles,2/7/2008,"Thomas Frederick ""Tom"" Ballman",37,Male,White,Yes,acquainted through Thornton's disputes with city government,Other known,68,31,30-39
+105,Thornton,Charles,2/7/2008,"William King ""Bill"" Biggs",50,Male,White,Yes,acquainted through Thornton's disputes with city government,Other known,67.4,17.4,50-59
+105,Thornton,Charles,2/7/2008,Connie Conroy Karr,51,Female,White,Yes,acquainted through Thornton's disputes with city government,Other known,74.1,23.1,50-59
+105,Thornton,Charles,2/7/2008,Michael H.T. Lynch,63,Male,White,Yes,acquainted through Thornton's disputes with city government,Other known,66.5,3.5,60-69
+105,Thornton,Charles,2/7/2008,Mike Emil Swoboda,69,Male,White,Yes,acquainted through Thornton's disputes with city government,Other known,82,13,60-69
+105,Thornton,Charles,2/7/2008,Kenneth Dale Yost,61,Male,White,Yes,acquainted through Thornton's disputes with city government,Other known,66.5,5.5,60-69
+106,Kazmierczak,Steven,2/14/08,Gayle Dubowski,20,Female,White,No Evidence,NA,No Relationship,79.4,59.4,20-29
+106,Kazmierczak,Steven,2/14/08,Catalina Garcia,20,Female,Latinx,No Evidence,NA,No Relationship,78.8,58.8,20-29
+106,Kazmierczak,Steven,2/14/08,Julianna Gehant,32,Female,White,No Evidence,NA,No Relationship,77.3,45.3,30-39
+106,Kazmierczak,Steven,2/14/08,Ryanne Mace,19,Female,White,No Evidence,NA,No Relationship,79.4,60.4,10-19
+106,Kazmierczak,Steven,2/14/08,Daniel Parmenter,20,Male,White,No Evidence,NA,No Relationship,72.7,52.7,20-29
+107,Leeds,Lee,3/18/08,"Golden ""Dave"" Duboise",45,Male,,No Evidence,NA,No Relationship,66.6,21.6,40-49
+107,Leeds,Lee,3/18/08,Ricardo Cardenas Leal,33,Male,Latinx,No Evidence,NA,No Relationship,68.8,35.8,30-39
+107,Leeds,Lee,3/18/08,Robert Louis Leeds,66,Male,White,Yes,father,Family Member,82.4,16.4,60-69
+107,Leeds,Lee,3/18/08,Terry Edward Majan,38,Male,White,Yes,coworker,Co-worker/Supervisor,68,30,30-39
+108,Higdon,Wesley,6/25/08,Joshua Hinojosa,28,Male,Latinx,Yes,coworker,Co-worker/Supervisor,70,42,20-29
+108,Higdon,Wesley,6/25/08,Trisha Mirelez,25,Female,Latinx,Yes,coworker,Co-worker/Supervisor,77.4,52.4,20-29
+108,Higdon,Wesley,6/25/08,Israel Monroy,29,Male,,Yes,coworker,Co-worker/Supervisor,70,41,20-29
+108,Higdon,Wesley,6/25/08,Kevin G. Taylor,30,Male,,Yes,supervisor,Co-worker/Supervisor,70,40,30-39
+108,Higdon,Wesley,6/25/08,Rachael Vasquez,26,Female,Latinx,Yes,coworker,Co-worker/Supervisor,77.4,51.4,20-29
+109,Zamora,Isaac,9/2/2008,Julie Ann Binschus,47,Female,White,Yes,neighbor,Other known,74.1,27.1,40-49
+109,Zamora,Isaac,9/2/2008,Greg N. Gillum,38,Male,White,No Evidence,NA,No Relationship,68,30,30-39
+109,Zamora,Isaac,9/2/2008,Anne Jackson,40,Female,White,Yes,Jackson frequently had contact with Zamora in her job as a police officer,Other known,75.6,35.6,40-49
+109,Zamora,Isaac,9/2/2008,LeRoy Lange,64,Male,White,No Evidence,NA,No Relationship,66.5,2.5,60-69
+109,Zamora,Isaac,9/2/2008,David Radcliffe,57,Male,White,No Evidence,NA,No Relationship,66.5,9.5,50-59
+109,Zamora,Isaac,9/2/2008,Chester Rose,58,Male,White,Yes,neighbor,Other known,66.5,8.5,50-59
+110,Stewart,Robert,3/29/09,Jerry Avant Jr.,39,Male,Asian,No Evidence,NA,No Relationship,67.1,28.1,30-39
+110,Stewart,Robert,3/29/09,Louise DeKler,98,Female,White,No Evidence,NA,No Relationship,87,0,80+
+110,Stewart,Robert,3/29/09,Lillian Dunn,89,Female,White,No Evidence,NA,No Relationship,87,0,80+
+110,Stewart,Robert,3/29/09,Tessie Garner,88,Female,,No Evidence,NA,No Relationship,86.9,0,80+
+110,Stewart,Robert,3/29/09,John Walter Goldston,78,Male,White,No Evidence,NA,No Relationship,85.6,7.6,70-79
+110,Stewart,Robert,3/29/09,Bessie Hendrick,78,Female,White,No Evidence,NA,No Relationship,87.5,9.5,70-79
+110,Stewart,Robert,3/29/09,Margaret Johnson,89,Female,,No Evidence,NA,No Relationship,86.9,0,80+
+110,Stewart,Robert,3/29/09,Jesse Musser,88,Male,White,No Evidence,NA,No Relationship,84.7,0,80+
+111,Wong,Jiverly,4/3/2009,Parveen Ali,26,Female,Middle Eastern,Yes,former classmate,Teacher/Classmate,77.4,51.4,20-29
+111,Wong,Jiverly,4/3/2009,Almir O. Alves,43,Male,Latinx,Yes,former classmate,Teacher/Classmate,67.1,24.1,40-49
+111,Wong,Jiverly,4/3/2009,Maria Sonia Bernard,46,Female,Black,Yes,"former classmate
+",Teacher/Classmate,66.3,20.3,40-49
+111,Wong,Jiverly,4/3/2009,Marc Henry Bernard,44,Male,Black,Yes,former classmate,Teacher/Classmate,60,16,40-49
+111,Wong,Jiverly,4/3/2009,Li Guo,47,Female,Asian,Yes,former classmate,Teacher/Classmate,73.1,26.1,40-49
+111,Wong,Jiverly,4/3/2009,Lan Ho,39,Female,Asian,Yes, former classmate,Teacher/Classmate,74.7,35.7,30-39
+111,Wong,Jiverly,4/3/2009,Layla Khalil,57,Female,Middle Eastern,No Evidence,NA,No Relationship,71.1,14.1,50-59
+111,Wong,Jiverly,4/3/2009,Roberta King,72,Female,White,Likely,worked for the center where Wong took classes,Other known,84.3,12.3,70-79
+111,Wong,Jiverly,4/3/2009,Jiang Ling,22,Female,Asian,Yes,former classmate,Teacher/Classmate,78.8,56.8,20-29
+111,Wong,Jiverly,4/3/2009,Hong Xiu Mao,35,Female,Asian,Yes,former classmate,Teacher/Classmate,76.6,41.6,30-39
+111,Wong,Jiverly,4/3/2009,Dolores Yigal,53,Female,Asian,Yes,former classmate,Teacher/Classmate,73.1,20.1,50-59
+111,Wong,Jiverly,4/3/2009,Hai Hong Zhong,54,Female,Asian,Yes,former classmate,Teacher/Classmate,73.1,19.1,50-59
+111,Wong,Jiverly,4/3/2009,Maria K. Zobniw,60,Female,White,Likely,worked for the center where Wong took classes,Other known,72.2,12.2,60-69
+112,Gonzalez,Marcos,11/1/2009,Javier Manuel Martinez,21,Male,Latinx,Yes,acquaintances,Other known,71.8,50.8,20-29
+112,Gonzalez,Marcos,11/1/2009,Juan Manuel Martinez,26,Male,Latinx,Yes,acquaintances,Other known,70,44,20-29
+112,Gonzalez,Marcos,11/1/2009,Victor Alfonso Martinez-Jimenez,22,Male,Latinx,Yes,acquaintances,Other known,71.8,49.8,20-29
+112,Gonzalez,Marcos,11/1/2009,Marcos Alvedo Aguilar,21,Male,Latinx,Yes,acquaintances,Other known,71.8,50.8,20-29
+113,Hasan,Nidal,11/5/2009,Michael Grant Cahill,62,Male,White,Likely,worked at Fort Hood,Other known,66.5,4.5,60-69
+113,Hasan,Nidal,11/5/2009,Libardo Eduardo Caraveo,52,Male,Latinx,No Evidence,"NA, arrived the day before the shooting",Other known,66.6,14.6,50-59
+113,Hasan,Nidal,11/5/2009,Justin Michael DeCrow,32,Male,White,Likely,stationed at Fort Hood,Other known,69.5,37.5,30-39
+113,Hasan,Nidal,11/5/2009,John P. Gaffaney,56,Male,White,No Evidence,"NA, arrived the day before the shooting",Other known,66.5,10.5,50-59
+113,Hasan,Nidal,11/5/2009,Frederick Greene,29,Male,White,Likely,stationed at Fort Hood,Other known,70.7,41.7,20-29
+113,Hasan,Nidal,11/5/2009,Jason Dean Hunt,22,Male,White,Likely,stationed at Fort Hood,Other known,72.7,50.7,20-29
+113,Hasan,Nidal,11/5/2009,Amy Sue Krueger,29,Female,White,No Evidence,"NA, arrived two days before the shooting",Other known,78.1,49.1,20-29
+113,Hasan,Nidal,11/5/2009,Aaron Thomas Nemelka,19,Male,White,Likely,stationed at Fort Hood,Other known,72.7,53.7,10-19
+113,Hasan,Nidal,11/5/2009,Michael S. Pearson,22,Male,White,Likely,stationed at Fort Hood,Other known,72.7,50.7,20-29
+113,Hasan,Nidal,11/5/2009,Russell Gilbert Seager,51,Male,White,Likely,worked at Fort Hood ,Other known,67.4,16.4,50-59
+113,Hasan,Nidal,11/5/2009,Francheska Velez,21,Female,Latinx,Likely,stationed at Fort Hood,Other known,78.8,57.8,20-29
+113,Hasan,Nidal,11/5/2009,Juanita L. Warman,55,Female,White,Likely,worked at Fort Hood,Other known,72.2,17.2,50-59
+113,Hasan,Nidal,11/5/2009,Kham See Xiong,23,Female,Asian,Likely,stationed at Fort Hood,Other known,78.8,55.8,20-29
+114,Clemmons,Maurice,11/29/09,Tina Griswold,40,Female,White,No Evidence,NA,No Relationship,75.6,35.6,40-49
+114,Clemmons,Maurice,11/29/09,Ronald Owens,37,Male,White,No Evidence,NA,No Relationship,68,31,30-39
+114,Clemmons,Maurice,11/29/09,Mark Renninger,39,Male,White,No Evidence,NA,No Relationship,68,29,30-39
+114,Clemmons,Maurice,11/29/09,Greg Richards,42,Male,White,No Evidence,NA,No Relationship,68,26,40-49
+115,Galstyan,Nerses,4/3/2010,Harut Baburyan,28,Male,Asian,Yes,acquaintance,Other known,70,42,20-29
+115,Galstyan,Nerses,4/3/2010,Sarkis Karadijan,26,Male,Asian,Yes,acquaintance,Other known,70,44,20-29
+115,Galstyan,Nerses,4/3/2010,Vardan Tofalyan,31,Male,Asian,Yes,acquaintance,Other known,70,39,30-39
+115,Galstyan,Nerses,4/3/2010,Hayk Yegnanyan,25,Male,Asian,Yes,acquaintance,Other known,71.8,46.8,20-29
+116,Regalado,Gerardo,6/6/2010,Zaida Castillo,56,Female,Latinx,No Evidence,NA,No Relationship,71.1,15.1,50-59
+116,Regalado,Gerardo,6/6/2010,Maysel Figueroa,32,Female,Latinx,No Evidence,NA,No Relationship,77.4,45.4,30-39
+116,Regalado,Gerardo,6/6/2010,Lavinia Fonseca,47,Female,Latinx,No Evidence,NA,No Relationship,73.1,26.1,40-49
+116,Regalado,Gerardo,6/6/2010,Liazan Molina,24,Female,Latinx,Yes,wife,Romantic Partner,78.8,54.8,20-29
+117,Thornton,Omar,8/3/2010,William Carl Ackerman,51,Male,White,Yes,coworker,Co-worker/Supervisor,67.4,16.4,50-59
+117,Thornton,Omar,8/3/2010,Bryan Cirigliano,51,Male,White,Yes,union representative,Other known,67.4,16.4,50-59
+117,Thornton,Omar,8/3/2010,Francis Fazio Jr.,57,Male,White,Yes,coworker,Co-worker/Supervisor,66.5,9.5,50-59
+117,Thornton,Omar,8/3/2010,Louis J. Felder,50,Male,White,Yes,supervisor,Co-worker/Supervisor,67.4,17.4,50-59
+117,Thornton,Omar,8/3/2010,Victor James,59,Male,White,Yes,coworker,Co-worker/Supervisor,66.5,7.5,50-59
+117,Thornton,Omar,8/3/2010,Edwin Kennison Jr.,49,Male,White,Likely,delivered to factory,Other known,67.4,18.4,40-49
+117,Thornton,Omar,8/3/2010,Craig Peppin,60,Male,White,Yes,coworker,Co-worker/Supervisor,66.5,6.5,60-69
+117,Thornton,Omar,8/3/2010,Douglas A. Scruton,56,Male,White,Yes,coworker,Co-worker/Supervisor,66.5,10.5,50-59
+118,McCray,Riccardo,8/14/10,Shawn-Tia McNeil,27,Female,Black,No Evidence,NA,No Relationship,72.5,45.5,20-29
+118,McCray,Riccardo,8/14/10,Willie McCaa III,26,Male,Black,No Evidence,NA,No Relationship,63.8,37.8,20-29
+118,McCray,Riccardo,8/14/10,Danyell Mackin Jr.,30,Male,Black,No Evidence,NA,No Relationship,63.8,33.8,30-39
+118,McCray,Riccardo,8/14/10,Tiffany Wilhite,32,Female,Black,No Evidence,NA,No Relationship,72.5,40.5,30-39
+119,Neace,Stanley,9/11/2010,Teresa Fugate,30,Female,White,Yes,neighbor,Other known,78.1,48.1,30-39
+119,Neace,Stanley,9/11/2010,Tammy R. Kilborn,40,Female,White,Yes,neighbor,Other known,77.3,37.3,40-49
+119,Neace,Stanley,9/11/2010,Sandra J. Neace,54,Female,,Yes,wife,Romantic Partner,73.1,19.1,50-59
+119,Neace,Stanley,9/11/2010,Sandra Rachel Cockerham Strong,28,Female,,Yes,stepdaughter,Family Member,77.4,49.4,20-29
+119,Neace,Stanley,9/11/2010,Dennis Joe Turner,31,Male,White,Yes,stepdaughter's boyfriend,Other known,70.7,39.7,30-39
+120,Loughner,Jared,1/8/2011,Christina-Taylor Green,9,Female,White,No Evidence,NA,No Relationship,80.1,71.1,0-9
+120,Loughner,Jared,1/8/2011,"Dorothy ""Dot"" Morris",76,Female,White,No Evidence,NA,No Relationship,87.8,11.8,70-79
+120,Loughner,Jared,1/8/2011,John Roll,63,Male,White,No Evidence,NA,No Relationship,66.5,3.5,60-69
+120,Loughner,Jared,1/8/2011,Phyllis Schneck,79,Female,White,No Evidence,NA,No Relationship,87.6,8.6,70-79
+120,Loughner,Jared,1/8/2011,Dorwan Stoddard,76,Male,White,No Evidence,NA,No Relationship,86,10,70-79
+120,Loughner,Jared,1/8/2011,"Gabriel ""Gabe"" Zimmerman",30,Male,White,No Evidence,NA,No Relationship,70.7,40.7,30-39
+121,Hance,Michael,8/7/2011,Craig Dieter,51,Male,White,Yes,girlfriend brother,Other known,67.4,16.4,50-59
+121,Hance,Michael,8/7/2011,Scott Dieter,11,Male,White,Yes,girlfriend's nephew,Other known,74.7,63.7,10-19
+121,Hance,Michael,8/7/2011,Autumn Johnson,16,Female,White,Yes,neighbor,Other known,79.6,63.6,10-19
+121,Hance,Michael,8/7/2011,Bryan Johnson,44,Male,White,Yes,neighbor,Other known,68,24,40-49
+121,Hance,Michael,8/7/2011,Gudrun Johnson,64,Female,White,Yes,neighbor,Other known,72.2,8.2,60-69
+121,Hance,Michael,8/7/2011,Russell Johnson,67,Male,White,Yes,neighbor,Other known,82.7,15.7,60-69
+121,Hance,Michael,8/7/2011,Amelia Shambaugh,16,Female,White,No Evidence,NA,No Relationship,79.6,63.6,10-19
+122,Sencion,Eduardo,9/6/2011,Florence Donovan-Gunderson,67,Female,White,No Evidence,NA,No Relationship,85.3,18.3,60-69
+122,Sencion,Eduardo,9/6/2011,Heath Austin Kelly,35,Male,White,No Evidence,NA,No Relationship,69.5,34.5,30-39
+122,Sencion,Eduardo,9/6/2011,Miranda Summerwind McElhiney,31,Female,White,No Evidence,NA,No Relationship,78.1,47.1,30-39
+122,Sencion,Eduardo,9/6/2011,Christian Riege,38,Male,White,No Evidence,NA,No Relationship,69.5,31.5,30-39
+123,Dekraai,Scott,10/12/2011,Victoria Buzzo,54,Female,White,No Evidence,NA,No Relationship,74.1,20.1,50-59
+123,Dekraai,Scott,10/12/2011,David Caouette,64,Male,White,No Evidence,NA,No Relationship,66.5,2.5,60-69
+123,Dekraai,Scott,10/12/2011,Randy Lee Fannin,62,Male,White,No Evidence,NA,No Relationship,66.5,4.5,60-69
+123,Dekraai,Scott,10/12/2011,Michele Fast,47,Female,White,No Evidence,NA,No Relationship,74.1,27.1,40-49
+123,Dekraai,Scott,10/12/2011,Michelle Marie Fournier,48,Female,White,Yes,ex-wife,Romantic Partner,74.1,26.1,40-49
+123,Dekraai,Scott,10/12/2011,Lucia Bernice Kondas,65,Female,White,No Evidence,NA,No Relationship,85.4,20.4,60-69
+123,Dekraai,Scott,10/12/2011,Laura Lee Elody,46,Female,White,No Evidence,NA,No Relationship,75.6,29.6,40-49
+123,Dekraai,Scott,10/12/2011,Christy Lynn Wilson,47,Female,White,Yes,acquaintance,Other known,74.1,27.1,40-49
+124,Goh,One,4/2/2012,Tshering Rinzing Bhutia,38,Male,Asian,Yes,former classmate,Teacher/Classmate,68.8,30.8,30-39
+124,Goh,One,4/2/2012,Doris Chibuko,40,Female,Black,Yes,former classmate,Teacher/Classmate,68.3,28.3,40-49
+124,Goh,One,4/2/2012,Sonam Chodon,33,Female,Asian,Yes,former classmate,Teacher/Classmate,77.4,44.4,30-39
+124,Goh,One,4/2/2012,Grace Eunhea Kim,23,Female,Asian,Yes,former classmate,Teacher/Classmate,78.8,55.8,20-29
+124,Goh,One,4/2/2012,Katleen Ping,24,Female,Asian,Yes,receptionist at school Goh attended,Teacher/Classmate,78.8,54.8,20-29
+124,Goh,One,4/2/2012,Judith Ona Seymour,53,Female,Black,Yes,former classmate,Teacher/Classmate,66.3,13.3,50-59
+124,Goh,One,4/2/2012,Lydia Sim,21,Female,Asian,Yes,former classmate,Teacher/Classmate,78.8,57.8,20-29
+125,Stawicki,Ian,5/30/12,"Joe ""Vito"" Albanese",52,Male,White,Yes,acquaintance,Other known,67.4,15.4,50-59
+125,Stawicki,Ian,5/30/12,"Andrew Thomas ""Drew"" Keriakedes",45,Male,White,Yes,acquaintance,Other known,68,23,40-49
+125,Stawicki,Ian,5/30/12,Donald Largen,57,Male,White,No Evidence,NA,No Relationship,67.4,10.4,50-59
+125,Stawicki,Ian,5/30/12,Kimberly Layfield,38,Female,White,No Evidence,NA,No Relationship,77.3,39.3,30-39
+125,Stawicki,Ian,5/30/12,Gloria Leonidas,52,Female,White,No Evidence,NA,No Relationship,74.1,22.1,50-59
+126,Holmes,James,7/20/12,Jonathan Blunk,26,Male,White,No Evidence,NA,No Relationship,72.7,46.7,20-29
+126,Holmes,James,7/20/12,"Alexander Jonathan ""A.J."" Boik",18,Male,White,No Evidence,NA,No Relationship,72.7,54.7,10-19
+126,Holmes,James,7/20/12,Jesse Childress,29,Male,White,No Evidence,NA,No Relationship,70.7,41.7,20-29
+126,Holmes,James,7/20/12,Gordon Cowden,51,Male,White,No Evidence,NA,No Relationship,67.4,16.4,50-59
+126,Holmes,James,7/20/12,Jessica Ghawi,24,Female,White,No Evidence,NA,No Relationship,79.4,55.4,20-29
+126,Holmes,James,7/20/12,John Thomas Larimer,27,Male,White,No Evidence,NA,No Relationship,72.7,45.7,20-29
+126,Holmes,James,7/20/12,Matt McQuinn,27,Male,White,No Evidence,NA,No Relationship,72.7,45.7,20-29
+126,Holmes,James,7/20/12,Micayla Medek,23,Female,White,No Evidence,NA,No Relationship,79.4,56.4,20-29
+126,Holmes,James,7/20/12,Veronica Moser-Sullivan,6,Female,White,No Evidence,NA,No Relationship,80.7,74.7,0-9
+126,Holmes,James,7/20/12,Alex Matthew Sullivan,27,Male,White,No Evidence,NA,No Relationship,72.7,45.7,20-29
+126,Holmes,James,7/20/12,Alexander C. Teves,24,Male,White,No Evidence,NA,No Relationship,72.7,48.7,20-29
+126,Holmes,James,7/20/12,Rebecca Ann Wingo,32,Female,White,No Evidence,NA,No Relationship,78.1,46.1,30-39
+127,Page,Wade,8/5/2012,Satwant Singh Kaleka,65,Male,Asian,No Evidence,NA,No Relationship,82.9,17.9,60-69
+127,Page,Wade,8/5/2012,Paramjit Kaur,41,Female,Asian,No Evidence,NA,No Relationship,74.7,33.7,40-49
+127,Page,Wade,8/5/2012,Prakash Singh,39,Male,Asian,No Evidence,NA,No Relationship,68.8,29.8,30-39
+127,Page,Wade,8/5/2012,Ranjit Singh,49,Male,Asian,No Evidence,NA,No Relationship,66.6,17.6,40-49
+127,Page,Wade,8/5/2012,Sita Singh,41,Male,Asian,No Evidence,NA,No Relationship,67.1,26.1,40-49
+127,Page,Wade,8/5/2012,Suveg Singh,84,Male,Asian,No Evidence,NA,No Relationship,85.1,1.1,80+
+128,Engeldinger,Andrew,9/27/12,Keith Basinski,50,Male,White,No Evidence,NA,No Relationship,67.4,17.4,50-59
+128,Engeldinger,Andrew,9/27/12,Jacob Beneke,34,Male,White,Yes,coworker,Co-worker/Supervisor,70.7,36.7,30-39
+128,Engeldinger,Andrew,9/27/12,Rami Cooks,62,Male,White,Yes,supervisor,Co-worker/Supervisor,66.5,4.5,60-69
+128,Engeldinger,Andrew,9/27/12,Ronald Edberg,58,Male,White,Yes,coworker,Co-worker/Supervisor,66.5,8.5,50-59
+128,Engeldinger,Andrew,9/27/12,Reuven Rahamim,61,Male,Middle Eastern,Yes,company owner,Co-worker/Supervisor,65.6,4.6,60-69
+128,Engeldinger,Andrew,9/27/12,Eric Rivers,42,Male,White,Yes,coworker,Co-worker/Supervisor,68,26,40-49
+129,Lanza,Adam,12/14/12,Rachel Davino,29,Female,White,No Evidence,NA,No Relationship,78.1,49.1,20-29
+129,Lanza,Adam,12/14/12,Dawn Hochsprung,47,Female,White,No Evidence,NA,No Relationship,75.6,28.6,40-49
+129,Lanza,Adam,12/14/12,Nancy Lanza,52,Female,White,Yes,mother,Family Member,74.1,22.1,50-59
+129,Lanza,Adam,12/14/12,Anne Marie Murphy,52,Female,White,No Evidence,NA,No Relationship,74.1,22.1,50-59
+129,Lanza,Adam,12/14/12,Lauren Rousseau,30,Female,White,No Evidence,NA,No Relationship,78.1,48.1,30-39
+129,Lanza,Adam,12/14/12,Mary Sherlach,56,Female,White,No Evidence,NA,No Relationship,74.1,18.1,50-59
+129,Lanza,Adam,12/14/12,Victoria Soto,27,Female,White,No Evidence,NA,No Relationship,79.4,52.4,20-29
+129,Lanza,Adam,12/14/12,Charlotte Bacon,6,Female,White,No Evidence,NA,No Relationship,80.7,74.7,0-9
+129,Lanza,Adam,12/14/12,Daniel Barden,7,Male,White,No Evidence,NA,No Relationship,75.5,68.5,0-9
+129,Lanza,Adam,12/14/12,Olivia Engel,6,Female,White,No Evidence,NA,No Relationship,80.7,74.7,0-9
+129,Lanza,Adam,12/14/12,Josephine Gay,7,Female,White,No Evidence,NA,No Relationship,80.5,73.5,0-9
+129,Lanza,Adam,12/14/12,Dylan Hockley,6,Male,White,No Evidence,NA,No Relationship,75.8,69.8,0-9
+129,Lanza,Adam,12/14/12,Madeleine Hsu,6,Female,Asian,No Evidence,NA,No Relationship,80.3,74.3,0-9
+129,Lanza,Adam,12/14/12,Catherine Hubbard,6,Female,White,No Evidence,NA,No Relationship,80.7,74.7,0-9
+129,Lanza,Adam,12/14/12,Chase Kowalski,7,Male,White,No Evidence,NA,No Relationship,75.5,68.5,0-9
+129,Lanza,Adam,12/14/12,Jesse Lewis,6,Male,White,No Evidence,NA,No Relationship,75.8,69.8,0-9
+129,Lanza,Adam,12/14/12,Ana Marquez-Green,6,Female,Black,No Evidence,NA,No Relationship,76.7,70.7,0-9
+129,Lanza,Adam,12/14/12,James Mattioli,6,Male,White,No Evidence,NA,No Relationship,75.8,69.8,0-9
+129,Lanza,Adam,12/14/12,Grace McDonnell,7,Female,White,No Evidence,NA,No Relationship,80.5,73.5,0-9
+129,Lanza,Adam,12/14/12,Emilie Parker,6,Female,White,No Evidence,NA,No Relationship,80.7,74.7,0-9
+129,Lanza,Adam,12/14/12,Jack Pinto,6,Male,White,No Evidence,NA,No Relationship,75.8,69.8,0-9
+129,Lanza,Adam,12/14/12,Noah Pozner,6,Male,White,No Evidence,NA,No Relationship,75.8,69.8,0-9
+129,Lanza,Adam,12/14/12,Caroline Previdi,6,Female,White,No Evidence,NA,No Relationship,80.7,74.7,0-9
+129,Lanza,Adam,12/14/12,Jessica Rekos,6,Female,White,No Evidence,NA,No Relationship,80.7,74.7,0-9
+129,Lanza,Adam,12/14/12,Avielle Richman,6,Female,White,No Evidence,NA,No Relationship,80.7,74.7,0-9
+129,Lanza,Adam,12/14/12,Benjamin Wheeler,6,Male,White,No Evidence,NA,No Relationship,75.8,69.8,0-9
+129,Lanza,Adam,12/14/12,Allison Wyatt,6,Female,White,No Evidence,NA,No Relationship,80.7,74.7,0-9
+130,Myers,Kurt,3/13/13,Harry M. Montgomery,68,Male,White,No Evidence,NA,No Relationship,82.8,14.8,60-69
+130,Myers,Kurt,3/13/13,Michael Ransear,57,Male,White,No Evidence,NA,No Relationship,67.4,10.4,50-59
+130,Myers,Kurt,3/13/13,Michael S. Renshaw,51,Male,White,No Evidence,NA,No Relationship,67.4,16.4,50-59
+130,Myers,Kurt,3/13/13,Thomas Stefka,62,Male,White,No Evidence,NA,No Relationship,66.5,4.5,60-69
+131,Clark III,Dennis,4/21/13,Justine Baez,24,Female,White,Yes,girlfriend,Romantic Partner,79.4,55.4,20-29
+131,Clark III,Dennis,4/21/13,Bradley Fischer,47,Male,,No Evidence,NA,No Relationship,67.1,20.1,40-49
+131,Clark III,Dennis,4/21/13,Roland Scobee,62,Male,,No Evidence,NA,No Relationship,65.6,3.6,60-69
+131,Clark III,Dennis,4/21/13,Ceasar Valdovinos,23,Male,Latinx,No Evidence,NA,No Relationship,71.8,48.8,20-29
+132,Zawahri,John,6/7/2013,Carlos Navarro Franco,68,Male,Latinx,No Evidence,NA,No Relationship,84.2,16.2,60-69
+132,Zawahri,John,6/7/2013,Marcela Franco,26,Female,Latinx,No Evidence,NA,No Relationship,78.8,52.8,20-29
+132,Zawahri,John,6/7/2013,Margarita Gomez,68,Female,Latinx,No Evidence,NA,No Relationship,87.6,19.6,60-69
+132,Zawahri,John,6/7/2013,Chris Zawahri,25,Male,Middle Eastern,Yes,brother,Family Member,71.8,46.8,20-29
+132,Zawahri,John,6/7/2013,Samir Zawahri,55,Male,Middle Eastern,Yes,father,Family Member,66.6,11.6,50-59
+133,Vargas,Pedro,7/26/13,Carlos Javier Gavilanes,33,Male,Latinx,No Evidence,NA,No Relationship,70,37,30-39
+133,Vargas,Pedro,7/26/13,Merly S. Niebles,51,Female,Latinx,Yes,neighbor,Other known,73.1,22.1,50-59
+133,Vargas,Pedro,7/26/13,Pricilla Perez,17,Female,Latinx,Yes,neighbor,Other known,78.9,61.9,10-19
+133,Vargas,Pedro,7/26/13,Camira Pisciotti,69,Female,Latinx,Yes,property manager,Other known,86.9,17.9,60-69
+133,Vargas,Pedro,7/26/13,Italo Pisciotti,79,Male,Latinx,Yes,property manager,Other known,87,8,70-79
+133,Vargas,Pedro,7/26/13,Patricio Simono,64,Male,Latinx,Yes,neighbor,Other known,71.1,7.1,60-69
+134,Alexis,Aaron,9/16/13,Michael Arnold,59,Male,White,No Evidence,NA,No Relationship,66.5,7.5,50-59
+134,Alexis,Aaron,9/16/13,Martin Bodrog,54,Male,White,No Evidence,NA,No Relationship,67.4,13.4,50-59
+134,Alexis,Aaron,9/16/13,Arthur Daniels,51,Male,Black,No Evidence,NA,No Relationship,61.1,10.1,50-59
+134,Alexis,Aaron,9/16/13,Sylvia Frasier,53,Female,Black,No Evidence,NA,No Relationship,66.3,13.3,50-59
+134,Alexis,Aaron,9/16/13,Kathy Gaarde,62,Female,White,No Evidence,NA,No Relationship,72.2,10.2,60-69
+134,Alexis,Aaron,9/16/13,John Roger Johnson,73,Male,White,No Evidence,NA,No Relationship,82,9,70-79
+134,Alexis,Aaron,9/16/13,Mary Francis Knight,51,Female,White,No Evidence,NA,No Relationship,74.1,23.1,50-59
+134,Alexis,Aaron,9/16/13,Frank Kohler,50,Male,White,No Evidence,NA,No Relationship,67.4,17.4,50-59
+134,Alexis,Aaron,9/16/13,Vishnu Shalchendia Pandit,61,Male,Asian,No Evidence,NA,No Relationship,65.6,4.6,60-69
+134,Alexis,Aaron,9/16/13,Kenneth Bernard Proctor,46,Male,White,No Evidence,NA,No Relationship,68,22,40-49
+134,Alexis,Aaron,9/16/13,Gerald L. Read,58,Male,White,No Evidence,NA,No Relationship,67.4,9.4,50-59
+134,Alexis,Aaron,9/16/13,Richard Michael Ridgell,52,Male,White,No Evidence,NA,No Relationship,67.4,15.4,50-59
+135,Rhoades,Cherie Lash,2/20/14,Glenn Calonicco,30,Male,Native American,Yes,nephew,Family Member,70,40,30-39
+135,Rhoades,Cherie Lash,2/20/14,Rurik Davis,50,Male,Native American,Yes,brother,Family Member,66.6,16.6,50-59
+135,Rhoades,Cherie Lash,2/20/14,Angel Penn,19,Female,Native American,Yes,niece,Family Member,78.9,59.9,10-19
+135,Rhoades,Cherie Lash,2/20/14,Shelia Lynn Russo,47,Female,Native American,Yes,tribal member,Other known,74.7,27.7,40-49
+136,Rodger,Elliot,5/23/14,George Chen,19,Male,Asian,Likely,roommate's friend,Other known,72.5,53.5,10-19
+136,Rodger,Elliot,5/23/14,Katherine Breann Cooper,22,Female,White,No Evidence,NA,No Relationship,79.4,57.4,20-29
+136,Rodger,Elliot,5/23/14,"Cheng Yuan ""James"" Hong",20,Male,Asian,Yes,roommate,Other known,72.5,52.5,20-29
+136,Rodger,Elliot,5/23/14,Christopher Ross Michaels-Martinez,20,Male,White,No Evidence,NA,No Relationship,73.4,53.4,20-29
+136,Rodger,Elliot,5/23/14,"Weihan ""David"" Wang",20,Male,Asian,Yes,roommate,Other known,72.5,52.5,20-29
+136,Rodger,Elliot,5/23/14,Veronika Weiss,19,Female,White,No Evidence,NA,No Relationship,79.6,60.6,10-19
+137,Fryberg,Jaylen,10/24/14,Shaylee Chuckulnaskit,14,Female,Native American,Yes,friend,Other known,79.3,65.3,10-19
+137,Fryberg,Jaylen,10/24/14,Andrew Fryberg,15,Male,Native American,Yes,cousin,Family Member,74.1,59.1,10-19
+137,Fryberg,Jaylen,10/24/14,Zoe Galasso,14,Female,,Yes,friend,Other known,79.3,65.3,10-19
+137,Fryberg,Jaylen,10/24/14,Gia Soriano,14,Female,,Yes,friend,Other known,79.3,65.3,10-19
+138,Roof,Dylann,6/17/15,Sharonda Coleman-Singleton,45,Female,Black,No Evidence,NA,No Relationship,68.3,23.3,40-49
+138,Roof,Dylann,6/17/15,Depayne Middleton-Doctor,49,Female,Black,No Evidence,NA,No Relationship,68.3,19.3,40-49
+138,Roof,Dylann,6/17/15,Cynthia Hurd,54,Female,Black,No Evidence,NA,No Relationship,66.3,12.3,50-59
+138,Roof,Dylann,6/17/15,Susie Jackson,87,Female,Black,No Evidence,NA,No Relationship,86.6,0,80+
+138,Roof,Dylann,6/17/15,Ethel Lance,70,Female,Black,No Evidence,NA,No Relationship,84.3,14.3,70-79
+138,Roof,Dylann,6/17/15,Clementa Carlos Pinckney,41,Male,Black,No Evidence,NA,No Relationship,62.4,21.4,40-49
+138,Roof,Dylann,6/17/15,Tywanza Sanders,26,Male,Black,No Evidence,NA,No Relationship,64.5,38.5,20-29
+138,Roof,Dylann,6/17/15,Daniel Lee Simmons Sr.,74,Male,Black,No Evidence,NA,No Relationship,80.2,6.2,70-79
+138,Roof,Dylann,6/17/15,Myra Thompson,59,Female,Black,No Evidence,NA,No Relationship,66.3,7.3,50-59
+139,Abdulazeez,Mohammad,7/16/15,Carson A. Holmquist,25,Male,White,No Evidence,NA,No Relationship,72.7,47.7,20-29
+139,Abdulazeez,Mohammad,7/16/15,Randall Smith,26,Male,White,No Evidence,NA,No Relationship,72.7,46.7,20-29
+139,Abdulazeez,Mohammad,7/16/15,Thomas J. Sullivan,40,Male,White,No Evidence,NA,No Relationship,69.5,29.5,40-49
+139,Abdulazeez,Mohammad,7/16/15,Squire K. Wells,21,Male,White,No Evidence,NA,No Relationship,73.4,52.4,20-29
+139,Abdulazeez,Mohammad,7/16/15,David A. Wyatt,35,Male,White,No Evidence,NA,No Relationship,70.7,35.7,30-39
+140,Harper-Mercer,Chris,10/1/2015,Lucero Alcaraz,19,Female,Latinx,Yes,classmate,Teacher/Classmate,78.9,59.9,10-19
+140,Harper-Mercer,Chris,10/1/2015,Treven Taylor Anspach,20,Male,White,Yes,classmate,Teacher/Classmate,73.4,53.4,20-29
+140,Harper-Mercer,Chris,10/1/2015,Rebecka Ann Carnes,18,Female,White,Yes,classmate,Teacher/Classmate,79.6,61.6,10-19
+140,Harper-Mercer,Chris,10/1/2015,Quinn Glen Cooper,18,Male,White,Yes,classmate,Teacher/Classmate,73.4,55.4,10-19
+140,Harper-Mercer,Chris,10/1/2015,Kim Saltmarsh Dietz,59,Female,White,Yes,classmate,Teacher/Classmate,74.1,15.1,50-59
+140,Harper-Mercer,Chris,10/1/2015,Lucas Eibel,18,Male,White,Yes,classmate,Teacher/Classmate,73.4,55.4,10-19
+140,Harper-Mercer,Chris,10/1/2015,Jason Dale Johnson,33,Male,White,Yes,classmate,Teacher/Classmate,70.7,37.7,30-39
+140,Harper-Mercer,Chris,10/1/2015,Lawrence Levine,67,Male,White,Yes,teacher,Teacher/Classmate,83,16,60-69
+140,Harper-Mercer,Chris,10/1/2015,Sarena Dawn Moore,44,Female,White,Yes,classmate,Teacher/Classmate,75.6,31.6,40-49
+141,Hudson,William,11/14/15,Carl Johnson,77,Male,White,No Evidence,NA,No Relationship,86.1,9.1,70-79
+141,Hudson,William,11/14/15,Hannah Johnson,40,Female,White,No Evidence,NA,No Relationship,77.3,37.3,40-49
+141,Hudson,William,11/14/15,Kade Johnson,6,Male,White,No Evidence,NA,No Relationship,76.4,70.4,0-9
+141,Hudson,William,11/14/15,Austin Kamp,21,Male,White,No Evidence,NA,No Relationship,73.4,52.4,20-29
+141,Hudson,William,11/14/15,Nathan Kamp,23,Male,White,No Evidence,NA,No Relationship,72.7,49.7,20-29
+141,Hudson,William,11/14/15,Thomas Kamp,45,Male,White,No Evidence,NA,No Relationship,68,23,40-49
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Robert Adams,40,Male,White,Yes,coworkers,Co-worker/Supervisor,69.5,29.5,40-49
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Isaac Amanios,60,Male,Black,Yes,coworkers,Co-worker/Supervisor,61.1,1.1,60-69
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Bennetta Betbadal,46,Female,Middle Eastern,Yes,coworkers,Co-worker/Supervisor,74.7,28.7,40-49
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Harry Bowman,46,Male,White,Yes,coworkers,Co-worker/Supervisor,68,22,40-49
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Sierra Clayborn,27,Female,Black,Yes,coworkers,Co-worker/Supervisor,73.6,46.6,20-29
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Juan Espinoza,50,Male,Latinx,Yes,coworkers,Co-worker/Supervisor,67.1,17.1,50-59
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Aurora Luz Godoy,26,Female,Latinx,Yes,coworkers,Co-worker/Supervisor,78.8,52.8,20-29
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Shannon Johnson,45,Male,White,Yes,coworkers,Co-worker/Supervisor,68,23,40-49
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Larry Daniel Kaufman,42,Male,White,No Evidence,NA,No Relationship,69.5,27.5,40-49
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Damian Meins,58,Male,White,Yes,coworkers,Co-worker/Supervisor,67.4,9.4,50-59
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Tin Nguyen,31,Female,Asian,Yes,coworkers,Co-worker/Supervisor,77.4,46.4,30-39
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Nicholas Thalasinos,52,Male,White,Yes,coworkers,Co-worker/Supervisor,67.4,15.4,50-59
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Yvette Velasco,27,Female,Latinx,Yes,coworkers,Co-worker/Supervisor,78.8,51.8,20-29
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Michael Raymond Wetzel,37,Male,White,Yes,coworkers,Co-worker/Supervisor,70.7,33.7,30-39
+144,Dalton,Jason,2/20/16,Dorothy Judy Brown,74,Female,White,No Evidence,NA,No Relationship,85.1,11.1,70-79
+144,Dalton,Jason,2/20/16,Barbara Hawthorne,68,Female,White,No Evidence,NA,No Relationship,85.5,17.5,60-69
+144,Dalton,Jason,2/20/16,Mary Jo Nye,60,Female,White,No Evidence,NA,No Relationship,74.1,14.1,60-69
+144,Dalton,Jason,2/20/16,Mary Lou Nye,62,Female,White,No Evidence,NA,No Relationship,72.2,10.2,60-69
+144,Dalton,Jason,2/20/16,Richard Smith,53,Male,White,No Evidence,NA,No Relationship,66.5,13.5,50-59
+144,Dalton,Jason,2/20/16,Tyler Smith,17,Male,White,No Evidence,NA,No Relationship,74.7,57.7,10-19
+"145, 146",,,3/9/2016,Shada Mahone,26,Female,Black,,,,73.6,47.6,20-29
+"145, 146",,,3/9/2016,Brittany Powell,27,Female,Black,,,,73.6,46.6,20-29
+"145, 146",,,3/9/2016,Chanetta Powell,25,Female,Black,,,,73.6,48.6,20-29
+"145, 146",,,3/9/2016,Jerry Shelton,35,Male,Black,,,,63.8,28.8,30-39
+"145, 146",,,3/9/2016,Tina Shelton,37,Female,Black,,,,63.8,26.8,30-39
+147,Mateen,Omar,6/12/2016,Stanley Almodovar III,23,Male,Latinx,No Evidence,NA,No Relationship,72.5,49.5,20-29
+147,Mateen,Omar,6/12/2016,Amanda Alvear,25,Female,Latinx,No Evidence,NA,No Relationship,78.8,53.8,20-29
+147,Mateen,Omar,6/12/2016,Oscar A. Aracena-Montero,26,Male,Latinx,No Evidence,NA,No Relationship,71.8,45.8,20-29
+147,Mateen,Omar,6/12/2016,Rodolfo Ayala-Ayala,33,Male,Latinx,No Evidence,NA,No Relationship,70,37,30-39
+147,Mateen,Omar,6/12/2016,Alejandro Barrios Martinez,21,Male,Latinx,No Evidence,NA,No Relationship,72.5,51.5,20-29
+147,Mateen,Omar,6/12/2016,Martin Benitez Torres,33,Male,Latinx,No Evidence,NA,No Relationship,70,37,30-39
+147,Mateen,Omar,6/12/2016,Antonio Davon Brown,29,Male,Black,No Evidence,NA,No Relationship,64.5,35.5,20-29
+147,Mateen,Omar,6/12/2016,Darryl Roman Burt II,29,Male,Black,No Evidence,NA,No Relationship,64.5,35.5,20-29
+147,Mateen,Omar,6/12/2016,Jonathan Antonio Camuy Vega,24,Male,Latinx,No Evidence,NA,No Relationship,71.8,47.8,20-29
+147,Mateen,Omar,6/12/2016,Angel L. Candelario-Padro,28,Male,Latinx,No Evidence,NA,No Relationship,71.8,43.8,20-29
+147,Mateen,Omar,6/12/2016,Simon Adrian Carrillo Fernandez,31,Male,Latinx,No Evidence,NA,No Relationship,71.8,40.8,30-39
+147,Mateen,Omar,6/12/2016,Juan Chevez-Martinez,25,Male,Latinx,No Evidence,NA,No Relationship,71.8,46.8,20-29
+147,Mateen,Omar,6/12/2016,Luis Daniel Conde,39,Male,Latinx,No Evidence,NA,No Relationship,70,31,30-39
+147,Mateen,Omar,6/12/2016,Cory James Connell,21,Male,White,No Evidence,NA,No Relationship,73.4,52.4,20-29
+147,Mateen,Omar,6/12/2016,Tevin Eugene Crosby,25,Male,Black,No Evidence,NA,No Relationship,64.5,39.5,20-29
+147,Mateen,Omar,6/12/2016,Frank Jimmy Dejesus Velazquez,50,Male,Latinx,No Evidence,NA,No Relationship,67.1,17.1,50-59
+147,Mateen,Omar,6/12/2016,Deonka Deidra Drayton,32,Female,Black,No Evidence,NA,No Relationship,72.5,40.5,30-39
+147,Mateen,Omar,6/12/2016,Mercedez Marisol Flores,26,Female,Latinx,No Evidence,NA,No Relationship,78.8,52.8,20-29
+147,Mateen,Omar,6/12/2016,Peter O. Gonzalez-Cruz,22,Male,Latinx,No Evidence,NA,No Relationship,72.5,50.5,20-29
+147,Mateen,Omar,6/12/2016,Juan Ramon Guerrero,22,Male,Latinx,No Evidence,NA,No Relationship,72.5,50.5,20-29
+147,Mateen,Omar,6/12/2016,Paul Terrell Henry,41,Male,Black,No Evidence,NA,No Relationship,71.3,30.3,40-49
+147,Mateen,Omar,6/12/2016,Frank Hernandez,27,Male,Latinx,No Evidence,NA,No Relationship,71.8,44.8,20-29
+147,Mateen,Omar,6/12/2016,Miguel Angel Honorato,30,Male,Latinx,No Evidence,NA,No Relationship,71.8,41.8,30-39
+147,Mateen,Omar,6/12/2016,Javier Jorge-Reyes,40,Male,Latinx,No Evidence,NA,No Relationship,68.8,28.8,40-49
+147,Mateen,Omar,6/12/2016,Jason Benjamin Josaphat,19,Male,Black,No Evidence,NA,No Relationship,65.2,46.2,10-19
+147,Mateen,Omar,6/12/2016,Eddie Jamoldroy Justice,30,Male,Black,No Evidence,NA,No Relationship,64.5,34.5,30-39
+147,Mateen,Omar,6/12/2016,Anthony Luis Laureanodisla,25,Male,Latinx,No Evidence,NA,No Relationship,71.8,46.8,20-29
+147,Mateen,Omar,6/12/2016,Christopher Andrew Leinonen,32,Male,,No Evidence,NA,No Relationship,70,38,30-39
+147,Mateen,Omar,6/12/2016,Brenda Lee Marquez McCool,49,Female,Latinx,No Evidence,NA,No Relationship,74.7,25.7,40-49
+147,Mateen,Omar,6/12/2016,Jean Carlos Mendez Perez,35,Male,Latinx,No Evidence,NA,No Relationship,70,35,30-39
+147,Mateen,Omar,6/12/2016,Akyra Monet Murray,18,Female,Black,No Evidence,NA,No Relationship,75.1,57.1,10-19
+147,Mateen,Omar,6/12/2016,"Kimberly ""KJ"" Morris",37,Female,Black,No Evidence,NA,No Relationship,72.5,35.5,30-39
+147,Mateen,Omar,6/12/2016,Jean Carlos Nieves Rodriguez,27,Male,Latinx,No Evidence,NA,No Relationship,71.8,44.8,20-29
+147,Mateen,Omar,6/12/2016,Luis Omar Ocasio-Capo,23,Male,Latinx,No Evidence,NA,No Relationship,72.5,49.5,20-29
+147,Mateen,Omar,6/12/2016,Geraldo A. Ortiz-Jimenez,25,Male,Latinx,No Evidence,NA,No Relationship,71.8,46.8,20-29
+147,Mateen,Omar,6/12/2016,Eric Ivan Ortiz-Rivera,36,Male,Latinx,No Evidence,NA,No Relationship,70,34,30-39
+147,Mateen,Omar,6/12/2016,Joel Rayon Paniagua,32,Male,Latinx,No Evidence,NA,No Relationship,70,38,30-39
+147,Mateen,Omar,6/12/2016,Enrique L. Rios Jr.,25,Male,Latinx,No Evidence,NA,No Relationship,71.8,46.8,20-29
+147,Mateen,Omar,6/12/2016,Juan P. Rivera Velazquez,37,Male,Latinx,No Evidence,NA,No Relationship,70,33,30-39
+147,Mateen,Omar,6/12/2016,Yilmary Rodrigues Solivan,24,Male,Latinx,No Evidence,NA,No Relationship,71.8,47.8,20-29
+147,Mateen,Omar,6/12/2016,Christopher Joseph Sanfeliz,24,Male,Latinx,No Evidence,NA,No Relationship,71.8,47.8,20-29
+147,Mateen,Omar,6/12/2016,Xavier Emmanuel Serrano Rosado,35,Male,Latinx,No Evidence,NA,No Relationship,70,35,30-39
+147,Mateen,Omar,6/12/2016,Gilberto Ramon Silva Menendez,25,Male,Latinx,No Evidence,NA,No Relationship,71.8,46.8,20-29
+147,Mateen,Omar,6/12/2016,Edward Sotomayor Jr.,34,Male,White,No Evidence,NA,No Relationship,70.7,36.7,30-39
+147,Mateen,Omar,6/12/2016,Shane Evan Tomlinson,33,Male,Black,No Evidence,NA,No Relationship,63.8,30.8,30-39
+147,Mateen,Omar,6/12/2016,Leroy Valentin Fernandez,25,Male,Latinx,No Evidence,NA,No Relationship,71.8,46.8,20-29
+147,Mateen,Omar,6/12/2016,Luis S. Vielma,22,Male,Latinx,No Evidence,NA,No Relationship,72.5,50.5,20-29
+147,Mateen,Omar,6/12/2016,Luis Daniel Wilson-Leon,37,Male,Latinx,No Evidence,NA,No Relationship,70,33,30-39
+147,Mateen,Omar,6/12/2016,Jerald Arthur Wright,31,Male,Latinx,No Evidence,NA,No Relationship,71.8,40.8,30-39
+148,Johnson,Micah,7/7/2016,Lorne Ahrens,48,Male,White,No Evidence,NA,No Relationship,68,20,40-49
+148,Johnson,Micah,7/7/2016,Michael Krol,40,Male,White,No Evidence,NA,No Relationship,69.5,29.5,40-49
+148,Johnson,Micah,7/7/2016,Michael J. Smith,55,Male,White,No Evidence,NA,No Relationship,67.4,12.4,50-59
+148,Johnson,Micah,7/7/2016,Brent Thompson,43,Male,White,No Evidence,NA,No Relationship,69.5,26.5,40-49
+148,Johnson,Micah,7/7/2016,Patrick Zamarripa,32,Male,White,No Evidence,NA,No Relationship,70.7,38.7,30-39
+149,Cetin,Arcan,9/23/16,Beatrice Dotson,95,Female,White,No Evidence,NA,No Relationship,87,0,80+
+149,Cetin,Arcan,9/23/16,"Wilton ""Chuck"" Eagan",61,Male,White,No Evidence,NA,No Relationship,67.4,6.4,60-69
+149,Cetin,Arcan,9/23/16,Belinda Sue Galde,64,Female,White,No Evidence,NA,No Relationship,72.2,8.2,60-69
+149,Cetin,Arcan,9/23/16,Sarai Lara,16,Female,Latinx,No Evidence,NA,No Relationship,79.3,63.3,10-19
+149,Cetin,Arcan,9/23/16,Shayla Kathleen Martin,52,Female,White,No Evidence,NA,No Relationship,74.1,22.1,50-59
+150,Santiago,Esteban,1/6/2017,Mary Louise Amzibel,69,Female,White,No Evidence,NA,No Relationship,85.5,16.5,60-69
+150,Santiago,Esteban,1/6/2017,Terry Andres,62,Male,White,No Evidence,NA,No Relationship,67.4,5.4,60-69
+150,Santiago,Esteban,1/6/2017,Michael Oehme,56,Male,White,No Evidence,NA,No Relationship,67.4,11.4,50-59
+150,Santiago,Esteban,1/6/2017,Shirley Timmons,70,Female,White,No Evidence,NA,No Relationship,85.4,15.4,70-79
+150,Santiago,Esteban,1/6/2017,Olga Weltering,84,Female,White,No Evidence,NA,No Relationship,87.6,3.6,80+
+151,Barber,Briddell,2/6/2017,Jerrandan Allen,22,Male,Black,Likely,possible acquaintance,Other known,65.2,43.2,20-29
+151,Barber,Briddell,2/6/2017,Edward Johnson,36,Male,Black,Likely,possible acquaintance,Other known,63.8,27.8,30-39
+151,Barber,Briddell,2/6/2017,Kevin Johnson,30,Male,Black,Likely,possible acquaintance,Other known,64.5,34.5,30-39
+151,Barber,Briddell,2/6/2017,Gabriel Townsend,35,Male,Black,Likely,possible acquaintance,Other known,63.8,28.8,30-39
+152,Vang,Nengmy,3/22/17,Karen Barclay,62,Female,White,Yes,Wifes coworker,Other known,74.1,12.1,60-69
+152,Vang,Nengmy,3/22/17,Dianne Renaud-Look,67,Female,White,Yes,wife's coworker,Other known,85.5,18.5,60-69
+152,Vang,Nengmy,3/22/17,Sara Quirt Sann,43,Female,White,Yes,wife's divorce attorney,Other known,77.3,34.3,40-49
+152,Vang,Nengmy,3/22/17,Jason Weiland,40,Male,White,No Evidence,NA,No Relationship,69.5,29.5,40-49
+153,Neumann,John,6/5/2017,Kevin Clark,53,Male,White,Yes,former coworker,Co-worker/Supervisor,67.4,14.4,50-59
+153,Neumann,John,6/5/2017,Kevin Lawson,46,Male,White,Yes,former coworker,Co-worker/Supervisor,68,22,40-49
+153,Neumann,John,6/5/2017,Brenda Montanez-Crespo,44,Female,Latinx,Yes,former coworker,Co-worker/Supervisor,76.6,32.6,40-49
+153,Neumann,John,6/5/2017,Jeffrey Roberts,57,Male,White,Yes,former coworker,Co-worker/Supervisor,67.4,10.4,50-59
+153,Neumann,John,6/5/2017,Robert Snyder,69,Male,White,Yes,former supervisor,Co-worker/Supervisor,83,14,60-69
+154,Paddock,Stephen,10/1/2017,Hannah Lassette Ahlers,35,Female,White,No Evidence,NA,No Relationship,78.1,43.1,30-39
+154,Paddock,Stephen,10/1/2017,Heather Lorraine Alvarado,35,Female,White,No Evidence,NA,No Relationship,78.1,43.1,30-39
+154,Paddock,Stephen,10/1/2017,Dorene Anderson,49,Female,White,No Evidence,NA,No Relationship,75.6,26.6,40-49
+154,Paddock,Stephen,10/1/2017,Carrie Rae Barnette,34,Female,White,No Evidence,NA,No Relationship,78.1,44.1,30-39
+154,Paddock,Stephen,10/1/2017,Jack Reginald Beaton Jr.,54,Male,White,No Evidence,NA,No Relationship,67.4,13.4,50-59
+154,Paddock,Stephen,10/1/2017,Stephen Richard Berger,44,Male,White,No Evidence,NA,No Relationship,69.5,25.5,40-49
+154,Paddock,Stephen,10/1/2017,Candice Ryan Bowers,40,Female,White,No Evidence,NA,No Relationship,77.3,37.3,40-49
+154,Paddock,Stephen,10/1/2017,Denise Burditus,50,Female,White,No Evidence,NA,No Relationship,75.6,25.6,50-59
+154,Paddock,Stephen,10/1/2017,Sandra Lee Casey,34,Female,White,No Evidence,NA,No Relationship,78.1,44.1,30-39
+154,Paddock,Stephen,10/1/2017,Andrea Lee Anna Castilla,28,Female,Latinx,No Evidence,NA,No Relationship,78.8,50.8,20-29
+154,Paddock,Stephen,10/1/2017,Denise Marie Cohen,58,Female,Latinx,No Evidence,NA,No Relationship,73.1,15.1,50-59
+154,Paddock,Stephen,10/1/2017,Austin William Davis,29,Male,White,No Evidence,NA,No Relationship,72.7,43.7,20-29
+154,Paddock,Stephen,10/1/2017,Thomas Allen Day Jr.,54,Male,White,No Evidence,NA,No Relationship,67.4,13.4,50-59
+154,Paddock,Stephen,10/1/2017,Christiana Mae Duarte,22,Female,Latinx,No Evidence,NA,No Relationship,78.9,56.9,20-29
+154,Paddock,Stephen,10/1/2017,Stacee Ann Etcheber,50,Female,White,No Evidence,NA,No Relationship,75.6,25.6,50-59
+154,Paddock,Stephen,10/1/2017,Brian Scott Fraser,39,Male,White,No Evidence,NA,No Relationship,70.7,31.7,30-39
+154,Paddock,Stephen,10/1/2017,Keri Lynn Galvan,31,Female,White,No Evidence,NA,No Relationship,79.4,48.4,30-39
+154,Paddock,Stephen,10/1/2017,Dana Leann Gardner,52,Female,White,No Evidence,NA,No Relationship,75.6,23.6,50-59
+154,Paddock,Stephen,10/1/2017,Angela Christine Gomez,20,Female,Latinx,No Evidence,NA,No Relationship,78.9,58.9,20-29
+154,Paddock,Stephen,10/1/2017,Charleston Vernon Hartfield,34,Male,Black,No Evidence,NA,No Relationship,63.8,29.8,30-39
+154,Paddock,Stephen,10/1/2017,Christopher James Hazencomb,44,Male,White,No Evidence,NA,No Relationship,69.5,25.5,40-49
+154,Paddock,Stephen,10/1/2017,Jennifer Topaz Irvine,42,Female,White,No Evidence,NA,No Relationship,77.3,35.3,40-49
+154,Paddock,Stephen,10/1/2017,Teresa Nicol Kimura,38,Female,Asian,No Evidence,NA,No Relationship,77.4,39.4,30-39
+154,Paddock,Stephen,10/1/2017,Jessica Lynn Klymchuk,34,Female,White,No Evidence,NA,No Relationship,78.1,44.1,30-39
+154,Paddock,Stephen,10/1/2017,Carly Anne Kriebaum,33,Female,White,No Evidence,NA,No Relationship,78.1,45.1,30-39
+154,Paddock,Stephen,10/1/2017,Rhonda M. LeRocque,42,Female,White,No Evidence,NA,No Relationship,77.3,35.3,40-49
+154,Paddock,Stephen,10/1/2017,Victor Link,55,Male,White,No Evidence,NA,No Relationship,67.4,12.4,50-59
+154,Paddock,Stephen,10/1/2017,Jordan Alan McIlldoon,23,Male,White,No Evidence,NA,No Relationship,73.4,50.4,20-29
+154,Paddock,Stephen,10/1/2017,Kelsey Breanne Meadows,28,Female,White,No Evidence,NA,No Relationship,79.4,51.4,20-29
+154,Paddock,Stephen,10/1/2017,Calla-Marie Medig,28,Female,White,No Evidence,NA,No Relationship,79.4,51.4,20-29
+154,Paddock,Stephen,10/1/2017,Sonny Melton,29,Male,White,No Evidence,NA,No Relationship,79.4,50.4,20-29
+154,Paddock,Stephen,10/1/2017,Patricia Mestas,67,Female,White,No Evidence,NA,No Relationship,85.5,18.5,60-69
+154,Paddock,Stephen,10/1/2017,Austin Cooper Meyer,24,Male,White,No Evidence,NA,No Relationship,73.4,49.4,20-29
+154,Paddock,Stephen,10/1/2017,Adrian Allan Murfitt,35,Male,White,No Evidence,NA,No Relationship,70.7,35.7,30-39
+154,Paddock,Stephen,10/1/2017,Rachael Kathleen Parker,33,Female,White,No Evidence,NA,No Relationship,78.1,45.1,30-39
+154,Paddock,Stephen,10/1/2017,Jennifer Marie Parks,35,Female,White,No Evidence,NA,No Relationship,78.1,43.1,30-39
+154,Paddock,Stephen,10/1/2017,Carolyn Lee Parsons,31,Female,White,No Evidence,NA,No Relationship,79.4,48.4,30-39
+154,Paddock,Stephen,10/1/2017,Lisa Marie Patterson,46,Female,White,No Evidence,NA,No Relationship,75.6,29.6,40-49
+154,Paddock,Stephen,10/1/2017,John Joseph Phippen,56,Male,White,No Evidence,NA,No Relationship,67.4,11.4,50-59
+154,Paddock,Stephen,10/1/2017,Melissa Viridiana Ramirez,26,Female,Latinx,No Evidence,NA,No Relationship,78.8,52.8,20-29
+154,Paddock,Stephen,10/1/2017,Jordyn Nicole Rivera,21,Female,White,No Evidence,NA,No Relationship,79.6,58.6,20-29
+154,Paddock,Stephen,10/1/2017,Quinton Joe Robbins,20,Male,White,No Evidence,NA,No Relationship,73.4,53.4,20-29
+154,Paddock,Stephen,10/1/2017,Cameron Lee Robinson,28,Male,White,No Evidence,NA,No Relationship,72.7,44.7,20-29
+154,Paddock,Stephen,10/1/2017,Rocio Guillen Rocha,40,Female,Latinx,No Evidence,NA,No Relationship,77.4,37.4,40-49
+154,Paddock,Stephen,10/1/2017,Tara Ann Roe Smith,34,Female,White,No Evidence,NA,No Relationship,78.1,44.1,30-39
+154,Paddock,Stephen,10/1/2017,Lisa Romero-Muniz,48,Female,Latinx,No Evidence,NA,No Relationship,74.7,26.7,40-49
+154,Paddock,Stephen,10/1/2017,Christopher Louis Roybal,28,Male,White,No Evidence,NA,No Relationship,72.7,44.7,20-29
+154,Paddock,Stephen,10/1/2017,Brett Schwanbeck,61,Male,White,No Evidence,NA,No Relationship,67.4,6.4,60-69
+154,Paddock,Stephen,10/1/2017,Bailey Dee Schweitzer,20,Female,White,No Evidence,NA,No Relationship,79.6,59.6,20-29
+154,Paddock,Stephen,10/1/2017,Laura Anne Shipp,50,Female,Asian,No Evidence,NA,No Relationship,74.7,24.7,50-59
+154,Paddock,Stephen,10/1/2017,Erick Steven Silva,21,Male,Latinx,No Evidence,NA,No Relationship,72.5,51.5,20-29
+154,Paddock,Stephen,10/1/2017,Susan Marie Smith,53,Female,White,No Evidence,NA,No Relationship,74.1,21.1,50-59
+154,Paddock,Stephen,10/1/2017,Brennan Lee Stewart,30,Male,White,No Evidence,NA,No Relationship,72.7,42.7,30-39
+154,Paddock,Stephen,10/1/2017,"Derrick Dean ""Bo"" Taylor",56,Male,White,No Evidence,NA,No Relationship,67.4,11.4,50-59
+154,Paddock,Stephen,10/1/2017,Neysa Christine Tonks,46,Female,White,No Evidence,NA,No Relationship,75.6,29.6,40-49
+154,Paddock,Stephen,10/1/2017,Michelle Vo,32,Female,Asian,No Evidence,NA,No Relationship,78.8,46.8,30-39
+154,Paddock,Stephen,10/1/2017,Kurt Allen Von Tillow,55,Male,White,No Evidence,NA,No Relationship,67.4,12.4,50-59
+154,Paddock,Stephen,10/1/2017,William Winfield Wolfe Jr.,42,Male,White,No Evidence,NA,No Relationship,69.5,27.5,40-49
+155,Kelley,Devin Patrick,11/5/2017,Keith Allen Braden,62,Male,White,No Evidence,NA,No Relationship,67.4,5.4,60-69
+155,Kelley,Devin Patrick,11/5/2017,Robert Corrigan,51,Male,White,No Evidence,NA,No Relationship,68,17,50-59
+155,Kelley,Devin Patrick,11/5/2017,Shani Corrigan,51,Female,White,No Evidence,NA,No Relationship,75.6,24.6,50-59
+155,Kelley,Devin Patrick,11/5/2017,Bryan Holcombe,60,Male,White,No Evidence,NA,No Relationship,67.4,7.4,60-69
+155,Kelley,Devin Patrick,11/5/2017,Crystal Marie Holcombe,36,Female,White,No Evidence,NA,No Relationship,78.1,42.1,30-39
+155,Kelley,Devin Patrick,11/5/2017,Emily Rose Hill,11,Female,White,No Evidence,NA,No Relationship,80.7,69.7,10-19
+155,Kelley,Devin Patrick,11/5/2017,Gregory Lynn Hill,13,Male,White,No Evidence,NA,No Relationship,75.5,62.5,10-19
+155,Kelley,Devin Patrick,11/5/2017,Karla Plain Holcombe,58,Female,White,No Evidence,NA,No Relationship,74.1,16.1,50-59
+155,Kelley,Devin Patrick,11/5/2017,"Marc Daniel ""Danny"" Holcombe",36,Male,White,No Evidence,NA,No Relationship,70.7,34.7,30-39
+155,Kelley,Devin Patrick,11/5/2017,Megan Gail Hill,9,Female,White,No Evidence,NA,No Relationship,80.9,71.9,0-9
+155,Kelley,Devin Patrick,11/5/2017,Noah Grace Holcombe,1,Female,White,No Evidence,NA,No Relationship,76.1,75.1,0-9
+155,Kelley,Devin Patrick,11/5/2017,Dennis Johnson,77,Male,White,No Evidence,NA,No Relationship,86.2,9.2,70-79
+155,Kelley,Devin Patrick,11/5/2017,Sara Johnson,68,Female,White,No Evidence,NA,No Relationship,85.6,17.6,60-69
+155,Kelley,Devin Patrick,11/5/2017,Annabelle Renae Pomeroy,14,Female,Latinx,No Evidence,NA,No Relationship,79.7,65.7,10-19
+155,Kelley,Devin Patrick,11/5/2017,Haley Krueger,16,Female,White,No Evidence,NA,No Relationship,80,64,10-19
+155,Kelley,Devin Patrick,11/5/2017,Karen Sue Marshall,56,Female,White,No Evidence,NA,No Relationship,74.1,18.1,50-59
+155,Kelley,Devin Patrick,11/5/2017,Robert Scott Marshall,56,Male,White,No Evidence,NA,No Relationship,67.4,11.4,50-59
+155,Kelley,Devin Patrick,11/5/2017,Tara E. McNulty,33,Female,White,No Evidence,NA,No Relationship,78.1,45.1,30-39
+155,Kelley,Devin Patrick,11/5/2017,Ricardo Cardona Rodriguez,64,Male,Latinx,No Evidence,NA,No Relationship,65.6,1.6,60-69
+155,Kelley,Devin Patrick,11/5/2017,Therese Sagan Rodriguez,66,Female,White,No Evidence,NA,No Relationship,85.6,19.6,60-69
+155,Kelley,Devin Patrick,11/5/2017,Joann Lookingbill Ward,30,Female,Native American,No Evidence,NA,No Relationship,78.8,48.8,30-39
+155,Kelley,Devin Patrick,11/5/2017,Brooke Ward,5,Female,White,No Evidence,NA,No Relationship,81.4,76.4,0-9
+155,Kelley,Devin Patrick,11/5/2017,Emily Garcia,7,Female,Latinx,No Evidence,NA,No Relationship,81.2,74.2,0-9
+155,Kelley,Devin Patrick,11/5/2017,Peggy Lynn Warden,56,Female,White,No Evidence,NA,No Relationship,74.1,18.1,50-59
+155,Kelley,Devin Patrick,11/5/2017,Lula Woicinski White,71,Female,White,Yes,grandmother-in-law,Family Member,85.4,14.4,70-79
+156,Neal,Kevin Janson,11/13/17,Barbara Anne Glisan,38,Female,White,Yes,wife,Romantic Partner,78.1,40.1,30-39
+156,Neal,Kevin Janson,11/14/17,Danny Lee Elliot,38,Male,White,Yes,neighbor,Other known,70.7,32.7,30-39
+156,Neal,Kevin Janson,11/14/17,Michelle Iris McFadyen,55,Female,White,No Evidence,NA,No Relationship,74.1,19.1,50-59
+156,Neal,Kevin Janson,11/14/17,Joseph Edward McHugh III,56,Male,White,No Evidence,NA,No Relationship,67.4,11.4,50-59
+156,Neal,Kevin Janson,11/14/17,Diana Lee Steele,68,Female,White,Yes,neighbor,Other known,85.6,17.6,60-69
+157,O'Brien Smith,Timothy,1/28/18,Chelsie Lou Cline,25,Female,White,Yes,ex-girlfriend,Romantic Partner,79.6,54.6,20-29
+157,O'Brien Smith,Timothy,1/28/18,Seth Cline,21,Male,White,Yes,acquaintance,Other known,73.4,52.4,20-29
+157,O'Brien Smith,Timothy,1/28/18,Courtney Sue Snyder,23,Female,White,Yes,acquaintance,Other known,79.6,56.6,20-29
+157,O'Brien Smith,Timothy,1/28/18,William Scott Porterfield,27,Male,White,Yes,acquaintance,Other known,72.7,45.7,20-29
+158,Cruz,Nikolas,2/14/18,Alyssa Alhadeff,14,Female,White,No Evidence,NA,No Relationship,80.5,66.5,10-19
+158,Cruz,Nikolas,2/14/18,Martin Duque Anguiano,14,Male,Latinx,No Evidence,NA,No Relationship,75,61,10-19
+158,Cruz,Nikolas,2/14/18,Scott Beigel,35,Male,White,Likely,teacher at school Cruz used to attend,Teacher/Classmate,70.7,35.7,30-39
+158,Cruz,Nikolas,2/14/18,Nicholas Dworet,17,Male,White,Likely,former classmate,Teacher/Classmate,74.9,57.9,10-19
+158,Cruz,Nikolas,2/14/18,Aaron Feis,37,Male,White,Likely,assistant football coach at school Cruz used to attend,Teacher/Classmate,70.7,33.7,30-39
+158,Cruz,Nikolas,2/14/18,Jaime Guttenberg,14,Female,White,No Evidence,NA,No Relationship,80.5,66.5,10-19
+158,Cruz,Nikolas,2/14/18,Christopher Hixon,49,Male,White,Likely,athletic director at school Cruz used to attend,Teacher/Classmate,68,19,40-49
+158,Cruz,Nikolas,2/14/18,Luke Hoyer,15,Male,White,No Evidence,NA,No Relationship,75.1,60.1,10-19
+158,Cruz,Nikolas,2/14/18,Cara Loughran,14,Female,White,No Evidence,NA,No Relationship,80.5,66.5,10-19
+158,Cruz,Nikolas,2/14/18,Gina Montalto,14,Female,,No Evidence,NA,No Relationship,80.1,66.1,10-19
+158,Cruz,Nikolas,2/14/18,Joaquin Oliver,17,Male,Latinx,Likely,former classmate,Teacher/Classmate,74.3,57.3,10-19
+158,Cruz,Nikolas,2/14/18,Alaina Petty,14,Female,White,No Evidence,NA,No Relationship,80.5,66.5,10-19
+158,Cruz,Nikolas,2/14/18,Meadow Pollack,18,Female,White,Likely,former classmate,Teacher/Classmate,79.9,61.9,10-19
+158,Cruz,Nikolas,2/14/18,Helena Ramsay,17,Female,Black,Likely,former classmate,Teacher/Classmate,75.3,58.3,10-19
+158,Cruz,Nikolas,2/14/18,Alex Schachter,14,Male,White,Likely,former classmate,Teacher/Classmate,75.5,61.5,10-19
+158,Cruz,Nikolas,2/14/18,Carmen Schentrup,16,Female,,Likely,former classmate,Teacher/Classmate,79.6,63.6,10-19
+158,Cruz,Nikolas,2/14/18,Peter Wang,15,Male,Asian,No Evidence,NA,No Relationship,74.5,59.5,10-19
+159,Davis,George,2/26/18,Cierra Bargaineer,24,Female,Black,Yes,girlfriend,Romantic Partner,73.9,49.9,20-29
+159,Davis,George,2/26/18,Raphael Hall,60,Male,Black,Yes,girlfriend's father,Other known,61.1,1.1,60-69
+159,Davis,George,2/26/18,Jamon D. Thomas,22,Male,Black,Yes,cousin,Family Member,65.2,43.2,20-29
+159,Davis,George,2/26/18,Kristin Marie Thomas,21,Female,Black,Likely,Cierra's friend,Other known,73.9,52.9,20-29
+160,Reinking,Travis,4/22/18,Akilah DaSilva,23,Male,Black,No Evidence,NA,No Relationship,65.2,42.2,20-29
+160,Reinking,Travis,4/22/18,DeEbony Groves,21,Female,Black,No Evidence,NA,No Relationship,73.9,52.9,20-29
+160,Reinking,Travis,4/22/18,Joe R. Perez,20,Male,Latinx,No Evidence,NA,No Relationship,74.1,54.1,20-29
+160,Reinking,Travis,4/22/18,Taurean C. Sanderlin,29,Male,Black,No Evidence,NA,No Relationship,64.5,35.5,20-29
+161,Pagourtzis,Dimitrios,5/18/18,Jared Black,17,Male,White,Yes,classmate,Teacher/Classmate,74.9,57.9,10-19
+161,Pagourtzis,Dimitrios,5/18/18,Shana Lorraine Fisher,16,Female,White,Yes,classmate,Teacher/Classmate,80.1,64.1,10-19
+161,Pagourtzis,Dimitrios,5/18/18,Christian Riley Garcia,15,Male,,Yes,classmate,Teacher/Classmate,74.5,59.5,10-19
+161,Pagourtzis,Dimitrios,5/18/18,Aaron Kyle McLeod,15,Male,White,Yes,classmate,Teacher/Classmate,75.1,60.1,10-19
+161,Pagourtzis,Dimitrios,5/18/18,Glenda Ann Perkins,64,Female,White,Yes,teacher,Teacher/Classmate,72.2,8.2,60-69
+161,Pagourtzis,Dimitrios,5/18/18,Angelique Ramirez,15,Female,Latinx,Yes,classmate,Teacher/Classmate,79.7,64.7,10-19
+161,Pagourtzis,Dimitrios,5/18/18,Sabika Sheikh,17,Female,Middle Eastern,Yes,classmate,Teacher/Classmate,79.5,62.5,10-19
+161,Pagourtzis,Dimitrios,5/18/18,Christopher Jake Stone,17,Male,Latinx,Yes,classmate,Teacher/Classmate,74.3,57.3,10-19
+161,Pagourtzis,Dimitrios,5/18/18,Cynthia Tisdale,63,Female,White,Yes,teacher,Teacher/Classmate,74.1,11.1,60-69
+161,Pagourtzis,Dimitrios,5/18/18,Kimberly Vaughan,14,Female,White,Yes,classmate,Teacher/Classmate,80.5,66.5,10-19
+162,Ramos,Jarrod,6/28/18,Gerald Fischman,61,Male,White,No Evidence,NA,No Relationship,67.4,6.4,60-69
+162,Ramos,Jarrod,6/28/18,Rob Hiaasen,59,Male,White,No Evidence,NA,No Relationship,67.4,8.4,50-59
+162,Ramos,Jarrod,6/28/18,John McNamara,56,Male,White,No Evidence,NA,No Relationship,67.4,11.4,50-59
+162,Ramos,Jarrod,6/28/18,Rebecca Smith,34,Female,White,No Evidence,NA,No Relationship,78.1,44.1,30-39
+162,Ramos,Jarrod,6/28/18,Wendi Winters,65,Female,White,No Evidence,NA,No Relationship,72.2,7.2,60-69
+163,Casarez,Javier,9/12/2018,Petra Maribel Bolanos de Casarez,45,Female,Latinx,Yes,ex-wife,Romantic Partner,76.6,31.6,40-49
+163,Casarez,Javier,9/12/2018,Eliseo Garcia Cazares,57,Male,Latinx,Yes,employee,Co-worker/Supervisor,66.6,9.6,50-59
+163,Casarez,Javier,9/12/2018,Manuel Contreras,50,Male,Latinx,Yes,employee,Co-worker/Supervisor,67.1,17.1,50-59
+163,Casarez,Javier,9/12/2018,Laura Garcia,31,Female,Latinx,No Evidence,employee's daughter,Other known,78.8,47.8,30-39
+163,Casarez,Javier,9/12/2018,Antonio Valadez,50,Male,Latinx,Yes,employee,Co-worker/Supervisor,67.1,17.1,50-59
+164,Bowers,Robert,10/27/18,Joyce Fienberg,75,Female,White,No Evidence,NA,No Relationship,85,10,70-79
+164,Bowers,Robert,10/27/18,Richard Gottfired,65,Male,White,No Evidence,NA,No Relationship,66.5,1.5,60-69
+164,Bowers,Robert,10/27/18,Rose Mallinger,97,Female,White,No Evidence,NA,No Relationship,87,0,80+
+164,Bowers,Robert,10/27/18,Jerry Rabinowitz,66,Male,White,No Evidence,NA,No Relationship,66.5,0.5,60-69
+164,Bowers,Robert,10/27/18,Cecil Rosenthal,59,Male,White,No Evidence,NA,No Relationship,67.4,8.4,50-59
+164,Bowers,Robert,10/27/18,David Rosenthal,54,Male,White,No Evidence,NA,No Relationship,67.4,13.4,50-59
+164,Bowers,Robert,10/27/18,Bernice Simon,84,Female,White,No Evidence,NA,No Relationship,87.9,3.9,80+
+164,Bowers,Robert,10/27/18,Sylvan Simon,86,Male,White,No Evidence,NA,No Relationship,85.8,0,80+
+164,Bowers,Robert,10/27/18,Daniel Stein,71,Male,White,No Evidence,NA,No Relationship,83,12,70-79
+164,Bowers,Robert,10/27/18,Melvin Wax,88,Male,White,No Evidence,NA,No Relationship,85.4,0,80+
+164,Bowers,Robert,10/27/18,Irving Younger,69,Male,White,No Evidence,NA,No Relationship,83,14,60-69
+165,Long,Ian David,11/7/2018,Sean Adler,48,Male,White,No Evidence,NA,No Relationship,68,20,40-49
+165,Long,Ian David,11/7/2018,Cody Gifford-Coffman,22,Male,White,No Evidence,NA,No Relationship,73.4,51.4,20-29
+165,Long,Ian David,11/7/2018,Blake Dingman,21,Male,White,No Evidence,NA,No Relationship,73.4,52.4,20-29
+165,Long,Ian David,11/7/2018,Jacob Dunham,21,Male,White,No Evidence,NA,No Relationship,73.4,52.4,20-29
+165,Long,Ian David,11/7/2018,Ron Helus,54,Male,White,No Evidence,NA,No Relationship,67.4,13.4,50-59
+165,Long,Ian David,11/7/2018,Alaina Housley,18,Female,White,No Evidence,NA,No Relationship,79.9,61.9,10-19
+165,Long,Ian David,11/7/2018,Daniel Manrique,33,Male,White,No Evidence,NA,No Relationship,72.7,39.7,30-39
+165,Long,Ian David,11/7/2018,Justin Meek,23,Male,White,No Evidence,NA,No Relationship,73.4,50.4,20-29
+165,Long,Ian David,11/7/2018,Mark Meza Jr.,20,Male,Latinx,No Evidence,NA,No Relationship,79.3,59.3,20-29
+165,Long,Ian David,11/7/2018,Kristina Morisette,20,Female,White,No Evidence,NA,No Relationship,90.9,70.9,20-29
+165,Long,Ian David,11/7/2018,Telemachus Orfanos,27,Male,White,No Evidence,NA,No Relationship,72.7,45.7,20-29
+165,Long,Ian David,11/7/2018,Noel Sparks,21,Female,White,No Evidence,NA,No Relationship,79.6,58.6,20-29
+166,Xaver,Zephen,1/23/19,Debra Cook,54,Female,White,No Evidence,NA,No Relationship,75.6,21.6,50-59
+166,Xaver,Zephen,1/23/19,Marisol Lopez,55,Female,Latinx,No Evidence,NA,No Relationship,74.1,19.1,50-59
+166,Xaver,Zephen,1/23/19,Jessica Montague,31,Female,White,No Evidence,NA,No Relationship,79.4,48.4,30-39
+166,Xaver,Zephen,1/23/19,Ana Piñon-Williams,38,Female,Latinx,No Evidence,NA,No Relationship,77.4,39.4,30-39
+166,Xaver,Zephen,1/23/19,Cynthia Lee Watson,65,Female,White,No Evidence,NA,No Relationship,72.2,7.2,60-69
+167,Martin,Gary,2/15/19,Russell Beyer,47,Male,White,Yes,coworker,Co-worker/Supervisor,68,21,40-49
+167,Martin,Gary,2/15/19,Clayton Parks,32,Male,White,Yes,supervisor,Co-worker/Supervisor,72.7,40.7,30-39
+167,Martin,Gary,2/15/19,Vicente Juarez,54,Male,Latinx,Yes,coworker,Co-worker/Supervisor,67.1,13.1,50-59
+167,Martin,Gary,2/15/19,Josh Pinkard,37,Male,White,Yes,supervisor,Co-worker/Supervisor,70.7,33.7,30-39
+167,Martin,Gary,2/15/19,Trevor Wehner,21,Male,White,No Evidence,first day on job,Co-worker/Supervisor,74.7,53.7,20-29
+168,Craddock,DeWayne,5/31/19,LaQuita Chenoah Brown,39,Female,Black,Yes,coworker,Co-worker/Supervisor,72.5,33.5,30-39
+168,Craddock,DeWayne,5/31/19,Ryan Keith Cox,50,Male,Black,Yes,coworker,Co-worker/Supervisor,60,10,50-59
+168,Craddock,DeWayne,5/31/19,Tara Welch Gallagher,39,Female,White,Yes,coworker,Co-worker/Supervisor,78.1,39.1,30-39
+168,Craddock,DeWayne,5/31/19,Mary Louise Crutsinger Gayle,65,Female,White,Yes,coworker,Co-worker/Supervisor,72.2,7.2,60-69
+168,Craddock,DeWayne,5/31/19,Alexander Mikhail Gusev,35,Male,White,Yes,coworker,Co-worker/Supervisor,70.7,35.7,30-39
+168,Craddock,DeWayne,5/31/19,Joshua Orion Hardy,52,Male,Black,Yes,coworker,Co-worker/Supervisor,60,8,50-59
+168,Craddock,DeWayne,5/31/19,"Michelle Marie ""Missy"" Langer",60,Female,White,Yes,coworker,Co-worker/Supervisor,74.1,14.1,60-69
+168,Craddock,DeWayne,5/31/19,Richard H. Nettleton,65,Male,Asian,Yes,coworker,Co-worker/Supervisor,65.6,0.6,60-69
+168,Craddock,DeWayne,5/31/19,Katherine Anne Marie Lusich-Nixon,42,Female,White,Yes,coworker,Co-worker/Supervisor,77.3,35.3,40-49
+168,Craddock,DeWayne,5/31/19,Christopher Kelly Rapp,54,Male,White,Yes,coworker,Co-worker/Supervisor,68,14,50-59
+168,Craddock,DeWayne,5/31/19,"Herbert Ray ""Bert"" Snelling",57,Male,White,No Evidence,NA,No Relationship,67.4,10.4,50-59
+168,Craddock,DeWayne,5/31/19,"Robert Thomas ""Bobby"" Williams Sr.",72,Male,White,Yes,coworker,Co-worker/Supervisor,83,11,70-79
+169,Crusius,Patrick,8/3/2019,Jordan Kae Anchondo,25,Female,White,No Evidence,NA,No Relationship,79.6,54.6,20-29
+169,Crusius,Patrick,8/3/2019,Andre Pablo Anchondo,23,Male,Latinx,No Evidence,NA,No Relationship,72.5,49.5,20-29
+169,Crusius,Patrick,8/3/2019,Arturo Benavides,60,Male,Latinx,No Evidence,NA,No Relationship,66.6,6.6,60-69
+169,Crusius,Patrick,8/3/2019,Leonardo Campos Jr.,41,Male,Latinx,No Evidence,NA,No Relationship,70,29,40-49
+169,Crusius,Patrick,8/3/2019,Maribel Hernandez,56,Female,Latinx,No Evidence,NA,No Relationship,73.1,17.1,50-59
+169,Crusius,Patrick,8/3/2019,Juan de Dios Velázquez Chairez,77,Male,Latinx,No Evidence,NA,No Relationship,83.7,6.7,70-79
+169,Crusius,Patrick,8/3/2019,Angelina Silva Englisbee,86,Female,Latinx,No Evidence,NA,No Relationship,88.8,2.8,80+
+169,Crusius,Patrick,8/3/2019,Alexander Gerhard Hoffmann Roth,66,Male,White,No Evidence,NA,No Relationship,66.5,0.5,60-69
+169,Crusius,Patrick,8/3/2019,David Alvah Johnson,63,Male,White,No Evidence,NA,No Relationship,67.4,4.4,60-69
+169,Crusius,Patrick,8/3/2019,Luis Alfonso Juarez,90,Male,Latinx,No Evidence,NA,No Relationship,86.7,0,80+
+169,Crusius,Patrick,8/3/2019,Gloria Irma Márquez Juárez,61,Female,Latinx,No Evidence,NA,No Relationship,73.1,12.1,60-69
+169,Crusius,Patrick,8/3/2019,Ivan Filiberto Manzano,46,Male,Latinx,No Evidence,NA,No Relationship,68.8,22.8,40-49
+169,Crusius,Patrick,8/3/2019,Elsa Mendoza de la Mora Márquez,57,Female,Latinx,No Evidence,NA,No Relationship,73.1,16.1,50-59
+169,Crusius,Patrick,8/3/2019,Sara Esther Regalado Moriel,66,Female,Latinx,No Evidence,NA,No Relationship,71.1,5.1,60-69
+169,Crusius,Patrick,8/3/2019,Margie Reckard,63,Female,White,No Evidence,NA,No Relationship,74.1,11.1,60-69
+169,Crusius,Patrick,8/3/2019,Javier Amir Rodriguez,15,Male,Latinx,No Evidence,NA,No Relationship,75,60,10-19
+169,Crusius,Patrick,8/3/2019,María Eugenia Legarreta Rothe,58,Female,Latinx,No Evidence,NA,No Relationship,73.1,15.1,50-59
+169,Crusius,Patrick,8/3/2019,Teresa Trinidad Sanchez Guerra,82,Female,Latinx,No Evidence,NA,No Relationship,89.2,7.2,80+
+169,Crusius,Patrick,8/3/2019,Jorge Calvillo García,61,Male,Latinx,No Evidence,NA,No Relationship,66.6,5.6,60-69
+169,Crusius,Patrick,8/3/2019,Adolfo Cerros Hernández Aguascalientes,68,Male,Latinx,No Evidence,NA,No Relationship,65.6,0,60-69
+169,Crusius,Patrick,8/3/2019,Raul Flores,83,Male,Latinx,No Evidence,NA,No Relationship,87.3,4.3,80+
+169,Crusius,Patrick,8/3/2019,Maria Flores,77,Female,Latinx,No Evidence,NA,No Relationship,86.7,9.7,70-79
+169,Crusius,Patrick,8/3/2019,Guillermo Garcia,36,Male,Latinx,No Evidence,NA,No Relationship,70,34,30-39
+170,Betts,Connor,8/4/2019,Jordan Cofer [Betts],22,Male,White,Yes,sibling,Family Member,73.4,51.4,20-29
+170,Betts,Connor,8/4/2019,Monica E. Brickhouse,39,Female,Black,No Evidence,NA,No Relationship,72.5,33.5,30-39
+170,Betts,Connor,8/4/2019,Nicholas P. Cumer,25,Male,White,No Evidence,NA,No Relationship,73.4,48.4,20-29
+170,Betts,Connor,8/4/2019,Derrick R. Fudge,57,Male,Black,No Evidence,NA,No Relationship,61.1,4.1,50-59
+170,Betts,Connor,8/4/2019,Thomas J. McNichols,25,Male,Black,No Evidence,NA,No Relationship,65.2,40.2,20-29
+170,Betts,Connor,8/4/2019,Lois L. Oglesby,27,Female,Black,No Evidence,NA,No Relationship,73.6,46.6,20-29
+170,Betts,Connor,8/4/2019,Saeed Salah,38,Male,Black,No Evidence,NA,No Relationship,63.8,25.8,30-39
+170,Betts,Connor,8/4/2019,Logan M. Turner,30,Male,White,No Evidence,NA,No Relationship,72.7,42.7,30-39
+170,Betts,Connor,8/4/2019,Beatrice N. Warren-Curtis,36,Female,Black,No Evidence,NA,No Relationship,72.5,36.5,30-39
+171,Ator,Seth,8/31/19,"Rodolfo ""Rudy"" Arco",57,Male,White,No Evidence,NA,No Relationship,67.4,10.4,50-59
+171,Ator,Seth,8/31/19,Kameron Karltess Brown,30,Male,Black,No Evidence,NA,No Relationship,64.5,34.5,30-39
+171,Ator,Seth,8/31/19,Raul Garcia,35,Male,Latinx,No Evidence,NA,No Relationship,70,35,30-39
+171,Ator,Seth,8/31/19,Mary Granados,29,Female,Latinx,No Evidence,NA,No Relationship,78.8,49.8,20-29
+171,Ator,Seth,8/31/19,Joseph Griffith,40,Male,White,No Evidence,NA,No Relationship,70.7,30.7,40-49
+171,Ator,Seth,8/31/19,Leilah Hernandez,15,Female,Latinx,No Evidence,NA,No Relationship,80.1,65.1,10-19
+171,Ator,Seth,8/31/19,Edwin Peregrino,25,Male,Latinx,No Evidence,NA,No Relationship,72.5,47.5,20-29
+"172, 173","Anderson, Graham","David, Francine",12/10/2019,Leah Mindel Ferencz,33,Female,White,No Evidence,NA,No Relationship,79.4,46.4,30-39
+"172, 173","Anderson, Graham","David, Francine",12/10/2019,Douglas Miguel Rodriguez,49,Male,Latinx,No Evidence,NA,No Relationship,67.1,18.1,40-49
+"172, 173","Anderson, Graham","David, Francine",12/10/2019,Moshe Deutsch,24,Male,White,No Evidence,NA,No Relationship,73.4,49.4,20-29
+"172, 173","Anderson, Graham","David, Francine",12/10/2019,Joseph Seals,39,Male,White,No Evidence,NA,No Relationship,70.7,31.7,30-39
+174,Ferrill,Anthony,2/26/20,Jesus Valle Jr.,33,Male,Latinx,Yes,coworker,Co-worker/Supervisor,71.8,38.8,30-39
+174,Ferrill,Anthony,2/26/20,Gennady Levshetz,61,Male,White,Yes,coworker,Co-worker/Supervisor,74.1,13.1,60-69
+174,Ferrill,Anthony,2/26/20,Trevor Wetselaar,33,Male,White,Yes,coworker,Co-worker/Supervisor,72.7,39.7,30-39
+174,Ferrill,Anthony,2/26/20,Dana Walk,57,Male,White,Yes,coworker,Co-worker/Supervisor,67.4,10.4,50-59
+174,Ferrill,Anthony,2/26/20,Dale Hudson,60,Male,White,Yes,coworker,Co-worker/Supervisor,67.4,7.4,60-69
+175,Roman,Joaquin,3/15/20,Troy D. Rapp,57,Male,White,No Evidence,NA,No Relationship,67.4,10.4,50-59
+175,Roman,Joaquin,3/15/20,Shannon Perkins,46,Male,White,No Evidence,NA,No Relationship,69.5,23.5,40-49
+175,Roman,Joaquin,3/15/20,Matthew Hicks-Morris,22,Male,White,No Evidence,NA,No Relationship,74.7,52.7,20-29
+175,Roman,Joaquin,3/15/20,Christopher Walsh,32,Male,White,No Evidence,NA,No Relationship,72.7,40.7,30-39
+176,Nightengale,Jason,1/9/2021,Yiran Fan,30,Male,Asian,No Evidence,NA,No Relationship,71.8,41.8,30-39
+176,Nightengale,Jason,1/9/2021,Aisha Johnson,46,Female,Black,No Evidence,NA,No Relationship,76.6,30.6,40-49
+176,Nightengale,Jason,1/9/2021,Anthony Faulkner Jr.,20,Male,Black,No Evidence,NA,No Relationship,74.4,54.4,20-29
+176,Nightengale,Jason,1/9/2021,Marta Torres,61,Female,Latinx,No Evidence,NA,No Relationship,73.1,12.1,60-69
+176,Nightengale,Jason,1/9/2021,Damia Smith,15,Female,Black,No Evidence,NA,No Relationship,80.6,65.6,10-19
+177,Long,Robert,3/16/21,Hyun Jung Grant,51,Female,Asian,Likely,She worked at a business he frequented,Other known,74.7,23.7,50-59
+177,Long,Robert,3/16/21,Xiaojie Tan,49,Female,Asian,Likely,shooter possibly visited the business she owned,Other known,74.7,25.7,40-49
+177,Long,Robert,3/16/21,Delaina Ashley Yaun,33,Female,White,No Evidence,NA,No Relationship,79.4,46.4,30-39
+177,Long,Robert,3/16/21,Paul Andre Michels,54,Male,White,No Evidence,NA,No Relationship,68,14,50-59
+177,Long,Robert,3/16/21,Yong Ae Yue,63,Female,Asian,Likely,She worked at a business he frequented,Other known,73.1,10.1,60-69
+177,Long,Robert,3/16/21,Suncha Kim,69,Female,Asian,Likely,She worked at a business he frequented,Other known,71.1,2.1,60-69
+177,Long,Robert,3/16/21,Soon Chung Park,74,Female,Asian,Likely,She worked at a business he frequented,Other known,71.1,0,70-79
+177,Long,Robert,3/16/21,Daoyou Feng,44,Female,Asian,Likely,He might have visited the business where she worked,Other known,76.6,32.6,40-49
+178,Alissa,Ahmad Al Aliwi,3/22/21,Eric Talley,51,Male,White,No Evidence,NA,No Relationship,67.1,16.1,50-59
+178,Alissa,Ahmad Al Aliwi,3/22/21,Denny Stong,20,Male,White,No Evidence,NA,No Relationship,74.3,54.3,20-29
+178,Alissa,Ahmad Al Aliwi,3/22/21,Neven Stanisic,23,Male,White,No Evidence,NA,No Relationship,74.1,51.1,20-29
+178,Alissa,Ahmad Al Aliwi,3/22/21,Rikki Olds,25,Female,White,No Evidence,NA,No Relationship,78.9,53.9,20-29
+178,Alissa,Ahmad Al Aliwi,3/22/21,Tralona Bartkowiak,49,Female,White,No Evidence,NA,No Relationship,74.7,25.7,40-49
+178,Alissa,Ahmad Al Aliwi,3/22/21,Suzanne Fountain,59,Female,White,No Evidence,NA,No Relationship,73.1,14.1,50-59
+178,Alissa,Ahmad Al Aliwi,3/22/21,Teri Leiker,51,Female,White,No Evidence,NA,No Relationship,74.7,23.7,50-59
+178,Alissa,Ahmad Al Aliwi,3/22/21,Kevin Mahoney,61,Male,White,No Evidence,NA,No Relationship,66.6,5.6,60-69
+178,Alissa,Ahmad Al Aliwi,3/22/21,Lynn Murray,62,Female,White,No Evidence,NA,No Relationship,73.1,11.1,60-69
+178,Alissa,Ahmad Al Aliwi,3/22/21,Jody Waters ,65,Female,White,No Evidence,NA,No Relationship,73.1,8.1,60-69
+179,Gaxiola Gonzalez,Aminadab,3/31/21,Luis Tovar,50,Male,Latinx,Yes,Professional and/or personal,Co-worker/Supervisor,67.1,17.1,50-59
+179,Gaxiola Gonzalez,Aminadab,3/31/21,Leticia Solis Guzman,58,Female,Latinx,Yes,Professional and/or personal,Co-worker/Supervisor,73.1,"15,1",50-59
+179,Gaxiola Gonzalez,Aminadab,3/31/21,Jenevieve Raygoza,28,Female,Latinx,Yes,Professional and/or personal,Co-worker/Supervisor,78.9,50.9,20-29
+179,Gaxiola Gonzalez,Aminadab,3/31/21,Matthew Farias,9,Male,Latinx,No Evidence,NA,No Relationship,76.4,67.4,0-9
+180,Hole,Brandon Scott,4/15/21,Matthew R. Alexander,32,Male,White,Likely,Possibly former co-worker,Co-worker/Supervisor,71.8,39.8,30-39
+180,Hole,Brandon Scott,4/15/21,Samaria Blackwell,19,Female,White,No Evidence,NA,No Relationship,79.6,60.6,10-19
+180,Hole,Brandon Scott,4/15/21,Amarjeet Kaur Johal,66,Female,Asian,Likely,Possibly former co-worker,Co-worker/Supervisor,73.1,7.1,60-69
+180,Hole,Brandon Scott,4/15/21,Jasvinder Kaur,50,Female,Asian,Likely,Possibly former co-worker,Co-worker/Supervisor,74.7,24.7,50-59
+180,Hole,Brandon Scott,4/15/21,Jaswinder Singh,68,Male,Asian,No Evidence,NA,No Relationship,65.6,0,60-69
+180,Hole,Brandon Scott,4/15/21,Amarjit Sekhon,48,Female,Asian,No Evidence,NA,No Relationship,76.6,28.6,40-49
+180,Hole,Brandon Scott,4/15/21,Karli Smith,19,Female,Black,No Evidence,NA,No Relationship,79.6,60.6,10-19
+180,Hole,Brandon Scott,4/15/21,John Weisert,74,Male,White,Likely,Possibly former co-worker,Co-worker/Supervisor,65.6,0,70-79
+181,Cassidy,Samuel,5/26/21,Paul Delacruz Megia,42,Male,Asian,Yes,Co-worker,Co-worker/Supervisor,70,28,40-49
+181,Cassidy,Samuel,5/26/21,Taptejdeep Singh,36,Male,Asian,Yes,Co-worker,Co-worker/Supervisor,70,34,30-39
+181,Cassidy,Samuel,5/26/21,Adrian Balleza,29,Male,Latinx,Yes,Co-worker,Co-worker/Supervisor,71.8,42.8,20-29
+181,Cassidy,Samuel,5/26/21,Jose Dejesus Hernandez III,35,Male,Latinx,Yes,Co-worker,Co-worker/Supervisor,71.8,36.8,30-39
+181,Cassidy,Samuel,5/26/21,Timothy Michael Romo,49,Male,White,Yes,Co-worker,Co-worker/Supervisor,67.1,18.1,40-49
+181,Cassidy,Samuel,5/26/21,Michael Joseph Rudometkin,40,Male,White,Yes,Co-worker,Co-worker/Supervisor,70,30,40-49
+181,Cassidy,Samuel,5/26/21,Abdolvahab Alaghmandan,63,Male,Middle Eastern,Yes,Co-worker,Co-worker/Supervisor,66.6,3.6,60-69
+181,Cassidy,Samuel,5/26/21,Lars Kepler Lane,63,Male,White,Yes,Co-worker,Co-worker/Supervisor,66.6,3.6,60-69
+181,Cassidy,Samuel,5/26/21,Alex Ward Fritch,49,Male,White,Yes,Co-worker,Co-worker/Supervisor,67.1,18.1,40-49
+182,Crumbley,Ethan,11/30/21,Tate Myre,16,Male,White,Likely,Fellow schoolmate,Teacher/Classmate,75.5,59.5,10-19
+182,Crumbley,Ethan,11/30/21,Hana St. Juliana,14,Female,Asian,Likely,Fellow schoolmate,Teacher/Classmate,80.6,66.6,10-19
+182,Crumbley,Ethan,11/30/21,Madisyn Baldwin,17,Female,White,Likely,Fellow schoolmate,Teacher/Classmate,80.5,63.5,10-19
+182,Crumbley,Ethan,11/30/21,Justin Shilling,17,Male,White,Likely,Fellow schoolmate,Teacher/Classmate,75.5,58.5,10-19
+183,McLeod,Lyndon,12/27/21,Alicia Cardenas,44,Female,Latinx,Yes,Took over tattoo parlor once failed,Other known,76.6,32.6,40-49
+183,McLeod,Lyndon,12/27/21,Alyssa Gunn,35,Female,Latinx,Yes,Worked with Cardenas,Other known,78.8,43.8,30-39
+183,McLeod,Lyndon,12/27/21,Michael Swinyard,67,Male,White,Yes,Previously worked with McLeod,Other known,66.5,0,60-69
+183,McLeod,Lyndon,12/27/21,Danny Scofield,38,Male,White,Yes,Previously worked with McLeod,Other known,70.7,32.7,30-39
+183,McLeod,Lyndon,12/27/21,Sarah Steck,28,Female,White,No Evidence,NA,No Relationship,79.6,51.6,20-29
+184,Gendron,Payton,5/14/22,Roberta A. Drury,32,Female,Black,No Evidence,NA,No Relationship,78.8,46.8,30-39
+184,Gendron,Payton,5/14/22,Margus D. Morrison,52,Female,Black,No Evidence,NA,No Relationship,74.7,22.7,50-59
+184,Gendron,Payton,5/14/22,Andre Mackniel,53,Male,Black,No Evidence,NA,No Relationship,67.1,11.1,50-59
+184,Gendron,Payton,5/14/22,Aaron Salter,55,Male,Black,No Evidence,NA,No Relationship,67.1,12.1,50-59
+184,Gendron,Payton,5/14/22,Geraldine Talley,62,Female,Black,No Evidence,NA,No Relationship,73.1,11.1,60-69
+184,Gendron,Payton,5/14/22,Celestine Chaney,65,Female,Black,No Evidence,NA,No Relationship,73.1,8.1,60-69
+184,Gendron,Payton,5/14/22,Heyward Patterson,67,Male,Black,No Evidence,NA,No Relationship,66.6,0.4,60-69
+184,Gendron,Payton,5/14/22,Katherine Massey,72,Female,Black,No Evidence,NA,No Relationship,71.1,0,70-79
+184,Gendron,Payton,5/14/22,Pearl Young,77,Female,Black,No Evidence,NA,No Relationship,71.1,0,70-79
+184,Gendron,Payton,5/14/22,Ruth Whitfield,86,Female,Black,No Evidence,NA,No Relationship,71.1,0,80+
+185,Ramos,Salvador,5/24/22,Jackie Cazares,9,Female,Latinx,No Evidence,NA,No Relationship,81.2,72.2,0-9
+185,Ramos,Salvador,5/24/22,Makenna Lee Elrod,10,Female,White,No Evidence,NA,No Relationship,81.2,71.2,10-19
+185,Ramos,Salvador,5/24/22,Jose Flores,10,Male,Latinx,No Evidence,NA,No Relationship,76.4,66.4,10-19
+185,Ramos,Salvador,5/24/22,Eliahna Garcia,9,Female,Latinx,No Evidence,NA,No Relationship,81.2,72.2,0-9
+185,Ramos,Salvador,5/24/22,Uziyah Garcia,10,Male,Latinx,No Evidence,NA,No Relationship,76.4,66.4,10-19
+185,Ramos,Salvador,5/24/22,Amerie Jo Garza,10,Female,Latinx,No Evidence,NA,No Relationship,81.2,71.2,10-19
+185,Ramos,Salvador,5/24/22,Xavier Lopez,10,Male,Latinx,No Evidence,NA,No Relationship,76.4,66.4,10-19
+185,Ramos,Salvador,5/24/22,Tess Marie Mata,10,Female,Latinx,No Evidence,NA,No Relationship,81.2,71.2,10-19
+185,Ramos,Salvador,5/24/22,Maranda Gail Mathis,11,Female,White,No Evidence,NA,No Relationship,81,70,10-19
+185,Ramos,Salvador,5/24/22,Annabelle Rodriguez,10,Female,Latinx,No Evidence,NA,No Relationship,81.2,71.2,10-19
+185,Ramos,Salvador,5/24/22,Maite Yuleana Rodriguez,10,Female,Latinx,No Evidence,NA,No Relationship,81.2,71.2,10-19
+185,Ramos,Salvador,5/24/22,Alexandria Aniyah Rubio,10,Female,Latinx,No Evidence,NA,No Relationship,81.2,71.2,10-19
+185,Ramos,Salvador,5/24/22,Layla Salazar,10,Female,Latinx,No Evidence,NA,No Relationship,81.2,71.2,10-19
+185,Ramos,Salvador,5/24/22,Jailah Silguero,10,Female,Latinx,No Evidence,NA,No Relationship,81.2,71.2,10-19
+185,Ramos,Salvador,5/24/22,Eliahana Torres,10,Female,Latinx,No Evidence,NA,No Relationship,81.2,71.2,10-19
+185,Ramos,Salvador,5/24/22,Rojelio Torres,10,Male,Latinx,No Evidence,NA,No Relationship,76.4,66.4,10-19
+185,Ramos,Salvador,5/24/22,Nevaeh Alyssa Bravo,10,Female,Latinx,No Evidence,NA,No Relationship,81.2,71.2,10-19
+185,Ramos,Salvador,5/24/22,Jayce Carmelo Luevanos,10,Male,Latinx,No Evidence,NA,No Relationship,76.4,66.4,10-19
+185,Ramos,Salvador,5/24/22,Alithia Haven Ramirez,10,Female,Latinx,No Evidence,NA,No Relationship,81.2,71.2,10-19
+185,Ramos,Salvador,5/24/22,Eva Mireles,44,Female,Latinx,No Evidence,NA,No Relationship,76.6,32.6,40-49
+185,Ramos,Salvador,5/24/22,Irma Garcia,48,Female,Latinx,No Evidence,NA,No Relationship,76.6,28.6,40-49
+186,Louis,Michael,6/1/2022,Preston Phillips,59,Male,Black,Yes,Perpetrator's doctor,Other known,61.1,2.1,50-59
+186,Louis,Michael,6/1/2022,Stephanie Husen,48,Female,White,No Evidence,NA,No Relationship,77.3,29.3,40-49
+186,Louis,Michael,6/1/2022,Amanda Glenn,40,Female,White,No Evidence,NA,No Relationship,78.1,38.1,40-49
+186,Louis,Michael,6/1/2022,William Love,73,Male,White,No Evidence,NA,No Relationship,66.5,0,70-79
+187,Crimo,Robert,7/4/2022,Katherine Goldstein,64,Female,White,No Evidence,NA,No Relationship,73.1,9.1,60-69
+187,Crimo,Robert,7/4/2022,Irina McCarthy,35,Female,White,No Evidence,NA,No Relationship,78.8,43.8,30-39
+187,Crimo,Robert,7/4/2022,Kevin McCarthy,37,Male,White,No Evidence,NA,No Relationship,71.8,34.8,30-39
+187,Crimo,Robert,7/4/2022,Stephen Strauss,88,Male,,No Evidence,NA,No Relationship,65.6,0,80+
+187,Crimo,Robert,7/4/2022,Jacquelyn Sundheim,63,Female,White,No Evidence,NA,No Relationship,73.1,10.1,60-69
+187,Crimo,Robert,7/4/2022,Nicolas Toledo-Zaragoza,78,Male,Latinx,No Evidence,NA,No Relationship,65.6,0,70-79
+187,Crimo,Robert,7/4/2022,Eduardo Uvaldo,69,Male,Latinx,No Evidence,NA,No Relationship,65.6,0,60-69
+188,Thompson,Austin,10/13/22,Nicole Connors,52,Female,Black,Likely,Lived two doors down from perpetrator ,Other known,68.3,16.3,50-59
+188,Thompson,Austin,10/13/22,Susan Karnatz,49,Female,White,Likely,neighbor,Other known,77.3,28.3,40-49
+188,Thompson,Austin,10/13/22,Mary Marshall,34,Female,White,Likely,neighbor,Other known,79.4,45.4,30-39
+188,Thompson,Austin,10/13/22,James Roger Thompson,16,Male,White,Yes,older brother,Family Member,75.8,59.8,10-19
+188,Thompson,Austin,10/13/22,Gabriel Torres,29,Male,Latinx,Likely,neighbor,Other known,72.5,43.5,20-29
+189,Aldrich,Anderson ,11/19/22,Derrick Rump,38,Male,White,No Evidence,NA,No Relationship,70.7,32.7,30-39
+189,Aldrich,Anderson ,11/19/22,Daniel Aston,28,Male,White,No Evidence,NA,No Relationship,73.4,45.4,20-29
+189,Aldrich,Anderson ,11/19/22,Kelly Loving,40,Female,White,No Evidence,NA,No Relationship,78.1,38.1,40-49
+189,Aldrich,Anderson ,11/19/22,Raymond Green Vance,22,Male,Black,No Evidence,NA,No Relationship,68.2,46.2,20-29
+189,Aldrich,Anderson ,11/19/22,Ashley Paugh,35,Female,White,No Evidence,NA,No Relationship,79.4,44.4,30-39
+190,Bing,Andre,11/22/22,Brian Pendleton,38,Male,Black,Yes,Coworker,Co-worker/Supervisor,63.8,25.8,30-39
+190,Bing,Andre,11/22/22,Kellie Pyle,52,Female,White,Yes,Coworker,Co-worker/Supervisor,75.6,23.6,50-59
+190,Bing,Andre,11/22/22,Lorenzo Gamble,43,Male,Black,Yes,Coworker,Co-worker/Supervisor,63.8,20.8,40-49
+190,Bing,Andre,11/22/22,Randy Blevins,70,Male,White,Yes,Coworker,Co-worker/Supervisor,66.5,0,70-79
+190,Bing,Andre,11/22/22,Fernando Chavez-Barron,16,Male,Latinx,Yes,Coworker,Co-worker/Supervisor,75.2,59.2,10-19
+190,Bing,Andre,11/22/22,Tyneka Johnson,22,Female,Black,Yes,Coworker,Co-worker/Supervisor,75.1,53.1,20-29
